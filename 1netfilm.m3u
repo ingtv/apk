@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://i.hizliresim.com/mmjqzrw.png
+#EXTINF:-1 tvg-logo=https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bNzCLaSM6nhDm8OTNHQwnmHMlly.jpg" tvg-name="Uçuk Bir İş 2024,
+https://v13.photour.org/v/8h7xgh40g3fp/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg" tvg-name="Roman J. Israel, Esq.  (2017)" group-title="TR | NETFLIX FILM",Roman J. Israel, Esq.  (2017)
 https://proxy.linkeddatafragments.org/http://195.62.32.117:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/371978.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mckiTP6KkAFotEVaVvr4hsYINS6.jpg" tvg-name="Mary ve Charlotte’ın Hikâyesi (2020)" group-title="TR | NETFLIX FILM",Mary ve Charlotte’ın Hikâyesi (2020)
