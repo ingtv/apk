@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://i.hizliresim.com/mmjqzrw.png
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg" tvg-name="Rol Yapma (2024)
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg" tvg-name="Rol Yapma (2024)"group-title="TR | VIZYON FILMLER",Rol Yapma (2024)
 https://v15.photour.org/v/uh2aj97yjgbp/1080.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwJrBL09kZAl7P2DQUttkPa6rob.jpg" tvg-name="Napolyon (2023) TrSub" group-title="TR | VIZYON FILMLER",Napolyon (2023) TrSub
 https://proxy.linkeddatafragments.org/http://195.62.32.117:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/380213.mkv
