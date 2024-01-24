@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
-https://i.hizliresim.com/mmjqzrw.png
+https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+#EXTINF:-1 group-title="TR | AMAZON & APPLE FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg" tvg-name="Jules (2023)" ,Jules (2023)
+https://proxy.linkeddatafragments.org/http://195.62.32.117:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/386752.mkv
+#EXTINF:-1 group-title="TR | AMAZON & APPLE FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg" tvg-name="Rol Yapma (2023)" ,Rol Yapma (2023)
+https://proxy.linkeddatafragments.org/http://195.62.32.117:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/385911.mkv
 #EXTINF:-1 group-title="TR | AMAZON & APPLE FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7BLWOWrUZICFydcwUy3b6d9DBI.jpg" tvg-name="Dangerous Waters (2023)" ,Dangerous Waters (2023)
 https://proxy.linkeddatafragments.org/http://195.62.32.117:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/368147.mkv
 #EXTINF:-1 group-title="TR | AMAZON & APPLE FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg" tvg-name="RAKİP (2023)" ,RAKİP (2023)
