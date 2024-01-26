@@ -2,15 +2,17 @@
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://i.hizliresim.com/mmjqzrw.png
 
-
-
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x82IX4hXkKcgBOlZPCFdXKERXMA.jpg" tvg-name="Ballerina" , Ballerina
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xwucpGxuDYde0pBgmB4h3LjD2Vf.jpg" tvg-name="maestro-2023" , maestro-2023
+https://sx2.rovideo.buzz/v/d/tt5535276/tr/1080.m3u8
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6TGDsFSSi0dvpcwZsjUj6LxtPY2.jpg" tvg-name="Kar Kardeşliği 2023" , Kar Kardeşliği 2023
+https://sx2.rovideo.buzz/v/d/tt16277242/tr/1080.m3u8
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x82IX4hXkKcgBOlZPCFdXKERXMA.jpg" tvg-name="Ballerina 2023" , Ballerina 2023
 https://v1.photour.org/v/s8h8tyt4rph2/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" tvg-name=" 60 Minuten" , 60 Minuten
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" tvg-name=" 60 Minuten 2023" , 60 Minuten 2023
 https://v15.photostack.net/v/25hc9qsm5yjq/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bNzCLaSM6nhDm8OTNHQwnmHMlly.jpg" tvg-name=" Uçuk Bir İş" , Uçuk Bir İş
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bNzCLaSM6nhDm8OTNHQwnmHMlly.jpg" tvg-name=" Uçuk Bir İş 2023" , Uçuk Bir İş 2023
 https://v13.photour.org/v/8h7xgh40g3fp/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg" tvg-name="From the Ashes" ,From the Ashes
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg" tvg-name="From the Ashes 2023" ,From the Ashes 2023
 https://v13.photour.org/v/obul96esaqyp/master.m3u8
 #EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg" tvg-name="The Kitchen (2023)" ,The Kitchen (2023)
 http://195.62.32.117:8080/movie/zirve181/05082021zrv181/386862.mkv
