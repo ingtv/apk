@@ -1,6 +1,15 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://i.hizliresim.com/mmjqzrw.png
+
+
+
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x82IX4hXkKcgBOlZPCFdXKERXMA.jpg" tvg-name="Ballerina" , Ballerina
+https://v1.photour.org/v/s8h8tyt4rph2/master.m3u8
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" tvg-name=" 60 Minuten" , 60 Minuten
+https://v15.photostack.net/v/25hc9qsm5yjq/master.m3u8
+#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bNzCLaSM6nhDm8OTNHQwnmHMlly.jpg" tvg-name=" Uçuk Bir İş" , Uçuk Bir İş
+https://v13.photour.org/v/8h7xgh40g3fp/master.m3u8
 #EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg" tvg-name="From the Ashes" ,From the Ashes
 https://v13.photour.org/v/obul96esaqyp/master.m3u8
 #EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg" tvg-name="The Kitchen (2023)" ,The Kitchen (2023)
