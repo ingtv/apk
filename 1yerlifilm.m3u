@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
+#EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/nasM74XXRZaoWh5ViOs7eIf5sbK.jpg" tvg-name="Kuru Otlar Üstüne 2023" ,Kuru Otlar Üstüne 2023
+https://proxy.linkeddatafragments.org/https://cdn6.video.az/storage/movie/21/21481/video.mp4
 #EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLMr79tC2GGOlv6133ibcsDtL58.jpg" tvg-name="Ah Be Birader (2022)" ,Ah Be Birader (2022)
 http://195.62.32.117:8080/movie/zirve181/05082021zrv181/387192.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VkNjU5MzQtODFkZi00ZmZiLTlhOWUtMzNjZjBhMTEwYzk4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY266_CR3,0,180,266_.jpg" tvg-name="Son Şans (2022)" ,Son Şans (2022)
