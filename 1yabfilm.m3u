@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg" tvg-name="the-lesson-2023" group-title="TR | YENI EKLENENLER",the-lesson-2023
 https://sx2.rovideo.buzz/v/d/tt20358284/tr/1080.m3u8
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg" tvg-name="Çıkmaz 2023" group-title="TR | YENI EKLENENLER",Çıkmaz 2023
@@ -15,9 +11,6 @@ https://sx2.rovideo.buzz/v/d/tt20024428/tr/1080.m3u8
 https://sx2.rovideo.buzz/v/d/tt14997890/tr/1080.m3u8
 #EXTINF:-1 tvg-logo="https://hdfilmcehennemi.cx/wp-content/uploads/2023/12/saachi-180x254.jpeg" tvg-name="Saachi" group-title="TR | YENI EKLENENLER",Saachi
 https://cdn82.trstx.org/stream/4a3190d619daca8ef3f1314597a58aaf/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1ValWW6pFbNpXQ14kerBzTEJEaOJjUo50VRNTWqVkMaRVU0klMGlmT61UP:1706268787:88.242.66.125:3f8be90617b4abdbf2e67342f5563585b977b658fa21f642bfd59f64705d726f/master/index.m3u8
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
-https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 #EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmZi0tyPFfbcCqEsJIPxVldCPOL.jpg" tvg-name="Oppenheimer (2023)" ,Oppenheimer (2023)
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228413.mkv
 #EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qEIjhaQejKc2pjPF1nT6ot7wBH.jpg" tvg-name="Stella est amoureuse - 2022" ,Stella est amoureuse - 2022
