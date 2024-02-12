@@ -1,16 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ktB7bt09HRQT701hVS8C23tkN6N.jpg" tvg-name="the-lesson-2023" group-title="TR | YENI EKLENENLER",the-lesson-2023
-https://sx2.rovideo.buzz/v/d/tt20358284/tr/1080.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg" tvg-name="Çıkmaz 2023" group-title="TR | YENI EKLENENLER",Çıkmaz 2023
-https://sx1.rovideo.buzz/v/d/tt8511466/tr/1080.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zS5fSnF5ZSjotEQI1wHJZOEm8t1.jpg" tvg-name="Tehlikeli Sular 2023" group-title="TR | YENI EKLENENLER",Tehlikeli Sular 2023
-https://sx2.rovideo.buzz/v/d/tt20024428/tr/1080.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg" tvg-name="Rol Yapma 2023" group-title="TR | YENI EKLENENLER",Rol Yapma 2023
-https://sx2.rovideo.buzz/v/d/tt14997890/tr/1080.m3u8
-#EXTINF:-1 tvg-logo="https://hdfilmcehennemi.cx/wp-content/uploads/2023/12/saachi-180x254.jpeg" tvg-name="Saachi" group-title="TR | YENI EKLENENLER",Saachi
-https://cdn82.trstx.org/stream/4a3190d619daca8ef3f1314597a58aaf/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1ValWW6pFbNpXQ14kerBzTEJEaOJjUo50VRNTWqVkMaRVU0klMGlmT61UP:1706268787:88.242.66.125:3f8be90617b4abdbf2e67342f5563585b977b658fa21f642bfd59f64705d726f/master/index.m3u8
 #EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmZi0tyPFfbcCqEsJIPxVldCPOL.jpg" tvg-name="Oppenheimer (2023)" ,Oppenheimer (2023)
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228413.mkv
 #EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qEIjhaQejKc2pjPF1nT6ot7wBH.jpg" tvg-name="Stella est amoureuse - 2022" ,Stella est amoureuse - 2022
@@ -637,6 +627,22 @@ https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkarat
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230724.mkv
 #EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tmVuix29w6RH2T09D0crzXMQj1.jpg" tvg-name="Kill Shot - 2023" ,Kill Shot - 2023
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230725.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skMvHjJWfcU2MFw4ol6a7GCjcri.jpg" tvg-name="Ölümcül Çarpışma (2023)" ,Ölümcül Çarpışma (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230880.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0m8NDhMhNFlAl6YHqNoZORAwKB.jpg" tvg-name="Les Survivants - 2023" ,Les Survivants - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230881.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xxAKEKgl3w1gbeB7oefvAdmO1K.jpg" tvg-name="Dehşetin Yüzü 2 (2023)" ,Dehşetin Yüzü 2 (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230895.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4obRUZWfQjAygC7FiDqSO1iBBm.jpg" tvg-name="The Royal Hotel (2023)" ,The Royal Hotel (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230896.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" tvg-name="Manodrome - 2023" ,Manodrome - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230897.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsOaCojcuxktg8w1UQkoFfn1y1g.jpg" tvg-name="The Jester - 2023" ,The Jester - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230906.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FZkCrm9Djs2nqA7rlrkIv6Yqkr.jpg" tvg-name="Silent Night - 2023" ,Silent Night - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230932.mkv
+#EXTINF:-1 group-title="VOD-VIZYON FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fezRPcjrd4whodnVVcFRCgDpK11.jpg" tvg-name="Scrapper - 2023" ,Scrapper - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/231397.mkv
 #EXTINF:-1 group-title="VOD-AKSIYON FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qypa99avfcYt114jMS8e8PUZLU2.jpg" tvg-name="Canavar Avcısı (2020)" ,Canavar Avcısı (2020)
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/219898.mp4
 #EXTINF:-1 group-title="VOD-AKSIYON FILM" tvg-name="uc Kral - 1999" ,uc Kral - 1999
@@ -8751,4 +8757,3 @@ https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkarat
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/123785.mkv
 #EXTINF:-1 group-title="VOD-KOMEDİ FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YoakTWMSprUgTjafioJD2BHPO9.jpg" tvg-name="Sisters - 2015" ,Sisters - 2015
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/123786.mkv
-
