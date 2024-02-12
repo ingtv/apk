@@ -1,20 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
-https://i.hizliresim.com/mmjqzrw.png
-
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xwucpGxuDYde0pBgmB4h3LjD2Vf.jpg" tvg-name="maestro-2023" , maestro-2023
-https://sx2.rovideo.buzz/v/d/tt5535276/tr/1080.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6TGDsFSSi0dvpcwZsjUj6LxtPY2.jpg" tvg-name="Kar Kardeşliği 2023" , Kar Kardeşliği 2023
-https://sx2.rovideo.buzz/v/d/tt16277242/tr/1080.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x82IX4hXkKcgBOlZPCFdXKERXMA.jpg" tvg-name="Ballerina 2023" , Ballerina 2023
-https://v1.photour.org/v/s8h8tyt4rph2/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg" tvg-name=" 60 Minuten 2023" , 60 Minuten 2023
-https://v15.photostack.net/v/25hc9qsm5yjq/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bNzCLaSM6nhDm8OTNHQwnmHMlly.jpg" tvg-name=" Uçuk Bir İş 2023" , Uçuk Bir İş 2023
-https://v13.photour.org/v/8h7xgh40g3fp/master.m3u8
-#EXTINF:-1 group-title="TR | NETFLIX FILM" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg" tvg-name="From the Ashes 2023" ,From the Ashes 2023
-https://v13.photour.org/v/obul96esaqyp/master.m3u8
-
+https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+#EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60eYZkkksgKeeAV8fAAKQslZZnH.jpg" tvg-name="Kingdom III: Kaderin Alevi (2023)" ,Kingdom III: Kaderin Alevi (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230843.mp4
 #EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0cuCy6YTYEtstaggJzEMo2tBxy.jpg" tvg-name="Kara Yengeç (2022)" ,Kara Yengeç (2022)
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230294.mkv
 #EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg" tvg-name="Eşim Gibi (2022)" ,Eşim Gibi (2022)
@@ -783,4 +771,87 @@ https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkarat
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230402.mkv
 #EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMelXG1OBTHvvIz1lpSp5m5cjv0.jpg" tvg-name="Çöl Avcıları (2024)" ,Çöl Avcıları (2024)
 https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230699.mkv
-
+#EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KnNgTPibxOAWuHh811Pq9Y7421.jpg" tvg-name="Orion ve Karanlık (2024)" ,Orion ve Karanlık (2024)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230865.mkv
+#EXTINF:-1 group-title="VOD- NETFLIX FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5uojWzwJTCHBIV3rmGPTmQG7TF.jpg" tvg-name="Lover, Stalker, Killer - 2024" ,Lover, Stalker, Killer - 2024
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/231371.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z27iBILZKi4iBLlZnjULlIGSs0.jpg" tvg-name="İstanbul İçin Son Çağrı (2023)" ,İstanbul İçin Son Çağrı (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228494.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" tvg-name="Malazgirt 1071 (2022)" ,Malazgirt 1071 (2022)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220686.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ze0foEvzoSBjRQbFxo9DlTtPZC.jpg" tvg-name="Düşeş - Mafya Sızıntısı (2023)" ,Düşeş - Mafya Sızıntısı (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/192739.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6HAFVVuhb26CajSyNIL5lIv40.jpg" tvg-name="Bergen - 2022" ,Bergen - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/188170.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://abload.de/img/mv5bmthlnmqwnmutzdk4zb5cio.jpg" tvg-name="Hava Muhalefeti (2023)" ,Hava Muhalefeti (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/219452.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" tvg-name="Ayzek ile Bir Gece (2023)" ,Ayzek ile Bir Gece (2023)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220503.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Qslo9adBC0aueLXMNCJRfdlmh.jpg" tvg-name="Kötü Adamın 10 Günü - 2023" ,Kötü Adamın 10 Günü - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/188515.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-name="Aşk Taktikleri 2 - 2023" ,Aşk Taktikleri 2 - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/157768.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/os3YzJC18qjb96531jZ9U32Ju2I.jpg" tvg-name="Kül (2024)" ,Kül (2024)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230939.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uq1qtlx90U0BrAWnpPamdPRyu0G.jpg" tvg-name="Allah Yazdıysa Bozsun - 2022" ,Allah Yazdıysa Bozsun - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230766.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg" tvg-name="İyi Adamın 10 Günü - 2023" ,İyi Adamın 10 Günü - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220502.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OtmA2wGydFg99dVotLo68GXEeJ.jpg" tvg-name="İnsanlar İkiye Ayrılır - 2021" ,İnsanlar İkiye Ayrılır - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220501.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubgYRhRm7zurFcEiDXmu3pTRRwp.jpg" tvg-name="İllegal Hayatlar - 2023" ,İllegal Hayatlar - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220500.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JySIkKN3CEpjltMqybQHpXGMQT.jpg" tvg-name="Tamirhane - 2022" ,Tamirhane - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220499.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nlUre8iL6WqrixFDiwJFuNNs79.jpg" tvg-name="Son Parti - 2022" ,Son Parti - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220498.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2OVAX58bmTqYG1B4lP802n0YNZ.jpg" tvg-name="Sen İnandır - 2023" ,Sen İnandır - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220497.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" tvg-name="Sen Yaşamaya Bak - 2022" ,Sen Yaşamaya Bak - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220496.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UgvV5Ad5X16r2HzAeEXHa4mWY3.jpg" tvg-name="Sen Ben Lenin - 2021" ,Sen Ben Lenin - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220495.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2cucFMDsyObM0rulx2veOJr6vS.jpg" tvg-name="Yıldızlar Da Kayar: Popstar - 2022" ,Yıldızlar Da Kayar: Popstar - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220494.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKL4CA8BsdDlKFiF0gaLQAYG4rp.jpg" tvg-name="Özel Ders - 2022" ,Özel Ders - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220493.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zunhe3M9PlmBS7EUP3l493kbcxE.jpg" tvg-name="Ölümlü Dünya - 2018" ,Ölümlü Dünya - 2018
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220492.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q182kKGeBOZ8Gglm3y1MURKGAz.jpg" tvg-name="Nasipse Adayız - 2020" ,Nasipse Adayız - 2020
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220491.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN81dTw0YPyYuK1Fv3VvLzquGDP.jpg" tvg-name="Müjdemi İsterim - 2022" ,Müjdemi İsterim - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220490.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykNHGS101LDiFrprD37dhGuug.jpg" tvg-name="Merve Kült - 2023" ,Merve Kült - 2023
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220489.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg" tvg-name="Beni Çok Sev - 2021" ,Beni Çok Sev - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220488.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22iaAAr3LZucqLZJ5M8w52gwNiR.jpg" tvg-name="Kağıttan Hayatlar - 2021" ,Kağıttan Hayatlar - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220487.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hf6VUePOS3syWerdJ0NGgeXx3i.jpg" tvg-name="Hazine - 2022" ,Hazine - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220486.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1WMftsN7zhPtsUwFSHtLvzN8Pb.jpg" tvg-name="GODSPEED (2020)" ,GODSPEED (2020)
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220485.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vpwW8PncqUvL4PuTOBBCOCUGqj.jpg" tvg-name="Fırtına - 2022" ,Fırtına - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220484.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzB4hGHkW4NGnjhqTSyTj9AbgGO.jpg" tvg-name="Cici - 2022" ,Cici - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220483.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvvuB4Chtxj2QA68ddBRF5BTfLF.jpg" tvg-name="Cemil Şov - 2021" ,Cemil Şov - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220482.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk2FetwV6gMMtdf5VE5dzqW4Jxg.jpg" tvg-name="Çakallarla Dans 6 - 2022" ,Çakallarla Dans 6 - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220481.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XE9hjB0XAgBSZDsQLSDJoa2HE5.jpg" tvg-name="Buğday Tanesi - 2022" ,Buğday Tanesi - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220480.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gYc7mLMN1zjDpXCJgA7UKEgeOJ.jpg" tvg-name="Barış Akarsu: Merhaba - 2022" ,Barış Akarsu: Merhaba - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220479.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VKLnyID9clsw0fEAIihH34xP4h.jpg" tvg-name="Bana Karanlığını Anlat - 2022" ,Bana Karanlığını Anlat - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220478.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDhoeAnOKY8jR6BJbhDYm3y4dT4.jpg" tvg-name="Babamın Kemanı - 2022" ,Babamın Kemanı - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220477.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFefRcNMPVB2RqLtsYFId6hwsqz.jpg" tvg-name="Azizler - 2021" ,Azizler - 2021
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220476.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mXoEX9RNsRD1bG8nmJSfhwaM3O.jpg" tvg-name="Aşk Taktikleri - 2022" ,Aşk Taktikleri - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220475.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufhbeH3KjDOwCWDp0x6Hw0GhS5U.jpg" tvg-name="Anka - 2022" ,Anka - 2022
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220474.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UMWOl3qkrMrUcltSQFZCp8c20O.jpg" tvg-name="9 Kere Leyla - 2020" ,9 Kere Leyla - 2020
+https://proxy.linkeddatafragments.org/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220473.mp4
