@@ -1,6 +1,86 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z27iBILZKi4iBLlZnjULlIGSs0.jpg" tvg-name="İstanbul İçin Son Çağrı (2023)" ,İstanbul İçin Son Çağrı (2023)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228494.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" tvg-name="Malazgirt 1071 (2022)" ,Malazgirt 1071 (2022)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220686.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ze0foEvzoSBjRQbFxo9DlTtPZC.jpg" tvg-name="Düşeş - Mafya Sızıntısı (2023)" ,Düşeş - Mafya Sızıntısı (2023)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/192739.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6HAFVVuhb26CajSyNIL5lIv40.jpg" tvg-name="Bergen - 2022" ,Bergen - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/188170.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://abload.de/img/mv5bmthlnmqwnmutzdk4zb5cio.jpg" tvg-name="Hava Muhalefeti (2023)" ,Hava Muhalefeti (2023)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/219452.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" tvg-name="Ayzek ile Bir Gece (2023)" ,Ayzek ile Bir Gece (2023)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220503.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Qslo9adBC0aueLXMNCJRfdlmh.jpg" tvg-name="Kötü Adamın 10 Günü - 2023" ,Kötü Adamın 10 Günü - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/188515.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-name="Aşk Taktikleri 2 - 2023" ,Aşk Taktikleri 2 - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/157768.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/os3YzJC18qjb96531jZ9U32Ju2I.jpg" tvg-name="Kül (2024)" ,Kül (2024)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230939.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uq1qtlx90U0BrAWnpPamdPRyu0G.jpg" tvg-name="Allah Yazdıysa Bozsun - 2022" ,Allah Yazdıysa Bozsun - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230766.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg" tvg-name="İyi Adamın 10 Günü - 2023" ,İyi Adamın 10 Günü - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220502.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OtmA2wGydFg99dVotLo68GXEeJ.jpg" tvg-name="İnsanlar İkiye Ayrılır - 2021" ,İnsanlar İkiye Ayrılır - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220501.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubgYRhRm7zurFcEiDXmu3pTRRwp.jpg" tvg-name="İllegal Hayatlar - 2023" ,İllegal Hayatlar - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220500.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JySIkKN3CEpjltMqybQHpXGMQT.jpg" tvg-name="Tamirhane - 2022" ,Tamirhane - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220499.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nlUre8iL6WqrixFDiwJFuNNs79.jpg" tvg-name="Son Parti - 2022" ,Son Parti - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220498.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2OVAX58bmTqYG1B4lP802n0YNZ.jpg" tvg-name="Sen İnandır - 2023" ,Sen İnandır - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220497.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" tvg-name="Sen Yaşamaya Bak - 2022" ,Sen Yaşamaya Bak - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220496.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UgvV5Ad5X16r2HzAeEXHa4mWY3.jpg" tvg-name="Sen Ben Lenin - 2021" ,Sen Ben Lenin - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220495.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2cucFMDsyObM0rulx2veOJr6vS.jpg" tvg-name="Yıldızlar Da Kayar: Popstar - 2022" ,Yıldızlar Da Kayar: Popstar - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220494.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKL4CA8BsdDlKFiF0gaLQAYG4rp.jpg" tvg-name="Özel Ders - 2022" ,Özel Ders - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220493.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zunhe3M9PlmBS7EUP3l493kbcxE.jpg" tvg-name="Ölümlü Dünya - 2018" ,Ölümlü Dünya - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220492.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6q182kKGeBOZ8Gglm3y1MURKGAz.jpg" tvg-name="Nasipse Adayız - 2020" ,Nasipse Adayız - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220491.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nN81dTw0YPyYuK1Fv3VvLzquGDP.jpg" tvg-name="Müjdemi İsterim - 2022" ,Müjdemi İsterim - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220490.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykNHGS101LDiFrprD37dhGuug.jpg" tvg-name="Merve Kült - 2023" ,Merve Kült - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220489.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg" tvg-name="Beni Çok Sev - 2021" ,Beni Çok Sev - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220488.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22iaAAr3LZucqLZJ5M8w52gwNiR.jpg" tvg-name="Kağıttan Hayatlar - 2021" ,Kağıttan Hayatlar - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220487.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hf6VUePOS3syWerdJ0NGgeXx3i.jpg" tvg-name="Hazine - 2022" ,Hazine - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220486.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1WMftsN7zhPtsUwFSHtLvzN8Pb.jpg" tvg-name="GODSPEED (2020)" ,GODSPEED (2020)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220485.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vpwW8PncqUvL4PuTOBBCOCUGqj.jpg" tvg-name="Fırtına - 2022" ,Fırtına - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220484.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzB4hGHkW4NGnjhqTSyTj9AbgGO.jpg" tvg-name="Cici - 2022" ,Cici - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220483.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvvuB4Chtxj2QA68ddBRF5BTfLF.jpg" tvg-name="Cemil Şov - 2021" ,Cemil Şov - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220482.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk2FetwV6gMMtdf5VE5dzqW4Jxg.jpg" tvg-name="Çakallarla Dans 6 - 2022" ,Çakallarla Dans 6 - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220481.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XE9hjB0XAgBSZDsQLSDJoa2HE5.jpg" tvg-name="Buğday Tanesi - 2022" ,Buğday Tanesi - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220480.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gYc7mLMN1zjDpXCJgA7UKEgeOJ.jpg" tvg-name="Barış Akarsu: Merhaba - 2022" ,Barış Akarsu: Merhaba - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220479.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VKLnyID9clsw0fEAIihH34xP4h.jpg" tvg-name="Bana Karanlığını Anlat - 2022" ,Bana Karanlığını Anlat - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220478.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDhoeAnOKY8jR6BJbhDYm3y4dT4.jpg" tvg-name="Babamın Kemanı - 2022" ,Babamın Kemanı - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220477.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFefRcNMPVB2RqLtsYFId6hwsqz.jpg" tvg-name="Azizler - 2021" ,Azizler - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220476.mp4
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mXoEX9RNsRD1bG8nmJSfhwaM3O.jpg" tvg-name="Aşk Taktikleri - 2022" ,Aşk Taktikleri - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220475.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufhbeH3KjDOwCWDp0x6Hw0GhS5U.jpg" tvg-name="Anka - 2022" ,Anka - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220474.mkv
+#EXTINF:-1 group-title="VOD-NETFLIX YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UMWOl3qkrMrUcltSQFZCp8c20O.jpg" tvg-name="9 Kere Leyla - 2020" ,9 Kere Leyla - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220473.mp4
 #EXTINF:-1 group-title="VOD-YERLI FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E0hT8d6LnHKWElt0H8JcW1g4hZ.jpg" tvg-name="Son Kale Hacıbey - 2020" ,Son Kale Hacıbey - 2020
 https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/230909.mkv
 #EXTINF:-1 group-title="VOD-YERLI FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtHlesiH7wuSd4B04gBoDp2KWCn.jpg" tvg-name="Dirlik Düzenlik (2020)" ,Dirlik Düzenlik (2020)
@@ -1331,3 +1411,295 @@ https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8Jdmy
 https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/97208.mkv
 #EXTINF:-1 group-title="VOD-YERLI FILMLER" tvg-name="cirak - 2016" ,cirak - 2016
 https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/97209.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKbHdw4pXs4QBsNE77LXEbJhZ7.jpg" tvg-name="Karla - 2006" ,Karla - 2006
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228426.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55bCfFegc8dTk24D6bWcjPLY8af.jpg" tvg-name="Haile: Bir Aile Kabusu - 2023" ,Haile: Bir Aile Kabusu - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/228216.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg" tvg-name="Bihter - 2023" ,Bihter - 2023
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/227997.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la8LmZSfBgGZKd7uDssR7EjAHCD.jpg" tvg-name="Son Osmanlı: Yandım Ali - 2007" ,Son Osmanlı: Yandım Ali - 2007
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/221017.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DPA1dreON7qkd9spzdFmASLoMi.jpg" tvg-name="Yok Artık! - 2015" ,Yok Artık! - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220959.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYO7rTw12fSgDTwX3wRcBWmFeTv.jpg" tvg-name="Yok Artık! 2 - 2016" ,Yok Artık! 2 - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220958.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS2seq2KjrzUim8mz3J7te2ixKw.jpg" tvg-name="Vicdan - 2008" ,Vicdan - 2008
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220947.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZcu6BV6txfXB8BX6GxuT9lfDgh.jpg" tvg-name="Unutursam Fısılda - 2014" ,Unutursam Fısılda - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220946.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45qGteFfS4IPgPzuqh0Nn2bk0vF.jpg" tvg-name="Sümela'nın Şifresi: Temel - 2011" ,Sümela'nın Şifresi: Temel - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220897.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcH1K3KbtKIfUlcaChEHfT3hdxd.jpg" tvg-name="Sümela'nın Şifresi 3: Cünyor Temel - 2017" ,Sümela'nın Şifresi 3: Cünyor Temel - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220896.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPC1HlVTq00Cle5cVvkoQ8958Iz.jpg" tvg-name="Sonsuz Aşk - 2017" ,Sonsuz Aşk - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220688.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s037M5OaXNy2zHt9GE1krHycmjh.jpg" tvg-name="Kor - 2016" ,Kor - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220687.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9EG218Ey3m4vP2I0jYsJ6X6gu2.jpg" tvg-name="Senin Hikayen - 2013" ,Senin Hikayen - 2013
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220668.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbo2AgaLvW3EAXfQHi2wOry5H0k.jpg" tvg-name="Tutmayın Beni - 2016" ,Tutmayın Beni - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220662.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygjhsV4Hoeif83yf0Evk5BKLz8D.jpg" tvg-name="Türkler Geliyor: Adaletin Kılıcı - 2020" ,Türkler Geliyor: Adaletin Kılıcı - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220661.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n9n8EzCKhLFxCzIag1esmznSuX.jpg" tvg-name="Sen Sağ Ben Selamet - 2016" ,Sen Sağ Ben Selamet - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220660.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybPBpTL8gYdKEYYedZlosD9Z3Gk.jpg" tvg-name="Şansımı Seveyim - 2017" ,Şansımı Seveyim - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220659.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/495lDj8Cne3uJzYi9ojcaW1m9H7.jpg" tvg-name="Sağ Salim 2: Sil Baştan - 2014" ,Sağ Salim 2: Sil Baştan - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220658.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ea6VTUKgsUqbTq50ohjYZ9nnji.jpg" tvg-name="Prangalı Yarim - 2018" ,Prangalı Yarim - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220657.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCcEQpKWzbTSKr50Zfcn8yD6dAC.jpg" tvg-name="Poyraz Karayel: Küresel Sermaye - 2017" ,Poyraz Karayel: Küresel Sermaye - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220656.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCgSY29xAP6zttlB6SH3scktrdj.jpg" tvg-name="Oflu Hoca'nın Şifresi - 2014" ,Oflu Hoca'nın Şifresi - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220655.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUNpfXAtghxi4CKpeswb2fURip.jpg" tvg-name="Oflu Hoca'nın Şifresi 2 - 2016" ,Oflu Hoca'nın Şifresi 2 - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220654.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzm2MLiUuW3imPpTIg8RIIHaM5G.jpg" tvg-name="Oflu Hoca Trakya'da - 2018" ,Oflu Hoca Trakya'da - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220653.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wekY6dL06Cdy1TTnXzC5ivxIpEs.jpg" tvg-name="Nereden Nereye - 2017" ,Nereden Nereye - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220652.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W3jvIDB75iE7N45aHLPrII2zOX.jpg" tvg-name="Nadide Hayat - 2015" ,Nadide Hayat - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220651.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaxhqNmqLs3OEXOQrfoFK5lnXc.jpg" tvg-name="Maide'nin Altın Günü - 2017" ,Maide'nin Altın Günü - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220650.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nycBnFhaTyOnZuCZmwtI3cJjYdW.jpg" tvg-name="Kızım ve Ben - 1988" ,Kızım ve Ben - 1988
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220649.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkSblTQYw5jwYLC2pYqgX2jyghg.jpg" tvg-name="Kaygı - 2017" ,Kaygı - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220648.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwrJpYw8iMTYoCoRHwwhFe7ZE9x.jpg" tvg-name="Kariyer - 2015" ,Kariyer - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220647.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58VhE6SG6mVX6IrTu75FsKG9RLz.jpg" tvg-name="Kardeşim Benim 2 - 2017" ,Kardeşim Benim 2 - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220646.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m04KaR9hJP8GcdX2jMOXgkmJFgg.jpg" tvg-name="Kardeşim Benim - 2016" ,Kardeşim Benim - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220645.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eFijX9yFaMxpq0ffwfOMvOlRCR.jpg" tvg-name="İkimizin Yerine - 2016" ,İkimizin Yerine - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220644.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAVJO747IJOxNS2SlsY60dKwyCv.jpg" tvg-name="Güvercin Uçuverdi - 2015" ,Güvercin Uçuverdi - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220643.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SMPKDOmCfB4XvS804LGGH1rsKm.jpg" tvg-name="Görevimiz Tatil - 2018" ,Görevimiz Tatil - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220642.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDgGuxj4INJJICZ6uNJ1ej6jCsM.jpg" tvg-name="Fırıncının Karısı - 2019" ,Fırıncının Karısı - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220641.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbvMKKyP5v5LIgNiT6qMupTZrLh.jpg" tvg-name="Dönerse Senindir - 2016" ,Dönerse Senindir - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220640.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQcyIKYpChd9SX0nRJCYxPbdblh.jpg" tvg-name="Deliormanlı - 2016" ,Deliormanlı - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220639.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr2Du53UCLF1pH5LQdy3ad9GE2D.jpg" tvg-name="Deli Deli Olma - 2009" ,Deli Deli Olma - 2009
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220638.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTRv29BNFSZaHQEsyaDt9xNBqCY.jpg" tvg-name="Dağ (2012)" ,Dağ (2012)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220637.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBJ5OaJ7imB6RXjW0JFNSxDXNR.jpg" tvg-name="Dağ II - 2016" ,Dağ II - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220636.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDIRBL31LRNU6OMWiPnN2d2oC2E.jpg" tvg-name="Bölük - 2017" ,Bölük - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220635.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLvrDxS9TJpRqD9BzcPkqErVUao.jpg" tvg-name="Bifo & CMYLMZ - 2011" ,Bifo & CMYLMZ - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220634.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55vTnlHeKDhmtFdCY04DFtqj9TY.jpg" tvg-name="Bana Masal Anlatma - 2015" ,Bana Masal Anlatma - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220633.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zl66bdyGQulg9k1A7CnZUaEwX4.jpg" tvg-name="Bana Bir Soygun Yaz 2 - 2018" ,Bana Bir Soygun Yaz 2 - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220632.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQIZElVzmtWYbrGKxN27JLMUIB1.jpg" tvg-name="Ay Lav Yu Tuu - 2017" ,Ay Lav Yu Tuu - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220631.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o4cNKTMJdfAF0H9gvcvXVybFvw.jpg" tvg-name="Aslı Gibidir - 2019" ,Aslı Gibidir - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220630.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZDcmJXmCgGgfZSxl4QPanoBA4.jpg" tvg-name="Aşk Tutulması - 2008" ,Aşk Tutulması - 2008
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220629.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCGK3mlEuYZPg2eoUXwyyuLVYTk.jpg" tvg-name="Aşk Sana Benzer - 2015" ,Aşk Sana Benzer - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220628.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac1Cwf2vBmqdn88KOivmAeR7GzV.jpg" tvg-name="Aşk Geliyorum Demez - 2009" ,Aşk Geliyorum Demez - 2009
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220627.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hwdckh2Ll73hRWB3Kr9nELAMI0.jpg" tvg-name="Aşk Çağırırsan Gelir - 2022" ,Aşk Çağırırsan Gelir - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220626.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmQDYPKNAnt5Vlrf3imr8MAD4Jw.jpg" tvg-name="Ali Kundilli - 2015" ,Ali Kundilli - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220625.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvANwir9ZKkv0iZUW7KBbCAkzSu.jpg" tvg-name="Ali Kundilli 2 - 2016" ,Ali Kundilli 2 - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220624.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFOsxJ6cQ8H4LvnOhhGl4IGct9m.jpg" tvg-name="Acı Aşk - 2009" ,Acı Aşk - 2009
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/220623.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjl9OXLsOaOMcXTuYpeM3Ze8h78.jpg" tvg-name="Anadolu Leoparı - 2022" ,Anadolu Leoparı - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/184721.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBX9POdr5m9AWRVBL3rxCtGJDCR.jpg" tvg-name="Saz (2019)" ,Saz (2019)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/184724.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axhRXdMeRUn1ZwHqfS1pAuMhFNE.jpg" tvg-name="Sibel - 2019" ,Sibel - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/184725.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOfUbzu6OUL5cscGODPdpHn9C1g.jpg" tvg-name="7. Koğuştaki Mucize - 2019" ,7. Koğuştaki Mucize - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185961.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hkFDAuvFRghQNjxeGcVXsdn5uw.jpg" tvg-name="8 Seconds - 2015" ,8 Seconds - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185962.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gQsVzMqFPGVrsUSX3geAzuipvs.jpg" tvg-name="Ağır Romantik - 2020" ,Ağır Romantik - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185963.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkoP5hEziJe1cwR56bpjMJxnGHB.jpg" tvg-name="Ailecek Şaşkınız - 2018" ,Ailecek Şaşkınız - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185964.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C4KmYpWOagIXHvHGbR8RwFxAuf.jpg" tvg-name="Aşk Bu Mu? - 2018" ,Aşk Bu Mu? - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185965.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2aDDfSBBp5zMYdI839vGnrhud5.jpg" tvg-name="Aşkın Gören Gözlere İhtiyacı Yok - 2017" ,Aşkın Gören Gözlere İhtiyacı Yok - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185966.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o4cNKTMJdfAF0H9gvcvXVybFvw.jpg" tvg-name="Aslı Gibidir - 2019" ,Aslı Gibidir - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185967.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvhKIUBsbX0v6vjCHRTzyDoK4dh.jpg" tvg-name="Aydede - 2018" ,Aydede - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185968.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SPikoRuqAujpKJbayupR7h5mkT.jpg" tvg-name="Aykut Enişte - 2019" ,Aykut Enişte - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185969.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SPikoRuqAujpKJbayupR7h5mkT.jpg" tvg-name="Aykut Enişte - 2019" ,Aykut Enişte - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185970.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtQgembIFKJcSSeuxJocOklasp.jpg" tvg-name="Ayla - 2017" ,Ayla - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185971.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FtQVAeVOvAtwoAQ3q2JgqWOVzf.jpg" tvg-name="Bandırma Füze Kulübü - 2022" ,Bandırma Füze Kulübü - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185972.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NDdIO4LhCtYgYgF0iEiAwx2vOE.jpg" tvg-name="Bayi Toplantısı - 2020" ,Bayi Toplantısı - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185973.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9Nj22Z1DX4liyyHQRRPAoVOuvq.jpg" tvg-name="Bembeyaz - 2021" ,Bembeyaz - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185974.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29yDRFkcaIDMqb4BMNzdwvzxZP3.jpg" tvg-name="Ben Böyle Şansın - 2020" ,Ben Böyle Şansın - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185975.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEmm0uwRZm78q1BTfPatRPbkJt6.jpg" tvg-name="Bende Kal - 2017" ,Bende Kal - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185976.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6894gV9WOpuqs9EbMuSxXJSIvE9.jpg" tvg-name="Berlin Kaplanı - 2012" ,Berlin Kaplanı - 2012
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185977.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HgSLITUZpLJ0iPv9bnPA3BtjjO.jpg" tvg-name="Bize Müsaade - 2021" ,Bize Müsaade - 2021
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185978.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixexR3qqahMarGl5JE32jRQnneh.jpg" tvg-name="Borç Harç - 2019" ,Borç Harç - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185979.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blh9CT9OdPvGdDD9pvpuYG8Lz0W.jpg" tvg-name="Börü - 2018" ,Börü - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185980.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLvrDxS9TJpRqD9BzcPkqErVUao.jpg" tvg-name="Bifo & CMYLMZ - 2011" ,Bifo & CMYLMZ - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185981.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/137W4b1LAJ9mNlswkjrPcLLKs4F.jpg" tvg-name="Çalgı Çengi - 2011" ,Çalgı Çengi - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185982.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvfXlgR2ZFERAFty0OAcS41PFxe.jpg" tvg-name="Çalgı Çengi: İkimiz - 2017" ,Çalgı Çengi: İkimiz - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185983.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJBE0n96hXssX38dN98dpROLSLP.jpg" tvg-name="Çat Kapı Aşk - 2019" ,Çat Kapı Aşk - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185984.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5Vkp5M4nnrwK31ZJjQQZUk7al2.jpg" tvg-name="Cicero - 2020" ,Cicero - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185985.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCzvzh6CMGLEzosZXlZdlUwZHs.jpg" tvg-name="Cici Babam - 2018" ,Cici Babam - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185986.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLn4GYsJSl9jtWz6dOlstq2GRMP.jpg" tvg-name="Cingöz Recai - 2017" ,Cingöz Recai - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185987.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbOJD4N5kK6TkKRbghFvkG5e4xX.jpg" tvg-name="Çok Filim Hareketler Bunlar - 2010" ,Çok Filim Hareketler Bunlar - 2010
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185988.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTRv29BNFSZaHQEsyaDt9xNBqCY.jpg" tvg-name="Dağ - 2012" ,Dağ - 2012
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185989.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBJ5OaJ7imB6RXjW0JFNSxDXNR.jpg" tvg-name="Dağ II - 2016" ,Dağ II - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185990.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwG2oEC5fSbRXuR55tAZQMUAfiC.jpg" tvg-name="Deliha - 2014" ,Deliha - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185991.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulVSho2mdZplxuWWBq578p7xePZ.jpg" tvg-name="Deliha 2 - 2018" ,Deliha 2 - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185992.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXRQLlxt7FMOySNQhXYRjTKjtEJ.jpg" tvg-name="Eyyvah Eyvah - 2010" ,Eyyvah Eyvah - 2010
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185993.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSnYzAh72EXNPXSjIyxd0PUwbtn.jpg" tvg-name="Eyyvah Eyvah 2 - 2011" ,Eyyvah Eyvah 2 - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185994.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QiOydS6ELD5T3cAlH6ifRG1pq1.jpg" tvg-name="Eyyvah Eyvah 3 - 2014" ,Eyyvah Eyvah 3 - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185995.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heoytIIcboUKfzUjbJchGXKWP6v.jpg" tvg-name="Fetih 1453 - 2012" ,Fetih 1453 - 2012
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185996.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE4dkwcJgOkQCsozC4F8MwZD7sE.jpg" tvg-name="Geniş Aile: Komşu Kızı - 2019" ,Geniş Aile: Komşu Kızı - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185997.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHi80csi5R2YCtfqmo6sUnL1B3x.jpg" tvg-name="Güzelliğin Portresi - 2019" ,Güzelliğin Portresi - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185998.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb5biqh5wWhI0gcnAlJVZYDmuxw.jpg" tvg-name="Hedefim Sensin - 2018" ,Hedefim Sensin - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/185999.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H2ezVIkk6Xs5GxIBN1VYku1mbU.jpg" tvg-name="Hokkabaz - 2006" ,Hokkabaz - 2006
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186000.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruB89ZLaN2wBiRhmiMmKN4kJZtW.jpg" tvg-name="Hükümet Kadın 2 - 2013" ,Hükümet Kadın 2 - 2013
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186001.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3jTOMhuqTMTyBBQxjFH8GnkNh4.jpg" tvg-name="Hükümet Kadın - 2013" ,Hükümet Kadın - 2013
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186002.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2uVBmjdwo3Wkr5Ox5nlQk8QEa.jpg" tvg-name="İncir Reçeli 2 - 2014" ,İncir Reçeli 2 - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186003.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkF7HQOxUlVmKz9UQHjUevBVZf7.jpg" tvg-name="İncir Reçeli - 2011" ,İncir Reçeli - 2011
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186004.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGiswCMgBqbMoIWEaSqvQZxEHiB.jpg" tvg-name="Kafalar Karışık - 2018" ,Kafalar Karışık - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186005.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJfR0Ys5QiHmpquiOIEirLJ8lF4.jpg" tvg-name="Karayel Poyraz - 2015" ,Karayel Poyraz - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186006.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBgvF8oTDeqcLf8D1g4xRu8nu3O.jpg" tvg-name="Karımı Gördünüz Mü? - 2018" ,Karımı Gördünüz Mü? - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186007.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RzDhR4wZXrPSqV2vsdXE4iZY4o.jpg" tvg-name="Karışık Kaset - 2014" ,Karışık Kaset - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186008.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkSblTQYw5jwYLC2pYqgX2jyghg.jpg" tvg-name="Kaygı - 2017" ,Kaygı - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186009.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3qRd14HpfIWxjm8KsjMIy8pARU.jpg" tvg-name="Kayhan - 2018" ,Kayhan - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186010.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zH8WsiDnE5lG4FlWhVitTvwzwsD.jpg" tvg-name="Kelebeğin Rüyası - 2013" ,Kelebeğin Rüyası - 2013
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186011.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pef1F3mnIF5wmZzV08ysLhkkxj.jpg" tvg-name="Kızkaçıran - 2016" ,Kızkaçıran - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186012.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9q47mJP24LdY4fPmRMAmhnO51h.jpg" tvg-name="Kolonya Cumhuriyeti - 2017" ,Kolonya Cumhuriyeti - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186013.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWlxe58BiopW4LwUqOhSddHh7Js.jpg" tvg-name="Kötü Kedi Şerafettin - 2016" ,Kötü Kedi Şerafettin - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186014.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0HEe3cnvxUijEL9RFK3MrNQrUo.jpg" tvg-name="Kızım ve Ben - 2018" ,Kızım ve Ben - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186015.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBg26UaDWpxNlqqMxUHq2yQmcbn.jpg" tvg-name="Mezarlık - 2017" ,Mezarlık - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186016.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMGEViS5R0RipKO2GZ5lWB09rpT.jpg" tvg-name="Mucize - 2015" ,Mucize - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186017.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNN8SewPcEgdwb315ucH8znzjWy.jpg" tvg-name="Mucize 2: Aşk - 2019" ,Mucize 2: Aşk - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186018.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbY2IlnNk85MqaPWgPZyJUD4vnz.jpg" tvg-name="Müslüm - 2018" ,Müslüm - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186019.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNY4KShkUGKWFB3HifWIDldG9zR.jpg" tvg-name="Neredesin Firuze - 2004" ,Neredesin Firuze - 2004
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186020.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnYI9kojZ1Pzp00SvuUVn2kIZ2y.jpg" tvg-name="Olanlar Oldu - 2017" ,Olanlar Oldu - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186021.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot6rtOMO4ZlGo1STwUIWIwxewW5.jpg" tvg-name="Öldür Beni Sevgilim - 2019" ,Öldür Beni Sevgilim - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186022.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XLZWTD0jY7C4xSDMA80gvWdnxo.jpg" tvg-name="Osman Pazarlama - 2016" ,Osman Pazarlama - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186023.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JCyHe8cSYwQpTPQ3OwxS0fI0EQ.jpg" tvg-name="Payidar: Gazi'nin Büyük Tablosu - 2022" ,Payidar: Gazi'nin Büyük Tablosu - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186024.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-name="Sekarat Son - 2016" ,Sekarat Son - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186025.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlRvvrsnjM7lObLqpqZ3BMOWenD.jpg" tvg-name="Sen Benim Her Şeyimsin - 2016" ,Sen Benim Her Şeyimsin - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186026.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpKV0gtmCxBvwMwNnFOtX2l3ZQI.jpg" tvg-name="Senarist - 2016" ,Senarist - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186027.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xh8jb4DcW2qyrQlJCAIzFLpEBT.jpg" tvg-name="Sesinde Aşk Var - 2019" ,Sesinde Aşk Var - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186028.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUERP1KP9pYfRJ6GYeVboSodKLk.jpg" tvg-name="Sevmedim Deme - 2022" ,Sevmedim Deme - 2022
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186029.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yUJTtMm0v92LltVlQNnrIiYuoU.jpg" tvg-name="Sıfır Bir - 2020" ,Sıfır Bir - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186030.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ufVRINGgMmYxlgzUHv1wzcirFM.jpg" tvg-name="Silsile - 2014" ,Silsile - 2014
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186031.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24T7YSp7KtiFATq0bm568m0tafO.jpg" tvg-name="Sir-Ayet - 2019" ,Sir-Ayet - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186032.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brsdJLvD07wChSd8TB1e1YhU9Op.jpg" tvg-name="Sir-Ayet 2 - 2019" ,Sir-Ayet 2 - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186033.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24T7YSp7KtiFATq0bm568m0tafO.jpg" tvg-name="Sir-Ayet - 2019" ,Sir-Ayet - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186034.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZsxuy1BNdwENAwQHOVxuCWgZ6F.jpg" tvg-name="Sofra Sırları - 2018" ,Sofra Sırları - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186035.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DVGq7zEbs2vKC4wo8YGykj7u5v.jpg" tvg-name="Son Şaka - 2020" ,Son Şaka - 2020
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186036.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT67211HSfHx4JSXAPyG9dOqMKX.jpg" tvg-name="Suna - 2007" ,Suna - 2007
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186037.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zYbkgqlvROkXpTJvNaRKjrUUdd.jpg" tvg-name="Tatlı Bela - 2018" ,Tatlı Bela - 2018
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186038.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSgOpHKHQW9liRxgWmKxgOaDZM.jpg" tvg-name="Türk İşi Dondurma - 2019" ,Türk İşi Dondurma - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186039.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFzRIodrDv8hGzF6GwzSJiq9BKS.jpg" tvg-name="Üç Harfliler 2: Hablis - 2015" ,Üç Harfliler 2: Hablis - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186040.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4affM8g7bt6SxpFsy8X8fXx5bN.jpg" tvg-name="Üç Harfliler 3: Karabüyü - 2016" ,Üç Harfliler 3: Karabüyü - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186041.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vjHBc39OhFcvrZLZ93Ay9QMQuV.jpg" tvg-name="Üç Harfliler: Adak - 2019" ,Üç Harfliler: Adak - 2019
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186042.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hrogqiypgekz0kj5WaRoOcxsQW.jpg" tvg-name="Üç Harfliler: Beddua (2018)" ,Üç Harfliler: Beddua (2018)
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186043.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBRIjs63OoOgkkxHGjp6HToTgyp.jpg" tvg-name="Üç Harfliler: Marid - 2010" ,Üç Harfliler: Marid - 2010
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186044.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-name="Vicdan Agaci - 2015" ,Vicdan Agaci - 2015
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186045.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9AxcdFiJTHZujXxZmygZpi7il5.jpg" tvg-name="Vizontele - 2001" ,Vizontele - 2001
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186046.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6r8dvfueBJuyB17dgoXp3Kcq2MW.jpg" tvg-name="Vizontele Tuuba - 2004" ,Vizontele Tuuba - 2004
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186047.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/981YahoG3JA1FlnfGQGJ9piPajd.jpg" tvg-name="Yaşamak Güzel Şey - 2017" ,Yaşamak Güzel Şey - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186048.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyNohLbCdMn9IZgskLwZmTX3D7X.jpg" tvg-name="Yıldızlar da Kayar: Das Borak - 2016" ,Yıldızlar da Kayar: Das Borak - 2016
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186049.mkv
+#EXTINF:-1 group-title="VOD-AMAZON YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D9ke7hhGbWzgjik5A50weIm4l8.jpg" tvg-name="İstanbul Kırmızısı - 2017" ,İstanbul Kırmızısı - 2017
+https://cors.mstore.io/http://23.146.40.157:8080/movie/denizkaratasli/RqBMQ8JdmyrK/186050.mkv
