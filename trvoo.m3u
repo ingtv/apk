@@ -1,7 +1,6 @@
-#EXTM3U
-#EXTINF:0, BEIN SPORTS 2 
-#EXTVLCOPT:network-caching=1000
-https://www.vavoo.to/play/2807188734/index.m3u8
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
+https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 #EXTINF:60, BEIN SPORTS 1 
 #EXTVLCOPT:network-caching=1000
 https://www.vavoo.to/play/3118029335/index.m3u8
@@ -41,6 +40,9 @@ https://www.vavoo.to/play/363023099/index.m3u8
 #EXTINF:0, BEIN 1 FEED (720P) 
 #EXTVLCOPT:network-caching=1000
 https://www.vavoo.to/play/3127623424/index.m3u8
+#EXTINF:0, BEIN SPORTS 2 
+#EXTVLCOPT:network-caching=1000
+https://www.vavoo.to/play/2807188734/index.m3u8
 #EXTINF:0, BEIN SPORTS 2 UHD 
 #EXTVLCOPT:network-caching=1000
 https://www.vavoo.to/play/4092279694/index.m3u8
