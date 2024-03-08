@@ -1,1121 +1,359 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhrlwkFO1pgl2abYdPj935for3P.jpg" tvg-name="A'dan Z'ye Kadar O Biçim (1975)" ,A'dan Z'ye Kadar O Biçim (1975)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122903.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgR41bgZ62zCnoIwQOZD7vSOzMr.jpg" tvg-name="Aaahh Belinda - 1986" ,Aaahh Belinda - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122904.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dvl8xuKXBAvZ4KOsaU0zweDKZH.jpg" tvg-name="Abuzer Kadayıf - 2000" ,Abuzer Kadayıf - 2000
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122905.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WmY6YTFjfpJEmJmlgFbo6sD1ua.jpg" tvg-name="Acele Koca Aranıyor - 1975" ,Acele Koca Aranıyor - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122906.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpZveDKsS8XP6jusUNSXUowtcW0.jpg" tvg-name="Acı Hayat - 1962" ,Acı Hayat - 1962
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122907.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hrnLBT5c2frnfWouUf7T3p6o33.jpg" tvg-name="Acı Lokma - 1986" ,Acı Lokma - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122908.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv5AensuacqfRq72M9qitmbVPSf.jpg" tvg-name="Adak - 1980" ,Adak - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122909.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2c84FdnTvSdsmgca68SWETOewX.jpg" tvg-name="Adalı Kız - 1976" ,Adalı Kız - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122910.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB4aLywUQ0ZnGS0tivB9h338xrI.jpg" tvg-name="Adı Vasfiye - 1985" ,Adı Vasfiye - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122911.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNB51pw1uGvRTDXe7uIAgwutQXv.jpg" tvg-name="Adile Teyze - 1983" ,Adile Teyze - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122912.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EU0BluGoB9sWfEJGKBwg5v1tFB.jpg" tvg-name="Adını Anmayacağım - 1971" ,Adını Anmayacağım - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122913.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p55mOW9Sw2dqXdwo48AS44VkBzB.jpg" tvg-name="Affedilmeyen - 1966" ,Affedilmeyen - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122914.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/487KKHkTCcn8ZXzoHsT99QscgFC.jpg" tvg-name="Ağlıyorum - 1973" ,Ağlıyorum - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122915.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvqxhiD7fLAemBmAdge5uA6zfQK.jpg" tvg-name="Ah Güzel İstanbul - 1981" ,Ah Güzel İstanbul - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122916.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mNGLfG9JH802V8FEpa6SOIQ5c.jpg" tvg-name="Ah Müjgan Ah - 1970" ,Ah Müjgan Ah - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122917.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3QPC6lIPJYN2mfNuE61lbq3RU6.jpg" tvg-name="Ah Nerede - 1975" ,Ah Nerede - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122918.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9HHfUeWvbBq9NLgv10e3DZ7ZK.jpg" tvg-name="Aile Şerefi - 1976" ,Aile Şerefi - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122919.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzTRphc9UAIvmTXPvfTCOJEDFBy.jpg" tvg-name="Akrep Yuvası - 1977" ,Akrep Yuvası - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122920.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPCJLnnpw4ZjQTLZOPJqHbS4gQm.jpg" tvg-name="Alev - 1976" ,Alev - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122921.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEhshGAqFAbgSk7nvPgc4WiGdGH.jpg" tvg-name="Alev Alev - 1984" ,Alev Alev - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122922.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYFwc8n7sZabaa2zjmR2RhnSyfY.jpg" tvg-name="Ali / Sakın Arkana Bakma - 1996" ,Ali / Sakın Arkana Bakma - 1996
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122923.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meaIz77Q0XPrKcBtBgfmeGixtl.jpg" tvg-name="Alişan - 1982" ,Alişan - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122924.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIppgDESuNF7MbO2SdzYAntvgUV.jpg" tvg-name="Almanya'da Bir Türk Kızı - 1974" ,Almanya'da Bir Türk Kızı - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122925.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZiXnrVATcgLmzbJQDlDyXRLYC5.jpg" tvg-name="Almanyalı Yarim - 1974" ,Almanyalı Yarim - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122926.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Altin Kafes - 2022" ,Altin Kafes - 2022
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122927.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEeFNENGcJH8EVmoEjUTBplWjSb.jpg" tvg-name="Aman Karım Duymasın - 1976" ,Aman Karım Duymasın - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122928.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkTPHBsxb8EUQyKs9pgsomecZQV.jpg" tvg-name="Amansız Yol - 1985" ,Amansız Yol - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122929.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5xpucMoR2myLyzPLAl6k907jUq.jpg" tvg-name="Amerikalı - 1993" ,Amerikalı - 1993
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122930.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QhFMYnyxy9yIDBUpKPeihixTqD.jpg" tvg-name="Ana Ocağı - 1977" ,Ana Ocağı - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122931.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEUGPdgeRqIwWuuiK5qm5MXV4bo.jpg" tvg-name="Anadolu Çocuğu - 1964" ,Anadolu Çocuğu - 1964
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122932.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxaqZqjh0ztb1dbhjNC2kOy1rvS.jpg" tvg-name="Anne ya da Leyla - 2006" ,Anne ya da Leyla - 2006
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122933.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL9dX738868drRRdMQ0O6XUYCtE.jpg" tvg-name="Aptal Kahraman - 1983" ,Aptal Kahraman - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122934.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpmtoPapd6XpCcB5e1p1HCCso3.jpg" tvg-name="Aptal Şampiyon - 1975" ,Aptal Şampiyon - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122935.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lrHbO9b7ikGmeFMbF3dfjY2Qxz.jpg" tvg-name="Arabesk - 1989" ,Arabesk - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122936.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Arkadasim - 1982" ,Arkadasim - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122937.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeg91DO5Tl1xPvbw6bIMIqPMFIB.jpg" tvg-name="Arkadaşım Şeytan - 1988" ,Arkadaşım Şeytan - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122938.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Asik Oldum" ,Asik Oldum
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122939.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUuaY53Mz2ufw1Xpt8f0zB5O8V4.jpg" tvg-name="Asılacak Kadın - 1986" ,Asılacak Kadın - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122940.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Asilana Kadar Yasayacaksin - 1972" ,Asilana Kadar Yasayacaksin - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122941.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2ufnCTXQmV3ILyp1jbI7lhcbeQ.jpg" tvg-name="Aşk Filmlerinin Unutulmaz Yönetmeni - 1990" ,Aşk Filmlerinin Unutulmaz Yönetmeni - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122942.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Cgs41qy1wMSGrgxbzWCGAdAQ0A.jpg" tvg-name="Aşk Mabudesi - 1969" ,Aşk Mabudesi - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122943.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfQVcNkZcJDwjIjRM4y1TslIxpK.jpg" tvg-name="Aşk Ölümden Soğuktur - 1994" ,Aşk Ölümden Soğuktur - 1994
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122944.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeL1BHMcOMqECfzYxclFN8nd51r.jpg" tvg-name="Askerin Dönüşü - 1974" ,Askerin Dönüşü - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122945.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Askin Kanunu - 1966" ,Askin Kanunu - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122946.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/252VbPKTBwZc1J7k3VirYLhow8N.jpg" tvg-name="Aşkın Zaferi - 1974" ,Aşkın Zaferi - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122947.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4m3ahSv4HXYoeGoV7hOjcF0yFz.jpg" tvg-name="Aslan Bacanak - 1977" ,Aslan Bacanak - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122948.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Ates Bocegi" ,Ates Bocegi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122949.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Ates Dagli" ,Ates Dagli
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122950.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxUb0LjBkvxx05xsz9YiS0u2bKb.jpg" tvg-name="Ateşli Çingene - 1969" ,Ateşli Çingene - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122951.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Atmaca Ali - 1976" ,Atmaca Ali - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122952.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roGY3nJf2U2gNIvhlwgG84Vrubb.jpg" tvg-name="Av Zamanı - 1988" ,Av Zamanı - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122953.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aN5Il1UrhNdgOClWWkT9LAekRo.jpg" tvg-name="Avrupalı - 2007" ,Avrupalı - 2007
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122954.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYNIpTqgFG0r6mt1O1cFS5igp0Z.jpg" tvg-name="Ay Vakti - 1994" ,Ay Vakti - 1994
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122955.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Ayipettin Semsettin - 1971" ,Ayipettin Semsettin - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122956.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GKPSoC4kzqsJS3KeHur4jmxpzy.jpg" tvg-name="Aynı Yolun Yolcusu - 1972" ,Aynı Yolun Yolcusu - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122957.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Ayri Dunyalar" ,Ayri Dunyalar
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122958.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Ayrilik Acisi - 1985" ,Ayrilik Acisi - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122959.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyzUs9YPlJohxHuLpurjVgEFvt1.jpg" tvg-name="Ayşegül - 1971" ,Ayşegül - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122960.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Aysem - 1984" ,Aysem - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122961.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n480wPxxVqgA3Nh6bo2Q0g4wRn.jpg" tvg-name="Azad Kuşu - 1972" ,Azad Kuşu - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122962.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Azap - 1987" ,Azap - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122963.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfa9UfkGbe7isVuS4UBQ6HENlUw.jpg" tvg-name="Babaların Babası - 1975" ,Babaların Babası - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122964.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Babasinin Oglu" ,Babasinin Oglu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122965.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTfrZYXb8ik1WAFqhwrtjZ4r8aQ.jpg" tvg-name="Bahriyeli Ahmet - 1963" ,Bahriyeli Ahmet - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122966.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vKRpjigWpCIQaT9TbgqTh8Zhen.jpg" tvg-name="Bak Yeşil Yeşil - 1975" ,Bak Yeşil Yeşil - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122967.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Balayi" ,Balayi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122968.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwZDR5Bw2DMkYn6CvWHV3qCo9mD.jpg" tvg-name="Baldız - 1975" ,Baldız - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122969.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0rnkXRmVW8eEWh1PfHnk4cAuPh.jpg" tvg-name="Banker Bilo - 1980" ,Banker Bilo - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122970.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Bas belasi - 1991" ,Bas belasi - 1991
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122971.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bqV6YBju7jaTsuVhSvq58tde4Z.jpg" tvg-name="Bataklıkta Bir Gül - 1983" ,Bataklıkta Bir Gül - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122972.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Batan Gunes" ,Batan Gunes
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122973.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIjBh43oMC00ePT3SCN02sfxIKE.jpg" tvg-name="Battal Gazi Destanı - 1971" ,Battal Gazi Destanı - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122974.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73HLGr5zaL0K39JE0jZak2PBnXx.jpg" tvg-name="Battal Gazi'nin İntikamı - 1973" ,Battal Gazi'nin İntikamı - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122975.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eWUocLjpKj73Bx0MRPGdLJRL2n.jpg" tvg-name="Battal Gazi'nin Oğlu - 1974" ,Battal Gazi'nin Oğlu - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122976.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s3wmR4N7Iw2s3Z1NPHQ1i59RMH.jpg" tvg-name="Ben Bir Garip Keloğlanım - 1976" ,Ben Bir Garip Keloğlanım - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122977.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wAMKOwUhpwYYjkXkUDYm7iE6lq.jpg" tvg-name="Ben Bir Kanun Kaçağıyım - 1966" ,Ben Bir Kanun Kaçağıyım - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122978.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rqSG7wf78U4niiAci0jw0QEpz4.jpg" tvg-name="Benim Gibi Sevenler - 1978" ,Benim Gibi Sevenler - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122979.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Berdus" ,Berdus
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122980.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eDT6hgyqixSWoUN11b7MeS3GwM.jpg" tvg-name="Bereketli Topraklar Üzerinde - 1980" ,Bereketli Topraklar Üzerinde - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122981.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJmKAAvQOHZtGNgoAEU2c87MVLo.jpg" tvg-name="Beş Milyoncuk Borç Verir misin - 1975" ,Beş Milyoncuk Borç Verir misin - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122982.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBInVSHiUOY5mQkR3xwqPII46F5.jpg" tvg-name="Beş Tavuk Bir Horoz - 1974" ,Beş Tavuk Bir Horoz - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122983.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq1fOgqrwyqddH5su2U3Vxrc4XZ.jpg" tvg-name="Beyoğlu Güzeli - 1972" ,Beyoğlu Güzeli - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122984.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/601UlRV2FEiGjMk7Pn0nuSEXBfr.jpg" tvg-name="Bir Dağ Masalı - 1967" ,Bir Dağ Masalı - 1967
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122985.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIJzYR9BZlCghSwmdu1bXE595Yc.jpg" tvg-name="Bir Millet Uyanıyor - 1966" ,Bir Millet Uyanıyor - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122986.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6baWIRRgQXKqKHTTNmNJdD64Qt.jpg" tvg-name="Bir Teselli Ver - 1971" ,Bir Teselli Ver - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122987.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9c6K2pstQNdOzF79f5kEfBgguy.jpg" tvg-name="Bir Yabancı - 1975" ,Bir Yabancı - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122988.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVhszOlLL61ztazrMQKEtj3W5Vc.jpg" tvg-name="Bir Yudum Mutluluk - 1982" ,Bir Yudum Mutluluk - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122989.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snaEA0uYhB9d24InbopOVmm5KuW.jpg" tvg-name="Bir Yudum Sevgi - 1984" ,Bir Yudum Sevgi - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122990.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEJG3Qx3fk99oosg5EI0fvrrKPT.jpg" tvg-name="Birleşen Yollar - 1970" ,Birleşen Yollar - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122991.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzsn7iMnNBEbGHe9gynLM8XZRm.jpg" tvg-name="Bitirimler Sosyetede - 1973" ,Bitirimler Sosyetede - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122992.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtUvdyoioTnzzmcvlJRKEMIii4.jpg" tvg-name="Biz Bir Aileyiz - 1985" ,Biz Bir Aileyiz - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122993.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" tvg-name="Bizim Aile - 1975" ,Bizim Aile - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122994.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVYhvSoQl1vDZiTRzRwHTS6jCJC.jpg" tvg-name="Bizimkiler: Hüdaverdi - Pırtık - 1971" ,Bizimkiler: Hüdaverdi - Pırtık - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122995.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJiBDZf7XdD3GIQrYuVtuoKPhET.jpg" tvg-name="Bodrum Hakimi - 1976" ,Bodrum Hakimi - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122996.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chX6a6EXoBw3Aqjkhpa4x86bq1m.jpg" tvg-name="Boş Beşik - 1969" ,Boş Beşik - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122997.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IUVhoYPBQfowX9lfbPXhIZo2yH.jpg" tvg-name="Boş Çerçeve - 1969" ,Boş Çerçeve - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122998.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2Ma27Am6tQ9ucFgh4PPjiAxhny.jpg" tvg-name="Boşver Arkadaş - 1974" ,Boşver Arkadaş - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122999.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wu2R3bKrT7B1xvKLBGrCkFOPS2n.jpg" tvg-name="Boyacı - 1966" ,Boyacı - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123000.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFka5tQbKrvK6dSPe5AN3cgnU0o.jpg" tvg-name="Boynu Bükükler - 1985" ,Boynu Bükükler - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123001.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWTEDbCFrBK13LBU0nx9dwEUsjM.jpg" tvg-name="Bulunmaz Uşak - 1963" ,Bulunmaz Uşak - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123002.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Buyuk Yemin" ,Buyuk Yemin
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123003.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeU8K5LPWCQGCTy8K6fP4QJRsaR.jpg" tvg-name="Cafer'in Çilesi - 1978" ,Cafer'in Çilesi - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123004.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sakizi" ,Sakizi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123005.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwMsyrsicBrGRsnlZkVBrL7x5A8.jpg" tvg-name="Canikom - 1979" ,Canikom - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123006.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" tvg-name="Canım Kardeşim - 1973" ,Canım Kardeşim - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123007.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFK4KbeQW7U4JpUiFVLEngnlfU1.jpg" tvg-name="Çaresiz - 1978" ,Çaresiz - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123008.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YVStj1rqJpGjBd31KQ0JHifQBi.jpg" tvg-name="Cellat - 1975" ,Cellat - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123009.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Cesme - 1977" ,Cesme - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123010.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBi8rdVNmkB5E0KTZj8b3x772Hn.jpg" tvg-name="Ceylan - 1978" ,Ceylan - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123011.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zbnuxmGXMbbOapi2g5ZVTwMJxl.jpg" tvg-name="Ceza - 1975" ,Ceza - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123012.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqPX758AtUanPnV0d3TCjpaxG3H.jpg" tvg-name="Çiçek Abbas - 1982" ,Çiçek Abbas - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123013.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRm5VkDbfQRJSp9gnQo2uBDrzkF.jpg" tvg-name="Cici Kız - 1974" ,Cici Kız - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123014.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkmxrd3iKWBAzHc9gp9QKNr1fq.jpg" tvg-name="Çil Horoz - 1986" ,Çil Horoz - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123015.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Cilali Ibo Perili Koskte1960" ,Cilali Ibo Perili Koskte1960
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123016.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Cile" ,Cile
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123017.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQbJGqP1FNz7Ad0tcjXIrhmUjuW.jpg" tvg-name="Cilveli Kız - 1969" ,Cilveli Kız - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123018.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7QRg1VkUrLnAia3PdzLsVI29Su.jpg" tvg-name="Cingöz Recai - 1954" ,Cingöz Recai - 1954
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123019.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYEv1BHssjFTgUDGv4nXxsDQUo.jpg" tvg-name="Çıplak Vatandaş - 1985" ,Çıplak Vatandaş - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123020.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Cirkinlerde Sever - 1982" ,Cirkinlerde Sever - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123021.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qa5tSXkF1DFQ0NyjSru0ouNrsdT.jpg" tvg-name="Çöl Kartalı - 1972" ,Çöl Kartalı - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123022.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKXombnZ2ntcFo9Asqc1zPfeIzO.jpg" tvg-name="Dağdan İnme - 1973" ,Dağdan İnme - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123023.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Daginik Yatak" ,Daginik Yatak
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123024.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSw6TounGSZckdC2bEhAVGz3ry7.jpg" tvg-name="Daima Kalbimdesin - 1962" ,Daima Kalbimdesin - 1962
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123025.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KrJ5wYraYCzdrMOqTppxZeUggz.jpg" tvg-name="Fiddler on the Roof - 1971" ,Fiddler on the Roof - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123026.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h877LjHySsLXBy1vXfwoRxjIYDm.jpg" tvg-name="여선생 VS 여제자 - 2004" ,여선생 VS 여제자 - 2004
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123027.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w0aNVvDdJ0pXwIRekyvtBqissj.jpg" tvg-name="Davetsiz Misafir - 1983" ,Davetsiz Misafir - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123028.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVswnWtTg4IXMwXxCGZhIYlA4wM.jpg" tvg-name="Değirmen - 1986" ,Değirmen - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123029.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YUHdDdTkHja1FjQ8idx7E7NA42.jpg" tvg-name="Deli Kan - 1981" ,Deli Kan - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123030.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohgnGXRAIeKQ3VNjDKJ4Z4vhNwL.jpg" tvg-name="Delicesine - 1976" ,Delicesine - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123031.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjuOlYFbwiq6Yxf2sswLuu7P6Mv.jpg" tvg-name="Derbeder - 1978" ,Derbeder - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123032.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xinZxWNRpHtSB0t1M2eStG8vQOS.jpg" tvg-name="Derman - 1983" ,Derman - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123033.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSMxFW4bmWYVzp2xK4892nNdeG.jpg" tvg-name="Dert Bende - 1973" ,Dert Bende - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123034.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XmOVU5oDGjfeVwp6CYiWaaGLDZ.jpg" tvg-name="Dertler Benim Olsun - 1974" ,Dertler Benim Olsun - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123035.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tB8UmOdZQMkizHkvqZgF0OV3gf.jpg" tvg-name="Derviş Bey - 1978" ,Derviş Bey - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123036.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhitigYEyemYWOY8PE64wCBMkFD.jpg" tvg-name="Derya Gülü - 1979" ,Derya Gülü - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123037.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCqzzZRpLOXQIjalwqLoFpGbKZX.jpg" tvg-name="Dev Kanı - 1984" ,Dev Kanı - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123038.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Devekusu Kabare Beyoglu Beyoglu" ,Devekusu Kabare Beyoglu Beyoglu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123039.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOI6fTzhoJT5w2sKP7TGnmImCLN.jpg" tvg-name="Devlerin Aşkı - 1976" ,Devlerin Aşkı - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123040.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIf3kWckcZdz4DJStTmzNEnTaMa.jpg" tvg-name="Dilâ Hanım - 1977" ,Dilâ Hanım - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123041.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnREeOGQYgKMCjpn4XVtuglPB9a.jpg" tvg-name="Diyet - 1974" ,Diyet - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123042.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsI52DbLHsLy6c5LmWgOdMeSBCZ.jpg" tvg-name="Doktor - 1979" ,Doktor - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123043.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" tvg-name="Dolap Beygiri - 1982" ,Dolap Beygiri - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123044.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" tvg-name="Dolap Beygiri - 1982" ,Dolap Beygiri - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123045.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w43LdVXtGhtfXQLD6hxg5p9tgX4.jpg" tvg-name="Dul Bir Kadın - 1985" ,Dul Bir Kadın - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123046.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYkhov3BeX58x8LpsNoAtcno1En.jpg" tvg-name="Düş Gezginleri - 1992" ,Düş Gezginleri - 1992
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123047.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl1H9M8dUAnFmZ5OW44FZTBIPTV.jpg" tvg-name="Düşmanlarım Çatlasın - 1974" ,Düşmanlarım Çatlasın - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123048.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNyj3YCF8q4bteMaFHCF2lWTJVN.jpg" tvg-name="Duvar - 1983" ,Duvar - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123049.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Duzen - 1978" ,Duzen - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123050.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Efkarliyim Abiler" ,Efkarliyim Abiler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123051.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RBTR49OCJ5FnDrnSkcjZOJGoWx.jpg" tvg-name="Ekmekçi Kadın - 1965" ,Ekmekçi Kadın - 1965
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123052.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ZT9BAOsXaMpLxBnxr5KKhNumA.jpg" tvg-name="Eksik Etek - 1976" ,Eksik Etek - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123053.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NMTaWidc8WyiT2gGHnie3A9ujH.jpg" tvg-name="Elveda Dostum - 1982" ,Elveda Dostum - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123054.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng2KyN5Pw1MQwBEH6dtjmM72Id3.jpg" tvg-name="Emine - 1971" ,Emine - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123055.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFLkoR5bBZlz8wXHVoHZyYHzNIj.jpg" tvg-name="Erkek Güzeli Sefil Bilo - 1979" ,Erkek Güzeli Sefil Bilo - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123056.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Erkek ve Disi" ,Erkek ve Disi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123057.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Estergon Kalesi" ,Estergon Kalesi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123058.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us1M6UBJx76P5S3ZvYKGz77BqNg.jpg" tvg-name="Evlat - 1972" ,Evlat - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123059.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us1M6UBJx76P5S3ZvYKGz77BqNg.jpg" tvg-name="Evlat - 1972" ,Evlat - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123060.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl9aXsIzYJBIcYXOEVwC29VVrae.jpg" tvg-name="Evlidir Ne Yapsa Yeridir - 1978" ,Evlidir Ne Yapsa Yeridir - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123061.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Fatmagulu Sucu Ne - 1986" ,Fatmagulu Sucu Ne - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123062.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxm8ZbPpEf2eVKzq06A44raompF.jpg" tvg-name="Fatoş Sokakların Meleği - 1971" ,Fatoş Sokakların Meleği - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123063.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ6rMzjPNyvjfqYAyszn16KH35J.jpg" tvg-name="Feride - 2020" ,Feride - 2020
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123064.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FBOVoBOm08a00rSEfJH5s6lqq.jpg" tvg-name="Feryada Gücüm Yok - 1981" ,Feryada Gücüm Yok - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123065.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZXLuoEW232xNAt2NrgFB69E8uX.jpg" tvg-name="Feryat - 1973" ,Feryat - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123066.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwVRjmEID7k1MyT6to3scU0amvJ.jpg" tvg-name="Fethin Mucizesi - 1985" ,Fethin Mucizesi - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123067.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n3WDNvr3N1I0rCF8MekEXLzdUc.jpg" tvg-name="Firar - 1984" ,Firar - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123068.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" tvg-name="First and Last - 2020" ,First and Last - 2020
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123069.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fjv0AEO9HpXS8IdR25NYCwPqRt.jpg" tvg-name="Fırtına Kemal - 1972" ,Fırtına Kemal - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123070.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8eyqJ3svhtWgsiOT2GCAi2PwBX.jpg" tvg-name="Fıstık Gibi (1970)" ,Fıstık Gibi (1970)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123071.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/au4YspqkmSJepuSYTPxWGHNR3Mr.jpg" tvg-name="Gazi Kadın - 1973" ,Gazi Kadın - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123072.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vysm1p5Yv6ilsHlwBwoLGWZ0Uc.jpg" tvg-name="Gelin - 1973" ,Gelin - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123073.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7wHEJTVsoOIXl7x8txGxR2rgUv.jpg" tvg-name="Gelincik - 2020" ,Gelincik - 2020
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123074.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Girgiriye" ,Girgiriye
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123075.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOxx2deCKxsgPcxh0cRXutzg7Vu.jpg" tvg-name="Gol - 2004" ,Gol - 2004
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123076.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qyYDgvQr4aC4jnZwEKGSbplDR.jpg" tvg-name="Gölge Oyunu - 1992" ,Gölge Oyunu - 1992
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123077.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MH5jVcQNjsMZp8Eufvg5nNUy8k.jpg" tvg-name="Gönderilmemiş Mektuplar - 2003" ,Gönderilmemiş Mektuplar - 2003
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123078.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MXDdPzhc8gdVJ4RwVSTHjr4TC1.jpg" tvg-name="Görgüsüzler (1982)" ,Görgüsüzler (1982)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123079.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XlKlxnzIsKbZEKw2U37LsasUT.jpg" tvg-name="Güler misin Ağlar mısın - 1975" ,Güler misin Ağlar mısın - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123080.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tC0bFFWyBsm4I2Se1qYTyeAxRX.jpg" tvg-name="Gülizar (1972)" ,Gülizar (1972)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123081.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp7crtjsklI4dpusgtU3uQLbril.jpg" tvg-name="Güllü Geliyor Güllü - 1973" ,Güllü Geliyor Güllü - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123082.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvzX4IQmZAilctkcIFlEbDEDQY.jpg" tvg-name="Tarkan: Gümüş Eyer - 1970" ,Tarkan: Gümüş Eyer - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123083.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlbJ2ksCusVkucSqyaG3hSyH5br.jpg" tvg-name="Gün Ortasında Karanlık - 1990" ,Gün Ortasında Karanlık - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123084.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qL6u9RLewauZWk21P5x0DqNdviM.jpg" tvg-name="Günah Bende mi? - 1969" ,Günah Bende mi? - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123085.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b6PgV3W0XsKWazLfJxBSy9NhiN.jpg" tvg-name="Günaha Girme - 1982" ,Günaha Girme - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123086.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MoBZ3ZVFLj21NfFCtvZK59J6Wy.jpg" tvg-name="Güneş Doğarken - 1984" ,Güneş Doğarken - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123087.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfMK08OCe3WGsRgs8enP7vPBY5L.jpg" tvg-name="Güngörmüşler - 1976" ,Güngörmüşler - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123088.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLmP5jDECT2W8GyJN7Iec4RHCa.jpg" tvg-name="Güzel Şoför - 1970" ,Güzel Şoför - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123089.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odAZRy6re7Sj97sqXrfe6e2Ay37.jpg" tvg-name="Hababam Sınıfı Dokuz Doğuruyor - 1979" ,Hababam Sınıfı Dokuz Doğuruyor - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123090.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4p185nAApEDZGHeqRXJON3HbEp.jpg" tvg-name="Hababam Sınıfı Güle Güle - 1981" ,Hababam Sınıfı Güle Güle - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123091.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxeOqWlpu5Gd0ZyrU53lsNKMzfJ.jpg" tvg-name="Hababam Taburu - 1975" ,Hababam Taburu - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123092.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrsEGB2stydJ8jQaoXCen5qmrV.jpg" tvg-name="Hamsi Nuri - 1971" ,Hamsi Nuri - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123093.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NEkt6mHoDzGWkQrzhYDCljMeFQ.jpg" tvg-name="Hancı - 1969" ,Hancı - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123094.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKowu9RfeknlNnjuGY2vcUH7YW4.jpg" tvg-name="Haram - 1983" ,Haram - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123095.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr9tD4bbPxOpY2aXYAtPAjiG8zL.jpg" tvg-name="Hasip ile Nasip - 1976" ,Hasip ile Nasip - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123096.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdKC7FzFXq5spRD0JiIwWkvHXX0.jpg" tvg-name="Hasret - 1974" ,Hasret - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123097.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryzHUyAFA6GJ6MzHDdcyxt8CqQT.jpg" tvg-name="Hayallerim, Aşkım ve Sen - 1987" ,Hayallerim, Aşkım ve Sen - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123098.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIgBnPGNhQmLl6SG6wkAzfDJav0.jpg" tvg-name="Hayat Bayram Olsa - 1973" ,Hayat Bayram Olsa - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123099.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Hayat Sevince Guuzel" ,Hayat Sevince Guuzel
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123100.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Hayatimizin En Guzel Yillari" ,Hayatimizin En Guzel Yillari
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123101.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYfWXh7MqAU6y8QhnvpBYevwuZE.jpg" tvg-name="Hazal - 1979" ,Hazal - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123102.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdpq1h1DOkQYeMUU2A8LlcYTcT9.jpg" tvg-name="Helal Adanalı Celal - 1965" ,Helal Adanalı Celal - 1965
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123103.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhJ9ZczSgIfVxAdA2VH1i1Lwkcd.jpg" tvg-name="Hep O Şarkı - 1965" ,Hep O Şarkı - 1965
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123104.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmJ1T3I6kuRny136s3V6JDve70j.jpg" tvg-name="Her Gönülde Bir Aslan Yatar - 1976" ,Her Gönülde Bir Aslan Yatar - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123105.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UIz4nFUnjAM0mjUknnVK6yV81f.jpg" tvg-name="Her Şeye Rağmen - 1988" ,Her Şeye Rağmen - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123106.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJeEnAhY8hRZ9T2YcuseV2F04rg.jpg" tvg-name="Herhangi Bir Kadın - 1981" ,Herhangi Bir Kadın - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123107.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BsbiMaR2YBCnCCkTSH3kbDkP0n.jpg" tvg-name="Hey Amigo: Beş Altın Mezar - 1971" ,Hey Amigo: Beş Altın Mezar - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123108.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Hinc" ,Hinc
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123109.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKFh0kfzCXDp0DtoFg9UnhU74i4.jpg" tvg-name="Huzurum Kalmadı - 1980" ,Huzurum Kalmadı - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123110.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Hz Omerin Adaleti" ,Hz Omerin Adaleti
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123111.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtfu2M67dTfeesb4VX2XIRvM2Oy.jpg" tvg-name="İffet - 1982" ,İffet - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123112.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Iisyan" ,Iisyan
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123113.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Iki Arkadas - 1976" ,Iki Arkadas - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123114.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Iliski - 1983" ,Iliski - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123115.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ncJ1Nm0CssZ6yFlmWlZkCaDYPp.jpg" tvg-name="İmparator - 1984" ,İmparator - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123116.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Insafsizlar - 1972" ,Insafsizlar - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123117.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jh1ywRKo9uOd4lrL3wmZ2bRCgb.jpg" tvg-name="İnsan Avcısı - 1975" ,İnsan Avcısı - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123118.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Insanlar Yasadikca" ,Insanlar Yasadikca
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123119.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rcCGfFuEpOXFqdrH1sowDKEgxE.jpg" tvg-name="İşte Hayat - 1975" ,İşte Hayat - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123120.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kacak" ,Kacak
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123121.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IVCblHgFZ4rAIbk1jaUhuLsCnL.jpg" tvg-name="Kader Bağlayınca - 1970" ,Kader Bağlayınca - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123122.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kaderimsin" ,Kaderimsin
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123123.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex3xBkC4hRpu7obc2PTfNBXALt2.jpg" tvg-name="Kadifeden Kesesi - 1973" ,Kadifeden Kesesi - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123124.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nY88kJIxDQBWCjseZ10IU8Rwvnh.jpg" tvg-name="Kadın Değil Baş Belası - 1968" ,Kadın Değil Baş Belası - 1968
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123125.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4vjNqv7AWbm083tHEC7CeHk0Gy.jpg" tvg-name="Kalbimin Efendisi - 1970" ,Kalbimin Efendisi - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123126.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTxk214ZhO2wEsH1zcG8Xd0J6Wz.jpg" tvg-name="Kambur - 1973" ,Kambur - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123127.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqBJswFORmnBlq0mgN41kScIYeS.jpg" tvg-name="Kanal - 1979" ,Kanal - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123128.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kanli Ask" ,Kanli Ask
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123129.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UGtiGERRr19NF9ilJ1r1k272oc.jpg" tvg-name="Kanlı Para - 1972" ,Kanlı Para - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123130.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4fMnVDGBI66OIO8oKYCH10Vl15.jpg" tvg-name="Kanun Gücü - 1979" ,Kanun Gücü - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123131.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uCzlCuKxCimWzJRouSxijBFSCg.jpg" tvg-name="Kaplanlar Ağlamaz - 1978" ,Kaplanlar Ağlamaz - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123132.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kara Gozlum - 1970" ,Kara Gozlum - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123133.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zmdn6LzqWKm7yVqx4CM7fx3go1.jpg" tvg-name="Kara Murat: Denizler Hakimi - 1977" ,Kara Murat: Denizler Hakimi - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123134.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSAzH1BbQ8sgf5mRcNHFIA9XUGY.jpg" tvg-name="Kara Murat: Devler Savaşıyor - 1978" ,Kara Murat: Devler Savaşıyor - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123135.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vATDDhYiDjYhbbctsFB0I3oFLDv.jpg" tvg-name="Kara Murat: Fatih'ın Fedaisi - 1972" ,Kara Murat: Fatih'ın Fedaisi - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123136.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHz8eOdqbs8yzkjJiuAYF5Bpw8h.jpg" tvg-name="Kara Murat: Fatih'in Fermanı - 1973" ,Kara Murat: Fatih'in Fermanı - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123137.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFbVsSUdrmrMgZ2IpYPOztTsqZD.jpg" tvg-name="Kara Murat: Ölüm Emri - 1974" ,Kara Murat: Ölüm Emri - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123138.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Karagun - 1971" ,Karagun - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123139.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52kDLPPTSDd3XcMUyB9P9IhPliA.jpg" tvg-name="Karakolda Ayna Var - 1966" ,Karakolda Ayna Var - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123140.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho0iT9Tcq1Q3ogP5clbhffWlP2t.jpg" tvg-name="Karaoğlan Geliyor: Cengizhan'ın Hazineleri - 1972" ,Karaoğlan Geliyor: Cengizhan'ın Hazineleri - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123141.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho0iT9Tcq1Q3ogP5clbhffWlP2t.jpg" tvg-name="Karaoğlan Geliyor: Cengizhan'ın Hazineleri - 1972" ,Karaoğlan Geliyor: Cengizhan'ın Hazineleri - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123142.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbdVVLW4BzX1QzK3UW5FNYoz6Ly.jpg" tvg-name="Karateci Kız - 1973" ,Karateci Kız - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123143.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koBiH0E5iwz4cvZoie1Mb0oyYhd.jpg" tvg-name="密令 - 1974" ,密令 - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123144.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gio6YFHzARVfxNxkCdrpPWO387H.jpg" tvg-name="Karılar Koğuşu - 1990" ,Karılar Koğuşu - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123145.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPo5WZ92sfoTsoCQhgyinbxk2u9.jpg" tvg-name="Kartal Bey - 1984" ,Kartal Bey - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123146.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oXL0bh0ZQKjy1YzzQ8mBgBjVWh.jpg" tvg-name="Katiller de Ağlar - 1966" ,Katiller de Ağlar - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123147.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p9P5tdZcL6vbjBfdxFHjcD0lmy.jpg" tvg-name="Katırcılar - 1987" ,Katırcılar - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123148.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOh1YTImVjIgz5692hxbOe68bo7.jpg" tvg-name="Nöri Kantar Ailesi (1975)" ,Nöri Kantar Ailesi (1975)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123149.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frWVnLFMN6iqnahSq6GNHNwRcMZ.jpg" tvg-name="Keloğlan Aramızda - 1972" ,Keloğlan Aramızda - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123150.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5LdhEEDSUwCZghVmZe36D79AZf.jpg" tvg-name="Kerem ile Aslı - 1971" ,Kerem ile Aslı - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123151.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meymWziIYGMvXiDfFC1Gce0ujC8.jpg" tvg-name="Keşanlı Ali Destanı - 1964" ,Keşanlı Ali Destanı - 1964
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123152.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9aLsWSHHFmIRVPQBW0NlJp51Px.jpg" tvg-name="Kınalı Hanzo - 1989" ,Kınalı Hanzo - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123153.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG8PjjFW9Fc4JWMVOdXEg4oH8Et.jpg" tvg-name="Kırık Bir Aşk Hikayesi - 1982" ,Kırık Bir Aşk Hikayesi - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123154.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1Y4g3C6n5pBI9fIBZsPMRLmInk.jpg" tvg-name="Kırık Plak - 1959" ,Kırık Plak - 1959
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123155.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kizgin Adam" ,Kizgin Adam
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123156.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HHixVYm5CLKMSYd3nQDTx42tfy.jpg" tvg-name="Kızıl Vazo - 1969" ,Kızıl Vazo - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123157.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kizlar Sinifi" ,Kizlar Sinifi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123158.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kocek" ,Kocek
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123159.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfklI0hDNy8gY5P3VwyXz6lh8Dm.jpg" tvg-name="Köfteci Holding - 1985" ,Köfteci Holding - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123160.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rBwb9D7Tu8iiLaaVgluzmuK5aX.jpg" tvg-name="Komşunun Tavuğu - 1965" ,Komşunun Tavuğu - 1965
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123161.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kopru" ,Kopru
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123162.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIsn4kQjbAFypwrU8ZVZSKFFPe0.jpg" tvg-name="Korkusuz Aşıklar - 1972" ,Korkusuz Aşıklar - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123163.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajbztW5OTnmNHRg4adsnuRB9mA2.jpg" tvg-name="Korkusuz Cengâver - 1976" ,Korkusuz Cengâver - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123164.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kucuk Hanimefendi" ,Kucuk Hanimefendi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123165.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Kucuk bey" ,Kucuk bey
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123166.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9IlAQcDXySBEuKP8afsG2Dq4ZX.jpg" tvg-name="Sinderella Külkedisi (1971)" ,Sinderella Külkedisi (1971)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123167.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVJnAFKOA0WlLGnbdGR2CM0wE7R.jpg" tvg-name="Kurbağalar - 1985" ,Kurbağalar - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123168.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx7PhuDIuk0mBrdjZhxXNec35IH.jpg" tvg-name="Kurşun Adres Sormaz - 1992" ,Kurşun Adres Sormaz - 1992
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123169.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfr3EtfPHnQToqLNfiFd785TJRU.jpg" tvg-name="Leyla ile Mecnun - 1983" ,Leyla ile Mecnun - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123170.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wCqT0Y7ux388dwpcBl71gPNLvD.jpg" tvg-name="Maden - 1978" ,Maden - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123171.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kttbGlhdwMt5IsN4HKsO75z9tWU.jpg" tvg-name="Mahcup Delikanlı - 1974" ,Mahcup Delikanlı - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123172.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bknx75oPNrYQzkdrXNBBtDD9TAZ.jpg" tvg-name="Malkoçoğlu: Akıncılar Geliyor - 1969" ,Malkoçoğlu: Akıncılar Geliyor - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123173.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBly2cLy5z8Cbrd0a42CLskOluV.jpg" tvg-name="Malkoçoğlu: Ölüm Fedaileri - 1972" ,Malkoçoğlu: Ölüm Fedaileri - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123174.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3TwwVyCSA7Y1npm0T1ck18hBQ.jpg" tvg-name="Malkoçoğlu ve Cem Sultan - 1970" ,Malkoçoğlu ve Cem Sultan - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123175.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6xdAxUiyAMZHTn4uwIaz0j4Hy.jpg" tvg-name="Manisa Tarzanı - 1994" ,Manisa Tarzanı - 1994
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123176.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ2jdy1xiAN5OzkiAIvmguAhFF5.jpg" tvg-name="Tarkan: Mars'ın Kılıcı - 1969" ,Tarkan: Mars'ın Kılıcı - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123177.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Mavi Mavi" ,Mavi Mavi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123178.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Mavi Mersedes" ,Mavi Mersedes
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123179.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Br5HATYkduRWw0BPt2oAptlDV9.jpg" tvg-name="Meçhul Kadın - 1970" ,Meçhul Kadın - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123180.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B2SsuiUpBbhVa72Q24v1W3lPWk.jpg" tvg-name="Medcezir Manzaraları - 1989" ,Medcezir Manzaraları - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123181.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rv9dlC61HQAXx7wYOdskO7CmnK.jpg" tvg-name="Memleketim - 1974" ,Memleketim - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123182.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDEUkPGaXhgWmhf5ZYZrfoFF1Mk.jpg" tvg-name="Menekşe Gözler - 1969" ,Menekşe Gözler - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123183.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuJnZe8chwQ84pOxcxNzhakpH8S.jpg" tvg-name="Meyhanecinin Kızı - 1958" ,Meyhanecinin Kızı - 1958
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123184.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI0XYzgX9xZyBqTjQSvKqLkTq93.jpg" tvg-name="Milyarder - 1986" ,Milyarder - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123185.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6asU8TjHqwboEgdx8ZzxjpYgS.jpg" tvg-name="Mirasyediler - 1974" ,Mirasyediler - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123186.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzEou8fTrJ3w9mqebiUfHuXPpfN.jpg" tvg-name="Muhsin Bey - 1987" ,Muhsin Bey - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123187.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1j4EkIkOrA4PLiuuukLMXZ2Uah.jpg" tvg-name="Murat ile Nazlı - 1972" ,Murat ile Nazlı - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123188.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Namus Sozu" ,Namus Sozu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123189.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnYRp7y2ZFiEAaF5kL6sLaMkt4w.jpg" tvg-name="Ne Umduk Ne Bulduk - 1976" ,Ne Umduk Ne Bulduk - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123190.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsd7KIhFwTTZpQClKH1DZ29YYb8.jpg" tvg-name="Nefret - 1984" ,Nefret - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123191.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoyvqsgfC0OdVJrDrnTVrv5eDr5.jpg" tvg-name="Nereden Çıktı Bu Velet - 1975" ,Nereden Çıktı Bu Velet - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123192.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Neseli Gunler" ,Neseli Gunler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123193.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" tvg-name="Nikah Masası - 1982" ,Nikah Masası - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123194.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/n/Niyet.jpg" tvg-name="Niyet" ,Niyet
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123195.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="O Kadin - 1988" ,O Kadin - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123196.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hkQQavVwoY474TrwFO9PdRFLRf.jpg" tvg-name="Oğlum Osman - 1973" ,Oğlum Osman - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123197.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6OTFDkrualNdEDRyqypbgqsxJ.jpg" tvg-name="Öğretmen Kemal - 1981" ,Öğretmen Kemal - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123198.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" tvg-name="Oh Olsun - 1973" ,Oh Olsun - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123199.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Oksuzler" ,Oksuzler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123200.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsAMMv5lZElhmkYDb2t2pZi3qfy.jpg" tvg-name="Ölmüş Bir Kadının Mektupları - 1969" ,Ölmüş Bir Kadının Mektupları - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123201.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Olum Yolu - 1985" ,Olum Yolu - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123202.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Olume Kosanlar - 1973" ,Olume Kosanlar - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123203.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxALsiCpHR5vyaFT170ZfBIhOvj.jpg" tvg-name="Ömrümce Unutamadım - 1971" ,Ömrümce Unutamadım - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123204.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Omrumun Tek Gecesi - 1984" ,Omrumun Tek Gecesi - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123205.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S5xyGAYTINQttRgWPtNZFPNBwj.jpg" tvg-name="Osmanlı Kartalı - 1969" ,Osmanlı Kartalı - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123206.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i9wuR6Q8abyX7l1vd3WUHKNK7e.jpg" tvg-name="Öyle Olsun - 1976" ,Öyle Olsun - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123207.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mh1HR40cS0Sxk7Tjbg9hU8mNGzK.jpg" tvg-name="Oyun Bitti - 1972" ,Oyun Bitti - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123208.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTUX4nZop1q42RQ5XSCm0XfBpKX.jpg" tvg-name="Oyunbozan - 2000" ,Oyunbozan - 2000
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123209.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28eoneS5oHXEnXh3Uvbp4peDpNO.jpg" tvg-name="Paprika Gaddar'ın Aşkı - 1973" ,Paprika Gaddar'ın Aşkı - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123210.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXmOtJpndCBMx9qRYmwMTHHP7Vk.jpg" tvg-name="Parampara - 1993" ,Parampara - 1993
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123211.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51VXzeU1kvW3qVtIOpUHTuKkl9v.jpg" tvg-name="Petrol Kralları - 1978" ,Petrol Kralları - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123212.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qX7t0vFeof9NbOSnqwp8yq49lX.jpg" tvg-name="Pir Sultan Abdal - 1973" ,Pir Sultan Abdal - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123213.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybZ5wug1ocU1v4XM9iOOWAkd7LL.jpg" tvg-name="Raziye - 1990" ,Raziye - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123214.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz7eV5ZoByrz4nmKp2S6wtkPv8f.jpg" tvg-name="Reis Bey - 1990" ,Reis Bey - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123215.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vysm1p5Yv6ilsHlwBwoLGWZ0Uc.jpg" tvg-name="Gelin - 1973" ,Gelin - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123216.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igCXEvkSV3iBO6VB8V5u2Rkg7Rk.jpg" tvg-name="Rüyalar Gerçek Olsa - 1972" ,Rüyalar Gerçek Olsa - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123217.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Girgiriyede Buyuk Secim" ,S SENER Girgiriyede Buyuk Secim
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123218.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Girgiriyede senlik Var" ,S SENER Girgiriyede senlik Var
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123219.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Gulen Gozler" ,S SENER Gulen Gozler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123220.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Hababam Sinifi Sinifta Kaldi" ,S SENER Hababam Sinifi Sinifta Kaldi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123221.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Namuslu" ,S SENER Namuslu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123222.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Neseli Gunler" ,S SENER Neseli Gunler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123223.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Sut Kardesler" ,S SENER Sut Kardesler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123224.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER Zugurt Aga" ,S SENER Zugurt Aga
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123225.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="S SENER copculer Krali" ,S SENER copculer Krali
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123226.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOggnjHxALpSvPH3TqQB1lzr5uC.jpg" tvg-name="Sabuha - 1978" ,Sabuha - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123227.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sabah Yildizi" ,Sabah Yildizi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123228.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sadri Alisik Avare" ,Sadri Alisik Avare
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123229.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkBiu1zJlPC0NDBiY5QffRvpp9k.jpg" tvg-name="Şafakta Buluşalım - 1975" ,Şafakta Buluşalım - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123230.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daxTixZs8mFlUrAM89CdVgbq6lF.jpg" tvg-name="Sahipsizler - 1974" ,Sahipsizler - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123231.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQHutmYK3Urcx5sCZuYfgesgcNR.jpg" tvg-name="Sahtekar - 1972" ,Sahtekar - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123232.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSFPjntI0qYfgR006zOeI4kJyhU.jpg" tvg-name="Şaka Yapma - 1981" ,Şaka Yapma - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123233.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40U0zAsZUB6Prjr2Zlmmz3Lty7w.jpg" tvg-name="Şalvar Bank - 1986" ,Şalvar Bank - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123234.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54Df5Uiuz2QjjNqsjnaA9jSE1qt.jpg" tvg-name="Şalvar Davası - 1983" ,Şalvar Davası - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123235.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4Kc3GRvbLUpKNgGWLF4Yzk23O2.jpg" tvg-name="Mercedes mon Amour - 1993" ,Mercedes mon Amour - 1993
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123236.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiqPihy5K7KKSWOsQWq1DxC1OGd.jpg" tvg-name="Sarı Öküz Parası - 1985" ,Sarı Öküz Parası - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123237.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" tvg-name="Sarmaş Dolaş - 1977" ,Sarmaş Dolaş - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123238.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDbgQQPVzFRDNbz7R4dcgcCET9L.jpg" tvg-name="Şaşkın Ördek - 1983" ,Şaşkın Ördek - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123239.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM8CViZvV5oVj8XCRhi3Q3nq1AP.jpg" tvg-name="Satın Alınan Koca - 1971" ,Satın Alınan Koca - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123240.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chlmx7I8XwmNMZ6z3gHTCMJitDL.jpg" tvg-name="Savulun Battal Gazi Geliyor - 1973" ,Savulun Battal Gazi Geliyor - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123241.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sayin Baskan - 1990" ,Sayin Baskan - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123242.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKRjmVdWjhfApfF2K5XmiF0oKV3.jpg" tvg-name="Şehvet Kurbanı - 1940" ,Şehvet Kurbanı - 1940
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123243.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEGSq8lAdiNAnEpjjlQouz0CRKE.jpg" tvg-name="Şekerpare - 1983" ,Şekerpare - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123244.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r00yDAQ5iHAnKmmhJIWko5mVrwn.jpg" tvg-name="Selamsız Bandosu - 1987" ,Selamsız Bandosu - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123245.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6lJj1RUKFiKz62DZ7UpxUaUh2Y.jpg" tvg-name="Selvi Boylum Al Yazmalım - 1977" ,Selvi Boylum Al Yazmalım - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123246.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VXKjMDgnV9eyz6PRgJ9Gx7HfoZ.jpg" tvg-name="Aşıksın - 1988" ,Aşıksın - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123247.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55xuw1W4Vyrie2mYKOI9j6PaXu7.jpg" tvg-name="Sen Türkülerini Söyle - 1986" ,Sen Türkülerini Söyle - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123248.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sende Yureginde Sevgiye Yer Ac - 1987" ,Sende Yureginde Sevgiye Yer Ac - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123249.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNjQEdDSp0bwqOjGfkicX0TbWb3.jpg" tvg-name="Senede Bir Gün - 1965" ,Senede Bir Gün - 1965
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123250.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Seninle Son Defa" ,Seninle Son Defa
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123251.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sensiz Yasanmaz - 1974" ,Sensiz Yasanmaz - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123252.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFS5TqQ2xSBODPxYKhKvBebU7jn.jpg" tvg-name="Sev Kardeşim - 1972" ,Sev Kardeşim - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123253.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqklogMjQFVYEFPXD8TILwFic2z.jpg" tvg-name="Sevgi Çıkmazı - 1986" ,Sevgi Çıkmazı - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123254.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ9XoCinsskRqTn5lDBfz3Bd0ht.jpg" tvg-name="Seviştiğimiz Günler - 1961" ,Seviştiğimiz Günler - 1961
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123255.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i8ABdroiopbpYNMKuioGZiJQGE.jpg" tvg-name="Sevmek - 1985" ,Sevmek - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123256.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnxQh9E0SlkbLAs9Hony5eRpSiG.jpg" tvg-name="Seyyit Han - 1968" ,Seyyit Han - 1968
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123257.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PkVTtDW7kK1NQoIg5Exn2I0opO.jpg" tvg-name="Silah Arkadaşları - 1978" ,Silah Arkadaşları - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123258.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xamWO8AGDZTEBqR4oDS8JntYc0Y.jpg" tvg-name="Sinema Bir Mucizedir - 2005" ,Sinema Bir Mucizedir - 2005
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123259.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sofor Nebahat - 1970" ,Sofor Nebahat - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123260.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sofor Nebahat" ,Sofor Nebahat
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123261.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Sokaktan Gelen Kadin1984" ,Sokaktan Gelen Kadin1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123262.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvEsoFkUmXP7ZxDETzIKnb8ReDS.jpg" tvg-name="Son Beste - 1955" ,Son Beste - 1955
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123263.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTNfEYBXip9JFaSMM8B9qKYnsMV.jpg" tvg-name="Son Cellat - 2008" ,Son Cellat - 2008
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123264.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsgz3tiiqXWnnM6AXVnyLTvHx5w.jpg" tvg-name="Son Hıçkırık - 1971" ,Son Hıçkırık - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123265.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efhdaIjMIdJcqylQTasn9ODDqdo.jpg" tvg-name="Sonbahar Rüzgarları - 1969" ,Sonbahar Rüzgarları - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123266.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Soz Mudafanin - 1970" ,Soz Mudafanin - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123267.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvfp8k0x2BC2M2qOcZxmFiEk4Sn.jpg" tvg-name="Sultan - 1978" ,Sultan - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123268.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LB4Sg7yDEXVKt3QqpmNd8fl2lD.jpg" tvg-name="Sultan Gelin - 1973" ,Sultan Gelin - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123269.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvfp8k0x2BC2M2qOcZxmFiEk4Sn.jpg" tvg-name="Sultan - 1978" ,Sultan - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123270.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJlcOm822DgG2WhoPvXXbZLsawf.jpg" tvg-name="Sultanoğlu - 1986" ,Sultanoğlu - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123271.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDwKSNiu5djXqvaSbatG5Tx8RHv.jpg" tvg-name="Süreyya - 1972" ,Süreyya - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123272.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Surtuk" ,Surtuk
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123273.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Tacsiz Kral" ,Tacsiz Kral
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123274.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Taksi Soforu - 1976" ,Taksi Soforu - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123275.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RKQ8nhpUS71NlRwCOxoQQPlTj6.jpg" tvg-name="Talihsiz Yavrum - 1974" ,Talihsiz Yavrum - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123276.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Tanri-misafiri-film-1972.jpg" tvg-name="Tanrı Misafiri" ,Tanrı Misafiri
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123277.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKMy1LgsjbUlmc7pvnIBfKPuRHD.jpg" tvg-name="Tarkan: Altın Madalyon - 1973" ,Tarkan: Altın Madalyon - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123278.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ5Qi2TkpFzL7iH0I31Ol2ZI99n.jpg" tvg-name="Tarkan: Güçlü Kahraman - 1973" ,Tarkan: Güçlü Kahraman - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123279.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKm9CWtpQ2LVAHa6RKOgkCOh0uY.jpg" tvg-name="Tatar Ramazan - 1990" ,Tatar Ramazan - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123280.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vop3WXH8dEZx9H5thO9BEZIjVBM.jpg" tvg-name="Tatar Ramazan Sürgünde - 1992" ,Tatar Ramazan Sürgünde - 1992
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123281.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4X1Pd7jbvmdZzeIYnauECcLAVB.jpg" tvg-name="Tatlı Nigâr - 1978" ,Tatlı Nigâr - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123282.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IQJ5OksQp4YxJjNkVjfWINNNa6.jpg" tvg-name="Tomruk - 1982" ,Tomruk - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123283.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qedv32HFfWg3uyoTitHq0rciGvs.jpg" tvg-name="Toprak Ana - 1973" ,Toprak Ana - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123284.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Tosun ile Yosun - 1963" ,Tosun ile Yosun - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123285.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4e4dPk2HlL0H4rP4XRtxFaVO4B.jpg" tvg-name="Toto Kralı - 1971" ,Toto Kralı - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123286.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Tovbe - 1982" ,Tovbe - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123287.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2Iag9rlLsMHB0h7TFs5Lr96G0a.jpg" tvg-name="Tövbekar - 1977" ,Tövbekar - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123288.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIn3JsInc307EXR3MESJa8yKhUH.jpg" tvg-name="Turist Ömer Arabistan'da - 1969" ,Turist Ömer Arabistan'da - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123289.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQ5erPTlvd5syGqBy9uSO9dDSf.jpg" tvg-name="Turist Ömer Boğa Güreşçisi - 1971" ,Turist Ömer Boğa Güreşçisi - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123290.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrjrtZBNKY1JODCCZZRVVxPWFOh.jpg" tvg-name="Turist Ömer Uzay Yolunda - 1973" ,Turist Ömer Uzay Yolunda - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123291.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4aI2BTJNJ4FF8uq9cfjGXxW5FA.jpg" tvg-name="Turist Ömer Yamyamlar Arasında - 1970" ,Turist Ömer Yamyamlar Arasında - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123292.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7IW2vGiy1d3RU4ITdS9SjAeaRZ.jpg" tvg-name="Turist Ömer - 1964" ,Turist Ömer - 1964
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123293.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBCETLPR6aOmv1niysqm8fcP2wU.jpg" tvg-name="Tutku - 1984" ,Tutku - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123294.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Uc Arkadas - 1958" ,Uc Arkadas - 1958
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123295.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Uc Kagitcilar - 1976" ,Uc Kagitcilar - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123296.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SlaRmAixlsaOIWukD0dMb3x9Xu.jpg" tvg-name="Üç Tekerlekli Bisiklet - 1962" ,Üç Tekerlekli Bisiklet - 1962
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123297.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E3p7EdX7NVey2haH23FXY4njnP.jpg" tvg-name="Uçurtmayı Vurmasınlar - 1989" ,Uçurtmayı Vurmasınlar - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123298.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JMUQG3OCbXBo6Uvf5vRMre6vT5.jpg" tvg-name="Umut Dünyası - 1973" ,Umut Dünyası - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123299.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2TCHG3nc9B9KsIpWF2WtADyaoa.jpg" tvg-name="Umut Sokağı - 1986" ,Umut Sokağı - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123300.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VEqjNU4EB76TGSB8busKfxNXgT.jpg" tvg-name="Umut - 1970" ,Umut - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123301.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhxLjIatHLO8BssY8gSFYy48J5m.jpg" tvg-name="Umutsuzlar - 1971" ,Umutsuzlar - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123302.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8dLchw0IzzRJiC8o8ph7cLJxa5.jpg" tvg-name="Uyanık Kardeşler - 1974" ,Uyanık Kardeşler - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123303.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pC1qUMdquWMSxGe1gxOa3juvr.jpg" tvg-name="Vahşi Gelin - 1978" ,Vahşi Gelin - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123304.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swqGOzls4phOUvmZ83APubKxsD3.jpg" tvg-name="Vahşi Sevgili - 1977" ,Vahşi Sevgili - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123305.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cD2XmBLnkVCXYhNWxLCXi6cv1Y2.jpg" tvg-name="Vatan ve Namık Kemal - 1969" ,Vatan ve Namık Kemal - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123306.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI8hKKMr3ZAdHqLANYHPV6DnXs1.jpg" tvg-name="Tarkan: Viking Kanı (1971)" ,Tarkan: Viking Kanı (1971)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123307.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RjrkaFW3vjhCWhtBPtoal81iel.jpg" tvg-name="Vurguncular - 1971" ,Vurguncular - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123308.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5I3f26IWlGDDCSxGRPODVv8V6.jpg" tvg-name="Vurmayın - 1987" ,Vurmayın - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123309.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oDaBQ0D06uYK9W3XgCMKTaKkgM.jpg" tvg-name="Vurun Kahpeye - 1973" ,Vurun Kahpeye - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123310.avi
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyVu8Owt3vO5r7Irqe7Zepj1G6K.jpg" tvg-name="Yadeller - 1979" ,Yadeller - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123311.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Yagmur" ,Yagmur
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123312.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fjT62AIEAavZmRzNWQs14Fmu6l.jpg" tvg-name="Yalancı Yarim - 1973" ,Yalancı Yarim - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123313.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sib12QDC9qRPerbb75bsN0SOYDF.jpg" tvg-name="Yarım Kalan Saadet - 1970" ,Yarım Kalan Saadet - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123314.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sib12QDC9qRPerbb75bsN0SOYDF.jpg" tvg-name="Yarım Kalan Saadet - 1970" ,Yarım Kalan Saadet - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123315.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Yarin Yarin - 1987" ,Yarin Yarin - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123316.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Yarin Yarin" ,Yarin Yarin
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123317.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZEON9r1YrLZuqriVLZt7GflCAg.jpg" tvg-name="Yatık Emine - 1975" ,Yatık Emine - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123318.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDC6rxDp0ptD7VCkNFM08hC8jFn.jpg" tvg-name="Yaz Bekarı - 1974" ,Yaz Bekarı - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123319.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghpUPe98nCfj65o053HpACsIpm3.jpg" tvg-name="Yedi Evlat İki Damat - 1973" ,Yedi Evlat İki Damat - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123320.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Yikilan Gurur - 1967" ,Yikilan Gurur - 1967
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123321.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Yilanlarin Ocu - 1962" ,Yilanlarin Ocu - 1962
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123322.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkP9WhDHsmyk4OESZe8uJgLsP2L.jpg" tvg-name="Yırtık Niyazi - 1971" ,Yırtık Niyazi - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123323.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UaAS707iiNxoH7bDAx26crZxyy.jpg" tvg-name="Yol - 1982" ,Yol - 1982
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123324.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2bQcrEXp2AEhfmnMR3rWlfnefb.jpg" tvg-name="Yosma - 1984" ,Yosma - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123325.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptlxpB5SONX2gGCkunS0R5MTt0T.jpg" tvg-name="Yumurcak - 1961" ,Yumurcak - 1961
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123326.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dISfgG12zEwL2A8uj810xI99IE.jpg" tvg-name="Yumurcak Köprüaltı Çocuğu - 1970" ,Yumurcak Köprüaltı Çocuğu - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123327.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKQe4XQwEZIXAK9xymj3cb2ZGcW.jpg" tvg-name="Yürek Yarası - 1983" ,Yürek Yarası - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123328.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" tvg-name="Zambaklar Açarken" ,Zambaklar Açarken
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123329.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE64lyySlMzbcsep8fzOiaQCT5H.jpg" tvg-name="Zavallılar - 1974" ,Zavallılar - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123330.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihdZ8N7eRArcY74jmoopR6SfnXc.jpg" tvg-name="Zehra - 1972" ,Zehra - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123331.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVxLFzasmeStyBIswVaPC8xkTPR.jpg" tvg-name="Zengin Mutfağı - 1988" ,Zengin Mutfağı - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123332.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7sJrsHQBaav2A7g5n65UDfO4Db.jpg" tvg-name="Zilli Nazife - 1967" ,Zilli Nazife - 1967
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123333.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="Zulum - 1983" ,Zulum - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123334.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkuSCt5rEJmrc0hT8pPEFzlEjyR.jpg" tvg-name="İkizler - 1985" ,İkizler - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123335.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jh1ywRKo9uOd4lrL3wmZ2bRCgb.jpg" tvg-name="İnsan Avcısı - 1975" ,İnsan Avcısı - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123336.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L7yCRUUmztNiX0bbiELgoOS1WL.jpg" tvg-name="Ölü Bir Deniz - 1989" ,Ölü Bir Deniz - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123337.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkBiu1zJlPC0NDBiY5QffRvpp9k.jpg" tvg-name="Şafakta Buluşalım - 1975" ,Şafakta Buluşalım - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123338.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="yesilcam bitirim kardesler" ,yesilcam bitirim kardesler
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123339.mkv
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="yesilcam kalbimdeki aci" ,yesilcam kalbimdeki aci
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123340.mp4
-#EXTINF:-1 group-title="VOD-YESILCAM FILMLER" tvg-name="yesilcam tatli dilim" ,yesilcam tatli dilim
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123341.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-name="Abuk" ,Abuk
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122769.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aKakykUVDoHDhpYbeTaN3l0Hd7.jpg" tvg-name="Atla Gel Şaban - 1984" ,Atla Gel Şaban - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122770.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ju1Oe7kThHQi7c7DW0SwKdY9B8.jpg" tvg-name="Avanak Apdi - 1978" ,Avanak Apdi - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122771.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5ON4Kt6g2JPoc33t9BlGQmJw6B.jpg" tvg-name="Bekçiler Kralı - 1979" ,Bekçiler Kralı - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122772.avi
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sho8Z6H4og6aeoFryLlKP3eYwwK.jpg" tvg-name="Bıçkın - 1988" ,Bıçkın - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122773.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psXdyP6s4jUjrMfrH9xn2qxxM1H.jpg" tvg-name="Boynu Bükük Küheylan - 1990" ,Boynu Bükük Küheylan - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122774.avi
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsxt2inqv3z0aTBKAMhVfptra0w.jpg" tvg-name="Çarıklı Milyoner - 1983" ,Çarıklı Milyoner - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122775.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NaOyliycB7vHTvyLFUxhVbPa8.jpg" tvg-name="Çöpçüler Kralı - 1977" ,Çöpçüler Kralı - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122776.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cokQm5fGn2iyVIJtsAdv3b984os.jpg" tvg-name="Davaro - 1981" ,Davaro - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122777.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" tvg-name="Deli Deli Küpeli - 1986" ,Deli Deli Küpeli - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122778.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGVUhprj37iXoSEK4MtzJKd2vRi.jpg" tvg-name="Devlet Kuşu - 1980" ,Devlet Kuşu - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122779.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeaocfWyVGYHrTmvbJoWW68yNg.jpg" tvg-name="Doktor Civanım - 1983" ,Doktor Civanım - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122780.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3SZWUKTX9sT81qKuR6QxX0s6jA.jpg" tvg-name="Düttürü Dünya - 1988" ,Düttürü Dünya - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122781.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg" tvg-name="En Büyük Şaban - 1983" ,En Büyük Şaban - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122782.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beRuuXKvZPXDQtV8GugVcHKQ2li.jpg" tvg-name="Garip - 1986" ,Garip - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122783.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IBVcS5swjGTzjq3VcXwQsC0YRK.jpg" tvg-name="Gerzek Şaban - 1980" ,Gerzek Şaban - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122784.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAyTDnniLcRPEr8jNSVdLK9grb.jpg" tvg-name="Gol Kralı - 1980" ,Gol Kralı - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122785.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8XMEbfgExJmBVSfGLAdyIN07l.jpg" tvg-name="Gönül Hırsızı - 1972" ,Gönül Hırsızı - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122786.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" tvg-name="Gülen Adam - 1989" ,Gülen Adam - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122787.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sunrV0T3pg5jfVOBVDeLCo3ZcQ8.jpg" tvg-name="Gurbetçi Şaban - 1985" ,Gurbetçi Şaban - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122788.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3lKxO16uCOktLRiEhLilOSVEW.jpg" tvg-name="Hanzo - 1975" ,Hanzo - 1975
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122789.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTj5YwUMDA0hrGPdfSI1GTXlCjJ.jpg" tvg-name="İnek Şaban - 1979" ,İnek Şaban - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122790.avi
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td8P2cGQyGo3BoJu735mJUdK27N.jpg" tvg-name="İyi Aile Çocuğu - 1978" ,İyi Aile Çocuğu - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122791.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72M3gjz4l7dyF5qehkLhp23jgKi.jpg" tvg-name="Japon İşi - 1987" ,Japon İşi - 1987
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122792.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek383GmCLK36mZ88hwO1rIcK6d3.jpg" tvg-name="Kanlı Nigar - 1981" ,Kanlı Nigar - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122793.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCv7LK3akjUlHSjfmYwfgRcxZ5w.jpg" tvg-name="Kapıcılar Kralı - 1976" ,Kapıcılar Kralı - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122794.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6crkhzvpEZTcpMXMSwL6LjWj4TK.jpg" tvg-name="Katma Değer Şaban - 1985" ,Katma Değer Şaban - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122795.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CX6Za52zETO0eQFYCb7uQLqoEI.jpg" tvg-name="Keriz - 1985" ,Keriz - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122796.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxj2urB0xe4RuP0C4q1rVX1B8gl.jpg" tvg-name="Kibar Feyzo - 1978" ,Kibar Feyzo - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122797.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-name="Kilibik" ,Kilibik
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122798.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-name="Kiraci" ,Kiraci
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122799.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR425RObdzPwgCqoztt0xtJfnDz.jpg" tvg-name="Koltuk Belası - 1990" ,Koltuk Belası - 1990
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122800.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSop4XF6p36sUo90rjB4LuRtP4S.jpg" tvg-name="Korkusuz Korkak - 1979" ,Korkusuz Korkak - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122801.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFMJzGl6PGq7vag7ahFVwwEiKn1.jpg" tvg-name="Köşeyi Dönen Adam - 1978" ,Köşeyi Dönen Adam - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122802.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" tvg-name="Köyden Indim Sehire - 1974" ,Köyden Indim Sehire - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122803.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAtAw7H5NQdOhkuW2iTq9WknJPi.jpg" tvg-name="Mavi Boncuk - 1974" ,Mavi Boncuk - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122804.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlHoERoHtfbt9WkmRG8ZSISKoUq.jpg" tvg-name="Meraklı Köfteci - 1976" ,Meraklı Köfteci - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122805.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6OTFDkrualNdEDRyqypbgqsxJ.jpg" tvg-name="Öğretmen Kemal - 1981" ,Öğretmen Kemal - 1981
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122806.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPTmbz9QhXpXSmw7ur2PTWnFWQ.jpg" tvg-name="Ortadirek Şaban - 1984" ,Ortadirek Şaban - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122807.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGS2meY28LK28RT7f5SsSt4X9X.jpg" tvg-name="Polizei - 1988" ,Polizei - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122808.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" tvg-name="Postacı - 1984" ,Postacı - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122809.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMe9wka3jO0nJ0pvOIOy0sNKNl.jpg" tvg-name="Propaganda - 1999" ,Propaganda - 1999
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122810.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KySkA5sCUnXp49DRKNmY0ythZc.jpg" tvg-name="Salako - 1974" ,Salako - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122811.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYrBGUaNTsrMjxcPoNvo4quEeL.jpg" tvg-name="Şaban Oğlu Şaban - 1977" ,Şaban Oğlu Şaban - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122812.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhgrGAEOfx4mDzFSPdEYWIn1fFu.jpg" tvg-name="Şaban Pabucu Yarım - 1985" ,Şaban Pabucu Yarım - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122813.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpO9mXwIIyGuFnHaSR8dx37DY4r.jpg" tvg-name="Şabaniye - 1984" ,Şabaniye - 1984
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122814.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXwshs84aQ2YKNEFDbXJ0f9K83x.jpg" tvg-name="Sahte Kabadayı - 1976" ,Sahte Kabadayı - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122815.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uonfsMHQPnirygqzS3LprpEvXMz.jpg" tvg-name="Sakar Şakir - 1977" ,Sakar Şakir - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122816.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoAGm7M5qypMTf90iB3kR153ag.jpg" tvg-name="Salak Milyoner - 1974" ,Salak Milyoner - 1974
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122817.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54Df5Uiuz2QjjNqsjnaA9jSE1qt.jpg" tvg-name="Şalvar Davası - 1983" ,Şalvar Davası - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122818.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2o9n0nNGN6qenKHz5SZOGkucbd.jpg" tvg-name="Şark Bülbülü (1979)" ,Şark Bülbülü (1979)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122819.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f0vEoj3mqLydYEVnHpVuS8AAYX.jpg" tvg-name="Şaşkın Damat (1975)" ,Şaşkın Damat (1975)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122820.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWZ743e8uCkTMTFzZ736vNjfmsF.jpg" tvg-name="Şendul Şaban - 1985" ,Şendul Şaban - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122821.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ij2i94WbADNavi7tbr5GbOCHU.jpg" tvg-name="Sevimli Hırsız - 1988" ,Sevimli Hırsız - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122822.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1QsojGGoKQeAvU4KK79L1WCHiu.jpg" tvg-name="Sosyete Şaban - 1985" ,Sosyete Şaban - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122823.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfuxuFHaQ7R7H3KV8mIWSdzxj7.jpg" tvg-name="Süt Kardeşler - 1976" ,Süt Kardeşler - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122824.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPvd7XblVoVElVAljmrlF5xQByR.jpg" tvg-name="Talih Kuşu - 1989" ,Talih Kuşu - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122825.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxSVaHFxcVvgN1gjutwn107e1ZX.jpg" tvg-name="Tarzan Rıfkı - 1986" ,Tarzan Rıfkı - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122826.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k06pQoVEKr9sOC8N63ECLXcB8gF.jpg" tvg-name="Tokatçı (1983)" ,Tokatçı (1983)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122827.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbGtcn3zYzDhS6xdqT56JJ9vI26.jpg" tvg-name="Tosun Paşa - 1976" ,Tosun Paşa - 1976
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122828.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv5s0mra4bIwvTZNwVtwvmiqPT7.jpg" tvg-name="Üç Kağıtçı (1981)" ,Üç Kağıtçı (1981)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122829.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12IqTxjvi0ggD0coDQWbK2CmIcJ.jpg" tvg-name="Umudumuz Şaban - 1979" ,Umudumuz Şaban - 1979
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122830.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCLMg6zWZc69APOEq8XIaLJbJSG.jpg" tvg-name="Uyanık Gazeteci - 1988" ,Uyanık Gazeteci - 1988
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122831.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY6AMRAQz7mTKvrRZkREHGd8Jh4.jpg" tvg-name="Varyemez - 1991" ,Varyemez - 1991
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122832.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we0YmR4gaxIPSDaRlQSXpbnKoE3.jpg" tvg-name="Yakışıklı (1987)" ,Yakışıklı (1987)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122833.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7Ykt20z8K4XTah4dWylhmPs5xc.jpg" tvg-name="Yedi Bela Hüsnü - 1983" ,Yedi Bela Hüsnü - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122834.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9dAlqgumPvShuNxjAkP2EqjygS.jpg" tvg-name="Yoksul - 1986" ,Yoksul - 1986
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122835.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pp7xWDr27CtLUSAW124kg97lw.jpg" tvg-name="100 Numaralı Adam - 1978" ,100 Numaralı Adam - 1978
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122836.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDV7c8nxzs5mttLv81Jd8mOGEZ6.jpg" tvg-name="Zehir Hafiye - 1989" ,Zehir Hafiye - 1989
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122837.mp4
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmRXqXgyCbuC50mAs2Q32wdUjxO.jpg" tvg-name="Zübük - 1980" ,Zübük - 1980
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122838.avi
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHX0gPPguakEQvRpjEXYd2B2ZH.jpg" tvg-name="İbo ile Güllüşah - 1977" ,İbo ile Güllüşah - 1977
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122839.mkv
-#EXTINF:-1 group-title="VOD-KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im2RSRpkAisKAPCmQfrmYlgkOGt.jpg" tvg-name="İnatçı (1988)" ,İnatçı (1988)
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/122840.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCQzHGuAod7S23apXYjHaxQHLlT.jpg" tvg-name="Twelve Angry Men - 1954" ,Twelve Angry Men - 1954
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123342.mp4
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Andrei Rublev - 1966" ,Andrei Rublev - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123343.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg" tvg-name="The Mirror Has Two Faces - 1996" ,The Mirror Has Two Faces - 1996
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123344.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Asri Zamanlar - 1936" ,Asri Zamanlar - 1936
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123345.mp4
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qh64tAOmbQNoYMLTETkhmBQgSbu.jpg" tvg-name="Barefoot in the Park - 1967" ,Barefoot in the Park - 1967
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123346.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Bati Cephesinde Yeni Bir Sey Yok - 1930" ,Bati Cephesinde Yeni Bir Sey Yok - 1930
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123347.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" tvg-name="Batman - 1966" ,Batman - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123348.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg" tvg-name="Some Like It Hot - 1959" ,Some Like It Hot - 1959
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123349.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg" tvg-name="Witness for the Prosecution - 1957" ,Witness for the Prosecution - 1957
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123350.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Bir Gecede Oldu - 1934" ,Bir Gecede Oldu - 1934
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123351.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xNFAf2IpiCmsAkx4J9TpcsLacL.jpg" tvg-name="La battaglia di Algeri - 1966" ,La battaglia di Algeri - 1966
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123352.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg" tvg-name="Double Indemnity - 1944" ,Double Indemnity - 1944
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123353.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Dr Strangelove - 1950" ,Dr Strangelove - 1950
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123354.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV1p6EQzSfMFSvEWro8ff6g8J6A.jpg" tvg-name="The Apartment - 1960" ,The Apartment - 1960
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123355.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Genclik Yillari - 1973" ,Genclik Yillari - 1973
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123356.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="General - 1926" ,General - 1926
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123357.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/panUqfhNEuLaQlACSjzRvtVWRsb.jpg" tvg-name="Battle of Britain - 1969" ,Battle of Britain - 1969
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123358.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luWboioLUipYdlcfolprXoMi2Fm.jpg" tvg-name="Kings of the Sun - 1963" ,Kings of the Sun - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123359.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auHA8xsD452GDCY2KdHGgYPmDPf.jpg" tvg-name="Hans Christian Andersen - 1952" ,Hans Christian Andersen - 1952
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123360.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Harakiri - 1962" ,Harakiri - 1962
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123361.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VdtJ3yKXZqP5mJ4L7jq4M7zSTv.jpg" tvg-name="Who's Minding the Store? - 1963" ,Who's Minding the Store? - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123362.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s85NggId22ntp4pbYwTbtHdalnY.jpg" tvg-name="Jesse James - 1939" ,Jesse James - 1939
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123363.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qitS37GjuCEfkJCiW8OVqlvIxws.jpg" tvg-name="Julius Caesar - 1953" ,Julius Caesar - 1953
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123364.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM8TTna0YBCfXsOjS3GkfKOzwu8.jpg" tvg-name="Julius Caesar - 1970" ,Julius Caesar - 1970
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123365.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYkffyYCFO1Li1f20MyaAYUaYC4.jpg" tvg-name="Jungle Book - 1942" ,Jungle Book - 1942
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123366.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg" tvg-name="Rio Bravo - 1959" ,Rio Bravo - 1959
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123367.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Kazablanka - 1942" ,Kazablanka - 1942
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123368.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO5o42Nln0Y3syiv46TrE22lJdM.jpg" tvg-name="King Solomon's Mines - 1985" ,King Solomon's Mines - 1985
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123369.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXFRIv35SgcmaUqRjmGniwSopRW.jpg" tvg-name="Funny Girl - 1968" ,Funny Girl - 1968
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123370.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCHVviBhRQ7OkJFQfziO2N2ZJmh.jpg" tvg-name="Love in the Afternoon - 1957" ,Love in the Afternoon - 1957
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123371.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm5KOC9XhGOTOIDaKOADD6vQTqn.jpg" tvg-name="M - Eine Stadt sucht einen Mörder - 1931" ,M - Eine Stadt sucht einen Mörder - 1931
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123372.mp4
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2F4kSfKEd88ycRqIltygc63H5X.jpg" tvg-name="North by Northwest - 1959" ,North by Northwest - 1959
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123373.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjlHJ3DGYMupcoB2apmFXWHAbh7.jpg" tvg-name="Ностальгия - 1983" ,Ностальгия - 1983
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123374.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Olduren Suphe - 1963" ,Olduren Suphe - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123375.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOcJpqibBezU00tG4FVEhML8PU8.jpg" tvg-name="A Clockwork Orange - 1971" ,A Clockwork Orange - 1971
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123376.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6numIZH6uR3NlJgY9m7nGH0jhs.jpg" tvg-name="All About Eve - 1950" ,All About Eve - 1950
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123377.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg" tvg-name="Gone with the Wind - 1939" ,Gone with the Wind - 1939
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123378.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Sehir Isiklari - 1931" ,Sehir Isiklari - 1931
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123379.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg" tvg-name="Sunset Boulevard - 1950" ,Sunset Boulevard - 1950
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123380.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSGxqyoeKy34BOlv5GedREd3My.jpg" tvg-name="Play It Again, Sam - 1972" ,Play It Again, Sam - 1972
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123381.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LdXybdZcTdZo7lkkrFQKf7byZf.jpg" tvg-name="The Country Girl - 1954" ,The Country Girl - 1954
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123382.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHET7AjuKU2iX0YsbFTYHKOV3jX.jpg" tvg-name="Chitty Chitty Bang Bang - 1968" ,Chitty Chitty Bang Bang - 1968
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123383.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6bAKTBHhsyL2BznDDC2zl3Jt79.jpg" tvg-name="Singin' in the Rain - 1952" ,Singin' in the Rain - 1952
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123384.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Yasamak - 1952" ,Yasamak - 1952
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123385.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Yojimbo - 1961" ,Yojimbo - 1961
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123386.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy8N6z9dU9ezamrleoAnRMmmQuy.jpg" tvg-name="天国と地獄 - 1963" ,天国と地獄 - 1963
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123387.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-name="Zafer Madalyasi - 1955" ,Zafer Madalyasi - 1955
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123388.mkv
-#EXTINF:-1 group-title="VOD-KLASIK NOSTALJI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2IY0gOHHmCWM90LjteFssxIV1G.jpg" tvg-name="Paths of Glory - 1957" ,Paths of Glory - 1957
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/123389.mkv
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Ibrahim Tatlıses TV" ,|TR| Ibrahim Tatlıses TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/6318.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Zeki Metin TV" ,|TR| Zeki Metin TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/6320.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Kemal Sunal TV 1" ,|TR| Kemal Sunal TV 1
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/6325.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Şener Şen TV" ,|TR| Şener Şen TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/23578.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Cüneyt Arkın TV" ,|TR| Cüneyt Arkın TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/23579.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Kadir Inanır TV" ,|TR| Kadir Inanır TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/23580.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Ferdi Tayfur TV" ,|TR| Ferdi Tayfur TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/24201.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Filiz Akın TV" ,|TR| Filiz Akın TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48292.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Hülya Koçyiğit TV" ,|TR| Hülya Koçyiğit TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48293.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Tarık Akan TV" ,|TR| Tarık Akan TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48295.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Türkan Şoray TV" ,|TR| Türkan Şoray TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48296.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Orhan Gencebay TV" ,|TR| Orhan Gencebay TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48297.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Müjde Ar TV" ,|TR| Müjde Ar TV
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/48401.m3u8
+#EXTINF:-1 group-title="TR/ Yeşilcam Loca " tvg-logo="http://panel.maxcrm.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" tvg-name="|TR| Kemal Sunal TV 2" ,|TR| Kemal Sunal TV 2
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/live/zlh0935/zlh.1905/101136.m3u8
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfuxuFHaQ7R7H3KV8mIWSdzxj7.jpg" tvg-name="Süt Kardeşler (1976)" ,Süt Kardeşler (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167766.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxSVaHFxcVvgN1gjutwn107e1ZX.jpg" tvg-name="Tarzan Rıfkı (1986)" ,Tarzan Rıfkı (1986)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167768.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfuxuFHaQ7R7H3KV8mIWSdzxj7.jpg" tvg-name="Süt Kardeşler (1976)" ,Süt Kardeşler (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167769.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we0YmR4gaxIPSDaRlQSXpbnKoE3.jpg" tvg-name="Yakışıklı (1987)" ,Yakışıklı (1987)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167770.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjjVQjXGMnto2gS1XAjCiTuf8b8.jpg" tvg-name="Yaralı Kalp (1969)" ,Yaralı Kalp (1969)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167771.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sib12QDC9qRPerbb75bsN0SOYDF.jpg" tvg-name="Yarım Kalan Saadet (1970)" ,Yarım Kalan Saadet (1970)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167772.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9dAlqgumPvShuNxjAkP2EqjygS.jpg" tvg-name="Yoksul (1986)" ,Yoksul (1986)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167773.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMPfahSXt0j8QOt9uZ947e7zDkK.jpg" tvg-name="Aşka Tövbe (1968)" ,Aşka Tövbe (1968)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167775.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aKakykUVDoHDhpYbeTaN3l0Hd7.jpg" tvg-name="Atla Gel Şaban (1984)" ,Atla Gel Şaban (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167776.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ju1Oe7kThHQi7c7DW0SwKdY9B8.jpg" tvg-name="Avanak Apdi (1978)" ,Avanak Apdi (1978)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167777.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCVGkb50Xx850PzS0qAffkgGbuk.jpg" tvg-name="Ayrılık (1972)" ,Ayrılık (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167778.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAyTDnniLcRPEr8jNSVdLK9grb.jpg" tvg-name="Gol Kralı (1980)" ,Gol Kralı (1980)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167780.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" tvg-name="Gülen Adam (1990)" ,Gülen Adam (1990)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167781.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukaCP6gln9scBg74nyUisY8kHkY.jpg" tvg-name="Hababam Sınıfı Uyanıyor (1976)" ,Hababam Sınıfı Uyanıyor (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167782.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxALsiCpHR5vyaFT170ZfBIhOvj.jpg" tvg-name="Ömrümce Unutamadım (1971)" ,Ömrümce Unutamadım (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167789.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7QmBKjQzAnHyRjB8jyse1ENL50.jpg" tvg-name="Spy kids 3: Oyun Bitti (2003)" ,Spy kids 3: Oyun Bitti (2003)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167790.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" tvg-name="Postacı (1984)" ,Postacı (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167791.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDqYrYciP76wfzmAqB8SLO5j6f.jpg" tvg-name="Taze Gelin Şaşkın Damat (2006)" ,Taze Gelin Şaşkın Damat (2006)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167793.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg" tvg-name="Hababam Sınıfı (1975)" ,Hababam Sınıfı (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167831.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NaOyliycB7vHTvyLFUxhVbPa8.jpg" tvg-name="Çöpçüler Kralı (1977)" ,Çöpçüler Kralı (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167832.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liv9h4a4wDjaTOAAK0MCQZ1bcIk.jpg" tvg-name="Gülen Gözler (1977)" ,Gülen Gözler (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167833.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7C7WSrgYogFwwyjTWS169ysgQy.jpg" tvg-name="Ne Olacak Şimdi (1979)" ,Ne Olacak Şimdi (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167834.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0rnkXRmVW8eEWh1PfHnk4cAuPh.jpg" tvg-name="Banker Bilo (1980)" ,Banker Bilo (1980)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167836.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBly2cLy5z8Cbrd0a42CLskOluV.jpg" tvg-name="Malkoçoğlu: Ölüm Fedaileri (1972)" ,Malkoçoğlu: Ölüm Fedaileri (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167841.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYrBGUaNTsrMjxcPoNvo4quEeL.jpg" tvg-name="Şaban Oğlu Şaban (1977)" ,Şaban Oğlu Şaban (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167842.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX6EugzaZ2MFaZ5eUIuWNhWZYC.jpg" tvg-name="Vurgun (1987)" ,Vurgun (1987)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167844.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eL2x5SiEPEL6T6juzCfYK7sSUyD.jpg" tvg-name="Yol Ayrımı (2017)" ,Yol Ayrımı (2017)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167845.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" tvg-name="Bizim Aile (1975)" ,Bizim Aile (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167848.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwMsyrsicBrGRsnlZkVBrL7x5A8.jpg" tvg-name="Canikom (1979)" ,Canikom (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167849.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" tvg-name="Postacı (1984)" ,Postacı (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167857.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54Df5Uiuz2QjjNqsjnaA9jSE1qt.jpg" tvg-name="Şalvar Davası (1983)" ,Şalvar Davası (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167858.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEGSq8lAdiNAnEpjjlQouz0CRKE.jpg" tvg-name="Şekerpare (1983)" ,Şekerpare (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167859.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDug2PWi6x27ujEtiKPNMzqFAjP.jpg" tvg-name="Soysuzlar (1975)" ,Soysuzlar (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167860.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzTRphc9UAIvmTXPvfTCOJEDFBy.jpg" tvg-name="Akrep Yuvası (1977)" ,Akrep Yuvası (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167862.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg" tvg-name="Av Mevsimi (2013)" ,Av Mevsimi (2013)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167863.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0TIZtynG5rZ23shDZFDAgOKiVo.jpg" tvg-name="Battal Gazi Geliyor (1955)" ,Battal Gazi Geliyor (1955)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167864.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFAbmuN0b1LXa2s2ZlPXekpKRpM.jpg" tvg-name="Çaresizler (1973)" ,Çaresizler (1973)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167865.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqPX758AtUanPnV0d3TCjpaxG3H.jpg" tvg-name="Çiçek Abbas (1982)" ,Çiçek Abbas (1982)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167866.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" tvg-name="Dolap Beygiri (1982)" ,Dolap Beygiri (1982)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167867.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz1aTvWD013BpGKwF50aOszsdHa.jpg" tvg-name="Namuslu (1984)" ,Namuslu (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167872.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXljRPwYbl6AeMfZJEb1qiSdA1p.jpg" tvg-name="Neşeli Günler (1978)" ,Neşeli Günler (1978)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167873.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixki03uwg1V9ZUTouupVQMwXLsN.jpg" tvg-name="Aşık Oldum (1985)" ,Aşık Oldum (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167875.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vATDDhYiDjYhbbctsFB0I3oFLDv.jpg" tvg-name="Kara Murat: Fatih'ın Fedaisi (1972)" ,Kara Murat: Fatih'ın Fedaisi (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167876.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pC1qUMdquWMSxGe1gxOa3juvr.jpg" tvg-name="Vahşi Gelin (1978)" ,Vahşi Gelin (1978)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167879.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uonfsMHQPnirygqzS3LprpEvXMz.jpg" tvg-name="Sakar Şakir (1977)" ,Sakar Şakir (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167883.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM8CViZvV5oVj8XCRhi3Q3nq1AP.jpg" tvg-name="Satın Alınan Koca (1971)" ,Satın Alınan Koca (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167884.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIjBh43oMC00ePT3SCN02sfxIKE.jpg" tvg-name="Battal Gazi Destanı (1971)" ,Battal Gazi Destanı (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167885.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KlOkBOB46NdxCW3qhIIzxk9zse.jpg" tvg-name="Ankara Ekspresi (1971)" ,Ankara Ekspresi (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/167886.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6ccohyzPylTYLOgaSC067TcPhZx.jpg" tvg-name="Davaro (1981)" ,Davaro (1981)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/170485.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3QPC6lIPJYN2mfNuE61lbq3RU6.jpg" tvg-name="Ah Nerede (1975)" ,Ah Nerede (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175796.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9HHfUeWvbBq9NLgv10e3DZ7ZK.jpg" tvg-name="Aile Şerefi (1976)" ,Aile Şerefi (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175797.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruPLKOGSim2i3KHO0pUHb64QChN.jpg" tvg-name="Allah Affeder Ben Etmem! (1967)" ,Allah Affeder Ben Etmem! (1967)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175798.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VXKjMDgnV9eyz6PRgJ9Gx7HfoZ.jpg" tvg-name="Sen Aşıksın Arkadaş (1988)" ,Sen Aşıksın Arkadaş (1988)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175799.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnlBCwik58eZw6te4jG0dVfyzjv.jpg" tvg-name="Aşkların En Güzeli (1972)" ,Aşkların En Güzeli (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175800.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njc98YzxCnYv1WSr50YBIyZmxoj.jpg" tvg-name="Ateş Böceği (1975)" ,Ateş Böceği (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175801.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aKakykUVDoHDhpYbeTaN3l0Hd7.jpg" tvg-name="Atla Gel Şaban (1984)" ,Atla Gel Şaban (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175802.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ju1Oe7kThHQi7c7DW0SwKdY9B8.jpg" tvg-name="Avanak Apdi (1978)" ,Avanak Apdi (1978)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175803.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75rC99FUe1EY1z9MjA3XkHYz4Xi.jpg" tvg-name="Ayrılık Kolay Değil (1980)" ,Ayrılık Kolay Değil (1980)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175804.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHrwoHhsUAlWOFFifOerBRYmnq9.jpg" tvg-name="Babacan (1975)" ,Babacan (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175805.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfa9UfkGbe7isVuS4UBQ6HENlUw.jpg" tvg-name="Babaların Babası (1975)" ,Babaların Babası (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175806.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IrjncSqSxmTC7q8DehKp37bxz9.jpg" tvg-name="Baraj (1977)" ,Baraj (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175807.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73HLGr5zaL0K39JE0jZak2PBnXx.jpg" tvg-name="Battal Gazi'nin İntikamı (1973)" ,Battal Gazi'nin İntikamı (1973)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175808.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eWUocLjpKj73Bx0MRPGdLJRL2n.jpg" tvg-name="Battal Gazi'nin Oğlu (1974)" ,Battal Gazi'nin Oğlu (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175809.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIjBh43oMC00ePT3SCN02sfxIKE.jpg" tvg-name="Battal Gazi Destanı (1971)" ,Battal Gazi Destanı (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175810.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sho8Z6H4og6aeoFryLlKP3eYwwK.jpg" tvg-name="Bıçkın (1988)" ,Bıçkın (1988)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175811.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fq9gRzspslWFAdD49vaXrxtczyd.jpg" tvg-name="Bir Küçük Bulut (1990)" ,Bir Küçük Bulut (1990)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175812.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" tvg-name="Bizim Aile (1975)" ,Bizim Aile (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175813.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2Ma27Am6tQ9ucFgh4PPjiAxhny.jpg" tvg-name="Boşver Arkadaş (1974)" ,Boşver Arkadaş (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175814.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" tvg-name="Canım Kardeşim (1973)" ,Canım Kardeşim (1973)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175815.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzyRICzpA0SEQEATWxKwej0B5wG.jpg" tvg-name="Çapkın Hırsız (1975)" ,Çapkın Hırsız (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175816.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RmjLzrU0hYMOiVtz8Slz5O6O5t.jpg" tvg-name="Çare Sende Allah'ım (1984)" ,Çare Sende Allah'ım (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175817.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsxt2inqv3z0aTBKAMhVfptra0w.jpg" tvg-name="Çarıklı Milyoner (1983)" ,Çarıklı Milyoner (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175818.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmURVhcv7dctIwVPBY2v7oB7qb5.jpg" tvg-name="Çark (1987)" ,Çark (1987)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175819.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqPX758AtUanPnV0d3TCjpaxG3H.jpg" tvg-name="Çiçek Abbas (1982)" ,Çiçek Abbas (1982)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175820.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJxEvPQctF7GMpn3mmKJCmlJTW.jpg" tvg-name="Çile (1972)" ,Çile (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175821.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NaOyliycB7vHTvyLFUxhVbPa8.jpg" tvg-name="Çöpçüler Kralı (1977)" ,Çöpçüler Kralı (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175822.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYQ8iROTDsIMAYXubrjPgUZfLMT.jpg" tvg-name="Davacı (1986)" ,Davacı (1986)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175823.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" tvg-name="Deli Deli Küpeli (1986)" ,Deli Deli Küpeli (1986)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175824.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg" tvg-name="En Büyük Şaban (1983)" ,En Büyük Şaban (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175825.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnrezXYkx1iRyWbBzyjSgl5Rlwh.jpg" tvg-name="Esir Hayat (1974)" ,Esir Hayat (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175826.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBMWDix42P87b17cWvy0ZVCvbS2.jpg" tvg-name="Evcilik Oyunu (1975)" ,Evcilik Oyunu (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175827.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hys6izwQSyy2HITugwIXvTrg5Jy.jpg" tvg-name="Ezo Gelin (1968)" ,Ezo Gelin (1968)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175828.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywytHCftERMVQWCn7vd13FG383d.jpg" tvg-name="Fazilet (2012)" ,Fazilet (2012)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175829.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gD7lWyVi7sGZ5NIkaezxElhIc9J.jpg" tvg-name="Feryat (1983)" ,Feryat (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175830.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8eyqJ3svhtWgsiOT2GCAi2PwBX.jpg" tvg-name="Fıstık Gibi (1970)" ,Fıstık Gibi (1970)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175831.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PvIC7XJVLgYrBA2Le2vMIz7iTk.jpg" tvg-name="Gece Kuşu Zehra (1975)" ,Gece Kuşu Zehra (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175832.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5iLa0Yqh0ua4xR12wtoStENLYo.jpg" tvg-name="Gerzek Şaban (1980)" ,Gerzek Şaban (1980)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175833.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geAyTDnniLcRPEr8jNSVdLK9grb.jpg" tvg-name="Gol Kralı (1980)" ,Gol Kralı (1980)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175834.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" tvg-name="Gülen Adam (1990)" ,Gülen Adam (1990)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175835.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liv9h4a4wDjaTOAAK0MCQZ1bcIk.jpg" tvg-name="Gülen Gözler (1977)" ,Gülen Gözler (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175836.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MoBZ3ZVFLj21NfFCtvZK59J6Wy.jpg" tvg-name="Güneş Doğarken (1984)" ,Güneş Doğarken (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175837.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sunrV0T3pg5jfVOBVDeLCo3ZcQ8.jpg" tvg-name="Gurbetçi Şaban (1985)" ,Gurbetçi Şaban (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175838.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odAZRy6re7Sj97sqXrfe6e2Ay37.jpg" tvg-name="Hababam Sınıfı Dokuz Doğuruyor (1979)" ,Hababam Sınıfı Dokuz Doğuruyor (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175839.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKXNkFVDWyOiZ4T4B8g4Ay88fIg.jpg" tvg-name="Hababam Sınıfı Sınıfta Kaldı (1975)" ,Hababam Sınıfı Sınıfta Kaldı (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175840.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypIX5bUR6iGjWMAmYm8IoQyRg95.jpg" tvg-name="Hababam Sınıfı Tatilde (1977)" ,Hababam Sınıfı Tatilde (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175841.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukaCP6gln9scBg74nyUisY8kHkY.jpg" tvg-name="Hababam Sınıfı Uyanıyor (1976)" ,Hababam Sınıfı Uyanıyor (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175842.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg" tvg-name="Hababam Sınıfı (1975)" ,Hababam Sınıfı (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175843.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcoRcgOSkIsl1vyiv8m3MtbswWI.jpg" tvg-name="Hakanlar Çarpışıyor (1977)" ,Hakanlar Çarpışıyor (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175844.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3lKxO16uCOktLRiEhLilOSVEW.jpg" tvg-name="Hanzo (1975)" ,Hanzo (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175845.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFG4azk7TGDybXukCPwhSrdeZjs.jpg" tvg-name="Haram (2014)" ,Haram (2014)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175846.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z14yqjIWCmyRpY1b7z4IJ1Udl7a.jpg" tvg-name="Horasan'ın Üç Atlısı (1965)" ,Horasan'ın Üç Atlısı (1965)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175847.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MTPuOya7Hqop6intcf28mQp8m.jpg" tvg-name="Hülya" ,Hülya
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175848.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHX0gPPguakEQvRpjEXYd2B2ZH.jpg" tvg-name="İbo ile Güllüşah (1977)" ,İbo ile Güllüşah (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175849.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im2RSRpkAisKAPCmQfrmYlgkOGt.jpg" tvg-name="İnatçı (1988)" ,İnatçı (1988)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175850.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UcBJVovD1wJ9Ibxbbm91sdy7Bm.jpg" tvg-name="İsyankar (1979)" ,İsyankar (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175851.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72M3gjz4l7dyF5qehkLhp23jgKi.jpg" tvg-name="Japon İşi (1987)" ,Japon İşi (1987)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175852.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y5gVxYoFDR7b6Eovmy7r8elV7k.jpg" tvg-name="Kaderimin Oyunu (1972)" ,Kaderimin Oyunu (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175853.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yremjHQV4RyK83Y9ISRPOthaA3v.jpg" tvg-name="Kara Kaplı Defter (2023)" ,Kara Kaplı Defter (2023)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175854.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHpoMNp0K1nV3EbyWpiz0zBLRKw.jpg" tvg-name="Kara Gözlüm (1970)" ,Kara Gözlüm (1970)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175855.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFbVsSUdrmrMgZ2IpYPOztTsqZD.jpg" tvg-name="Kara Murat: Ölüm Emri (1974)" ,Kara Murat: Ölüm Emri (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175856.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qg3bxRKFVJeF0hMpYBkvwEajjdX.jpg" tvg-name="Kara Zindan (1988)" ,Kara Zindan (1988)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175857.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72z18mtsO5KXg09bM4Fl0kkvJBI.jpg" tvg-name="Kılıbık (1983)" ,Kılıbık (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175858.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSop4XF6p36sUo90rjB4LuRtP4S.jpg" tvg-name="Korkusuz Korkak (1979)" ,Korkusuz Korkak (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175859.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sEtyeFBFg83ju4iBilr5KWrgmK.jpg" tvg-name="Köroğlu (1968)" ,Köroğlu (1968)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175860.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAtAw7H5NQdOhkuW2iTq9WknJPi.jpg" tvg-name="Mavi Boncuk (1974)" ,Mavi Boncuk (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175861.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg" tvg-name="Mavi Göl: Uyanış (2012)" ,Mavi Göl: Uyanış (2012)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175862.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iycyWR0suz88tWICGjrxO1IXT9.jpg" tvg-name="Melek mi Şeytan mı? (1971)" ,Melek mi Şeytan mı? (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175863.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rv9dlC61HQAXx7wYOdskO7CmnK.jpg" tvg-name="Memleketim (1974)" ,Memleketim (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175864.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlHoERoHtfbt9WkmRG8ZSISKoUq.jpg" tvg-name="Meraklı Köfteci (1976)" ,Meraklı Köfteci (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175865.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1remSi72Trjq3vTtyxFI3Jqawj.jpg" tvg-name="Muhabbet Kuşları (1985)" ,Muhabbet Kuşları (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175866.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guu8qQTSyzaJcLlWxCYkoB5W0OH.jpg" tvg-name="Mutlu Ol Yeter (1981)" ,Mutlu Ol Yeter (1981)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175867.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHsOV4igYwBCQXwM91vW0zWAyWj.jpg" tvg-name="Nehir (1977)" ,Nehir (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175868.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXljRPwYbl6AeMfZJEb1qiSdA1p.jpg" tvg-name="Neşeli Günler (1978)" ,Neşeli Günler (1978)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175869.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" tvg-name="Oh Olsun (1973)" ,Oh Olsun (1973)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175870.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S5xyGAYTINQttRgWPtNZFPNBwj.jpg" tvg-name="Osmanlı Kartalı (1969)" ,Osmanlı Kartalı (1969)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175871.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i9wuR6Q8abyX7l1vd3WUHKNK7e.jpg" tvg-name="Öyle Olsun (1976)" ,Öyle Olsun (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175872.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6Ha2hhQYbWiFAKzsL3NVhCcfYl.jpg" tvg-name="Pehlivan (1984)" ,Pehlivan (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175873.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGS2meY28LK28RT7f5SsSt4X9X.jpg" tvg-name="Polizei (1988)" ,Polizei (1988)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175874.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45b2JGeU3PJTxlgdSOCSIYypdL3.jpg" tvg-name="Rus Gelini (2019)" ,Rus Gelini (2019)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175875.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYrBGUaNTsrMjxcPoNvo4quEeL.jpg" tvg-name="Şaban Oğlu Şaban (1977)" ,Şaban Oğlu Şaban (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175876.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXwshs84aQ2YKNEFDbXJ0f9K83x.jpg" tvg-name="Sahte Kabadayı (1976)" ,Sahte Kabadayı (1976)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175877.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uonfsMHQPnirygqzS3LprpEvXMz.jpg" tvg-name="Sakar Şakir (1977)" ,Sakar Şakir (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175878.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoAGm7M5qypMTf90iB3kR153ag.jpg" tvg-name="Salak Milyoner (1974)" ,Salak Milyoner (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175879.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2o9n0nNGN6qenKHz5SZOGkucbd.jpg" tvg-name="Şark Bülbülü (1979)" ,Şark Bülbülü (1979)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175880.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDqYrYciP76wfzmAqB8SLO5j6f.jpg" tvg-name="Taze Gelin Şaşkın Damat (2006)" ,Taze Gelin Şaşkın Damat (2006)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175881.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM8CViZvV5oVj8XCRhi3Q3nq1AP.jpg" tvg-name="Satın Alınan Koca (1971)" ,Satın Alınan Koca (1971)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175882.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWZ743e8uCkTMTFzZ736vNjfmsF.jpg" tvg-name="Şendul Şaban (1985)" ,Şendul Şaban (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175883.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDofRfQjYtjxyayIRUSWLftTby4.jpg" tvg-name="Seni Yakacaklar (1981)" ,Seni Yakacaklar (1981)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175884.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVAMiBiS3lAOGIX1fF6mYK55Sv1.jpg" tvg-name="Sevgili Dayım (1977)" ,Sevgili Dayım (1977)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175885.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61J9T2vO0E1VyQE4BBld0EObRkk.jpg" tvg-name="Sev Kardeşim (1972)" ,Sev Kardeşim (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175886.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i8ABdroiopbpYNMKuioGZiJQGE.jpg" tvg-name="Sevmek (1985)" ,Sevmek (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175887.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKUBC3c1CD5VYJHRSEQd07Qc3Di.jpg" tvg-name="Sev Yeter (1984)" ,Sev Yeter (1984)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175888.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1QsojGGoKQeAvU4KK79L1WCHiu.jpg" tvg-name="Sosyete Şaban (1985)" ,Sosyete Şaban (1985)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175889.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opIbQdR6dtZYLTbgIDzRQpWR5zl.jpg" tvg-name="Tatlı Dillim (1972)" ,Tatlı Dillim (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175890.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k06pQoVEKr9sOC8N63ECLXcB8gF.jpg" tvg-name="Tokatçı (1983)" ,Tokatçı (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175891.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSXP5QAHMmNRu9jyf3srjA5HGUS.jpg" tvg-name="Tövbe (1982)" ,Tövbe (1982)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175892.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv5s0mra4bIwvTZNwVtwvmiqPT7.jpg" tvg-name="Üç Kağıtçı (1981)" ,Üç Kağıtçı (1981)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175893.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mcXPftqJBrYOYYWMC7nm41Y2Wy.jpg" tvg-name="Üç Sevgili (1972)" ,Üç Sevgili (1972)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175894.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5I3f26IWlGDDCSxGRPODVv8V6.jpg" tvg-name="Vurmayın (1987)" ,Vurmayın (1987)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175895.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fjT62AIEAavZmRzNWQs14Fmu6l.jpg" tvg-name="Yalancı Yarim (1973)" ,Yalancı Yarim (1973)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175896.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rWNFnNuRrNgwDhxFc41KAPIZTH.jpg" tvg-name="Yaşamak Bu Değil (1981)" ,Yaşamak Bu Değil (1981)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175897.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7Ykt20z8K4XTah4dWylhmPs5xc.jpg" tvg-name="Yedi Bela Hüsnü (1983)" ,Yedi Bela Hüsnü (1983)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175898.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EwP9MQfuSnSwuDFXcDUWRXW8lw.jpg" tvg-name="Yüzbaşının Kızı (1968)" ,Yüzbaşının Kızı (1968)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175899.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFrGNbWLVEGTCjT09QsJDDpQl18.jpg" tvg-name="Züğürt Ağa (1986)" ,Züğürt Ağa (1986)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/175900.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFbVsSUdrmrMgZ2IpYPOztTsqZD.jpg" tvg-name="Kara Murat: Ölüm Emri (1974)" ,Kara Murat: Ölüm Emri (1974)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/261200.mkv
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d3QPC6lIPJYN2mfNuE61lbq3RU6.jpg" tvg-name="Ah Nerede (1975)" ,Ah Nerede (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/261217.mp4
+#EXTINF:-1 group-title="TR | M/ Yeşilçam" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vAAtGi7qKAchUQcaYxPVobR2olQ.jpg" tvg-name="Dayı (1975)" ,Dayı (1975)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/350451.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUeHXDw96iu7hpVtc3j4wH6JntMbDGhIBMkQ&usqp=CAU" tvg-name="MUSALLAT CiN" ,MUSALLAT CiN
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195625.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hyABqqHQoaJg80ZR21ae59E5irT.jpg" tvg-name="Araf 3: Cinler Kitabi (2019)" ,Araf 3: Cinler Kitabi (2019)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195707.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w6bkD7JWBKtYaWSUMinJI5BKWPi.jpg" tvg-name="Cin Kuyusu (2015)" ,Cin Kuyusu (2015)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195714.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m5V2srjLryubs6wuQsYlv4fwCWS.jpg" tvg-name="Gece Gelenler (2019)" ,Gece Gelenler (2019)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195725.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vTdqznVXKEGnrTP4eCQfcuAmf7.jpg" tvg-name="İki (2017)" ,İki (2017)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195731.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tFg6uEW4WLHcLF4wqu3msEEw82e.jpg" tvg-name="Siccîn 4 (2017)" ,Siccîn 4 (2017)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/195737.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qAbfXi0IYc7Aqaul0C6sbrVXrwa.jpg" tvg-name="Baskın: Karabasan (2015)" ,Baskın: Karabasan (2015)
+https://cors-anywhere.eplus.dev/http://egmflxstorage.xyz:8080/movie/zlh0935/zlh.1905/202725.mkv
