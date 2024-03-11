@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-#EXTINF:-1 group-title="⊵ Yeni Yüklenenler Sinemalar" tvg-logo="http://logo.apk-red.com/lg/filboxlogo.png" tvg-name="☾☆ Sinema Bilgilendirme  ☾☆" ,☾☆ Sinema Bilgilendirme  ☾☆
-http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/161953.mp4
+
 #EXTINF:-1 group-title="⊵ Yeni Yüklenenler Sinemalar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9B2Th6JCPmYfvwSoZU1F8aXUmFt.jpg" tvg-name="The Fisherman's Daughter (2020)" ,The Fisherman's Daughter (2020)
 http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/322586.mp4
 #EXTINF:-1 group-title="⊵ Yeni Yüklenenler Sinemalar" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uyM1tesNMM7fg6zmozn8MYD036G.jpg" tvg-name="Çöl Avcıları (2024)" ,Çöl Avcıları (2024)
