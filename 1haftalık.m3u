@@ -1,107 +1,135 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" tvg-name="Taş Kağıt Makas" ,Taş Kağıt Makas
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231686.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" tvg-name="Mehmed Fetihler Sultani" ,Mehmed Fetihler Sultani
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231648.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" tvg-name="Kara Agac Destani" ,Kara Agac Destani
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231572.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NwAExjJr8mxlitwrofNSYJyc1p.jpg" tvg-name="Kül Masali" ,Kül Masali
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231459.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwlxk1YjsaNQdRrmZ1I6j4fr2Zd.jpg" tvg-name="Bahar" ,Bahar
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231439.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Qefg7GWY2mBiGzrclOCuP7nFa.jpg" tvg-name="Senden Once" ,Senden Once
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/231436.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7apgIsMpzmxHvkDd1QdpQOhDtGG.jpg" tvg-name="Bir Sevdadır" ,Bir Sevdadır
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230742.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5AylGpevxbelM7ltcHTXUEdhYS.jpg" tvg-name="Kopuk" ,Kopuk
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230701.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" tvg-name="inci Taneleri" ,inci Taneleri
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230420.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-name="Ates Kuslari" ,Ates Kuslari
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230270.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teGvKXdzS1Y63jasL9XPnpzJDKN.jpg" tvg-name="Yaar Gaddar - 1994" ,Yaar Gaddar - 1994
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230266.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njrWQD0QAZ6U6EfPXhulpyZt5Q0.jpg" tvg-name="Kara" ,Kara
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/230049.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JnTd5vvNylOBlWYWMjLKVMG3h6.jpg" tvg-name="Aska Dusman" ,Aska Dusman
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/229814.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-name="Yildizlar Bana Uzak" ,Yildizlar Bana Uzak
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/229724.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" tvg-name="Ma'araka" ,Ma'araka
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/229586.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" tvg-name="Kizil Goncalar" ,Kizil Goncalar
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/229483.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpW0dvYdpiXltm96WtXg7iEcw0d.jpg" tvg-name="Sandik Kokusu" ,Sandik Kokusu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/228843.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pMmq0jev06Hyb3r1BszFCaLa67.jpg" tvg-name="Ne Gemiler Yaktim" ,Ne Gemiler Yaktim
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/228778.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCS3PeCmAZK4BC07DUqyPCh2wpz.jpg" tvg-name="Altın Kafes - 1958" ,Altın Kafes - 1958
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/228767.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVqXOJXrfNlb0kqtV0mkLklmwkF.jpg" tvg-name="Kudus Fatihi Selahaddin Eyyubi" ,Kudus Fatihi Selahaddin Eyyubi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/227966.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-name="Kendi Dusen Aglamaz" ,Kendi Dusen Aglamaz
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/227961.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-name="Kod Adi Kirlangic" ,Kod Adi Kirlangic
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/227957.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://abload.de/img/saklabenigke43.jpg" tvg-name="Sakla Beni" ,Sakla Beni
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/227906.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://abload.de/img/whatsappgorsel2023-11mhfty.jpg" tvg-name="Bir Derdim Var" ,Bir Derdim Var
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/227901.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tP04QCH0w1stQJ8JD4XuVwfMPFi.jpg" tvg-name="Şahane Hayatım" ,Şahane Hayatım
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/224642.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://abload.de/img/jrntchut_o5viqo.jpg" tvg-name="Cok Guzel Hareketler 2" ,Cok Guzel Hareketler 2
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/219998.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://abload.de/img/whatsappgorsel2023-09z4cv3.jpg" tvg-name="Kirli Sepeti" ,Kirli Sepeti
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/219670.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" tvg-name="Hudutsuz Sevda" ,Hudutsuz Sevda
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/219547.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" tvg-name="Yabani" ,Yabani
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/193347.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" tvg-name="Kardeslerim" ,Kardeslerim
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/192651.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5yn89kWnHh27FPb3vXkw7khUjSX.jpg" tvg-name="Dilek Taşı" ,Dilek Taşı
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/192576.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ngAgkMrVQyBhiuhIK3zg1tmravS.jpg" tvg-name="Safir" ,Safir
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/192217.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" tvg-name="Arka Sokaklar" ,Arka Sokaklar
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/192076.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" tvg-name="Yargı" ,Yargı
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191728.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" tvg-name="Yali Capkini" ,Yali Capkini
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191727.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" tvg-name="Uc Kiz Kardes" ,Uc Kiz Kardes
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191725.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" tvg-name="Teşkilat" ,Teşkilat
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191724.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" tvg-name="Ömer" ,Ömer
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191722.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCwUOWj28riFRtI2npCRl7AJQaJ.jpg" tvg-name="Maviye Surgun" ,Maviye Surgun
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191721.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" tvg-name="Kurulus Osman" ,Kurulus Osman
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191720.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" tvg-name="Kizilcik Serbeti" ,Kizilcik Serbeti
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191719.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" tvg-name="Kardeşlerim" ,Kardeşlerim
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191717.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nYKsKHtwIPwrgAl49C3eyzsx6M.jpg" tvg-name="Hayatimin Nesesi" ,Hayatimin Nesesi
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191716.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w154/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" tvg-name="Guldur Guldur Show" ,Guldur Guldur Show
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191715.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" tvg-name="Gönül Dağı" ,Gönül Dağı
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191714.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjFKIrNTYEFk6VNniZCllJUga8w.jpg" tvg-name="Benim Guzel Ailem" ,Benim Guzel Ailem
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191711.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" tvg-name="Ben Bu Cihana Sigmazam" ,Ben Bu Cihana Sigmazam
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191710.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" tvg-name="Ates Kuslari" ,Ates Kuslari
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191709.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXnP3YEN3saxyncRLz7kxc6TvjX.jpg" tvg-name="Alparslan: Büyük Selçuklu" ,Alparslan: Büyük Selçuklu
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191708.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HJTZ7ZfPxxHgkKRXmTppFEYviK.jpg" tvg-name="Aldatmak" ,Aldatmak
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191707.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJDBplHLMOYnUUart4JkS0MqMCI.jpg" tvg-name="Aile" ,Aile
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191705.mkv
-#EXTINF:-1 group-title="VOD-HAFTALIK DIZILER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj4qfs1KxhdfcPphWyJiTNYXirE.jpg" tvg-name="Adim Farah" ,Adim Farah
-https://api.gpsit.net/http://babanin.xyz:8080/movie/mehmetakkaya/6653924357/191704.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 1" tvg-logo="https://i.ytimg.com/vi/hfx8H7YrmTw/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_CAKbKLwTFHt_Idu8yjh4WnrrBA" group-title="7/24",Kemal Sunal 1
+https://ythls-v2.onrender.com/video/YpszCBqX0S8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 2" tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrduICAh8nlP_W7RRd-FCHdK2_Bw" group-title="7/24",Kemal Sunal 2
+https://ythls-v2.onrender.com/video/lDI6Lbxhz6Y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 3" tvg-logo="https://i.ytimg.com/vi/oQqV-8XVM2A/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDu3M6AeBQVrgA_pzXafvJVpcsqw" group-title="7/24",Kemal Sunal 3
+https://ythls-v2.onrender.com/video/hfx8H7YrmTw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zeki Alasya Metin Akpınar" tvg-logo="https://i.ytimg.com/vi/EYg1n041Nug/sddefault.jpg" group-title="7/24",Zeki Alasya Metin Akpınar
+https://ythls-v2.onrender.com/video/EYg1n041Nug.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MalkoçOğlu" tvg-logo="https://i.ytimg.com/vi/hmgM0Yzfj_4/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8fsvDbZbnzb9A5xzsD_M6pJrDw" group-title="7/24",MalkoçOğlu
+http://databilgin1.online:8080/GFwXXKjJt5/D4Yd2YPawP/1420
+#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney" tvg-logo="https://i.ytimg.com/vi/C_lXjW7BFco/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjmLP6lrY3BfCc-RflKU0Rv-Abig" group-title="7/24",Yılmaz Güney
+https://ythls.armelin.one/video/C_lXjW7BFco.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Şener Şen" tvg-logo="https://i.ytimg.com/vi/ytMMecbnDuA/sddefault.jpg" group-title="7/24",Şener Şen
+https://ythls.armelin.one/video/ytMMecbnDuA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti" tvg-logo="https://i.ytimg.com/vi/o2nd_EV5how/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANwe824dEKRagSImdhjhN6luEIvg" group-title="7/24",Kızılcık Şerbeti
+https://ythls.armelin.one/video/o2nd_EV5how.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Gelin" tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvwvaLnan2Oe1jCPF4TbEA0oO-JQ" group-title="7/24",Yeni Gelin
+https://ythls.armelin.one/video/z2SSpfbknj8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Emret Komutanım" tvg-logo="https://i.ytimg.com/vi/CD-IE4Dh_p0/sddefault.jpg" group-title="7/24",Emret Komutanım
+https://ythls.armelin.one/video/CD-IE4Dh_p0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cennet Mahallesi" tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPTjCLBQTRIP2jTaxQ1PHssTK5Rw" group-title="7/24",Cennet Mahallesi
+https://ythls.armelin.one/video/lf1NxAexRAE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Güldür Güldür Show" tvg-logo="https://i.ytimg.com/vi/wlKifzoLGnU/sddefault.jpg" group-title="7/24",Güldür Güldür Show
+https://ythls.armelin.one/video/wlKifzoLGnU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2" tvg-logo="https://i.ytimg.com/vi/0aY7U3ztkR0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4RmduxSlBlPCNXgUQdrKlK27sQg" group-title="7/24",Çok Güzel Hareketler 2
+https://ythls.armelin.one/video/0aY7U3ztkR0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi" tvg-logo="https://i.ytimg.com/vi/13Jx2MQsaVc/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEtjjsGeinT9nV53qd8SKoF7NWvQ" group-title="7/24",Kurtlar Vadisi
+https://ythls.armelin.one/video/h3hxiPn_tpg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Behzat Ç" tvg-logo="https://i.ytimg.com/vi/asbzUzzLwxs/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj3tbLKK31Qf6482jEzRUtjxdADw" group-title="7/24",Behzat Ç
+https://ythls.armelin.one/video/asbzUzzLwxs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ramo" tvg-logo="https://i.ytimg.com/vi/B5qt4xs4HY0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBpZZIQenPPxURJnxsoJxN4XwDvA" group-title="7/24",Ramo
+https://ythls.armelin.one/video/B5qt4xs4HY0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="En Son Babalar Duyar" tvg-logo="https://i.ytimg.com/vi/kXAUBBh_h_s/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLADw5xd3GmVTTsbrgQmQ_qHeJnw" group-title="7/24",En Son Babalar Duyar
+https://ythls.armelin.one/video/kXAUBBh_h_s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dolunay" tvg-logo="https://i.ytimg.com/vi/zLKNAVL1N5U/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiRPJy7wEoHneNNGaEZu7qTtkH_w" group-title="7/24",Dolunay
+https://ythls.armelin.one/video/zLKNAVL1N5U.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Çilek Kokusu" tvg-logo="https://i.ytimg.com/vi/78sojzQcvgs/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATE_eK5cC01X58gjzMCAK8BRi9-w" group-title="7/24",Çilek Kokusu
+https://ythls.armelin.one/video/78sojzQcvgs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Erkenci Kuş" tvg-logo="https://i.ytimg.com/vi/_9ijNON1XqA/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwbn0d_dyKZ_H5H8sy4SOWAbdc8A" group-title="7/24",Erkenci Kuş
+https://ythls.armelin.one/video/_9ijNON1XqA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İstanbullu Gelin" tvg-logo="https://i.ytimg.com/vi/wD_m70TwAE4/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNkMcB0rCt1slobTQk9ow6CVwH1w" group-title="7/24",İstanbullu Gelin
+https://ythls.armelin.one/video/wD_m70TwAE4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın" tvg-logo="https://i.ytimg.com/vi/3yEtod4JfnM/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWW0-SmdCHefX0hzEAHepCUhYg6w" group-title="7/24",Çocuklar Duymasın
+https://ythls.armelin.one/video/nlKgLbRjGBw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sihirli Annem" tvg-logo="https://i.ytimg.com/vi/hzRyv4pyeO0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJWdTiqyKw-bbLCAW40RFSjGrAXQ" group-title="7/24",Sihirli Annem
+https://ythls.armelin.one/video/hzRyv4pyeO0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuzey Yıldızı İlk Aşk" tvg-logo="https://i.ytimg.com/vi/xvux0pJpQ9c/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlAhWbE-MBQ6tQUX1hzu5tr4TjiA" group-title="7/24",Kuzey Yıldızı İlk Aşk
+https://ythls.armelin.one/video/xvux0pJpQ9c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Bazen Tatlıdır" tvg-logo="https://i.ytimg.com/vi/i29uLOrNvh0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzYINUFE_tBc5p5E38QAJfXq8_0g" group-title="7/24",Hayat Bazen Tatlıdır
+https://ythls.armelin.one/video/i29uLOrNvh0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiralık Aşk" tvg-logo="https://i.ytimg.com/vi/Axpkjga2n9g/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOI4M5QxlD7IeCaaeL_gMBy0gTDA" group-title="7/24",Kiralık Aşk
+https://ythls.armelin.one/video/Axpkjga2n9g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Avlu" tvg-logo="https://i.ytimg.com/vi/UZKBjwHYuWc/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU3U_9ePj87NWts9rNUosmb_Wqmg" group-title="7/24",Avlu
+https://ythls.armelin.one/video/UZKBjwHYuWc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anne" tvg-logo="https://i.ytimg.com/vi/F2fECVIN8Zo/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIUjzbqKhPmGXyEC4I96jKQPSF6A" group-title="7/24",Anne
+https://ythls.armelin.one/video/F2fECVIN8Zo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kurt Seyit VE Şura" tvg-logo="https://i.ytimg.com/vi/K3KeDsU8DIQ/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF4ySeoYD6_Z41KH58v8XSDMXqCw" group-title="7/24",Kurt Seyit VE Şura
+https://ythls.armelin.one/video/K3KeDsU8DIQ.m3u8
+
+
+#EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iL6RAg9IQU97wmHyS2uKL6gStf.jpg" tvg-name="Dizi | Aldatmak" ,Dizi | Aldatmak
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/225037.mp4
+#EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" tvg-name="Dizi | Hudutsuz Sevda" ,Dizi | Hudutsuz Sevda
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304116.mp4
+#EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAJzdBhrjZ3Q9Ix6LBIYGH6Sqm.jpg" tvg-name="Dizi | Sakla Beni" ,Dizi | Sakla Beni
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312519.mp4
+#EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" tvg-name="Dizi | inci Taneleri" ,Dizi | inci Taneleri
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/320245.mp4
+#EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/NwAExjJr8mxlitwrofNSYJyc1p.jpg" tvg-name="Dizi | Kül Masalı" ,Dizi | Kül Masalı
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/320426.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" tvg-name="Dizi | Üç Kız Kardeş" ,Dizi | Üç Kız Kardeş
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224625.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9y4RD8loOuolJKjaBv2gzrhjns.jpg" tvg-name="Dizi | Yan Oda" ,Dizi | Yan Oda
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/233847.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5dpOSwCN3jyuYHQtSKZcptlF6ZO.jpg" tvg-name="Dizi | Korkma Ben Yanındayım" ,Dizi | Korkma Ben Yanındayım
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224518.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" tvg-name="Dizi | Güldür Güldür Show" ,Dizi | Güldür Güldür Show
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224899.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" tvg-name="Dizi | Gönül Dağı" ,Dizi | Gönül Dağı
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/211258.mp4
+#EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" tvg-name="Dizi | Kardeşlerim" ,Dizi | Kardeşlerim
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224517.mp4
+#EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" tvg-name="Dizi | Teşkilat" ,Dizi | Teşkilat
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/226996.mp4
+#EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" tvg-name="Dizi | Yargı" ,Dizi | Yargı
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/226093.mp4
+#EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" tvg-name="Dizi | Kirli Sepeti" ,Dizi | Kirli Sepeti
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304158.mp4
+#EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" tvg-name="Dizi | Çok Güzel Hareketler 2" ,Dizi | Çok Güzel Hareketler 2
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304378.mp4
+#EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" tvg-name="Dizi | Kod Adı: Kırlangıç" ,Dizi | Kod Adı: Kırlangıç
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/313514.mp4
+#EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" tvg-name="Dizi | Kızıl Goncalar" ,Dizi | Kızıl Goncalar
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/197347.mp4
+#EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" tvg-name="Dizi | Ömer" ,Dizi | Ömer
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303414.mp4
+#EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVqXOJXrfNlb0kqtV0mkLklmwkF.jpg" tvg-name="Dizi | Kudüs Fatihi: Selahaddin Eyyubi" ,Dizi | Kudüs Fatihi: Selahaddin Eyyubi
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312455.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" tvg-name="Dizi | Arka Sokaklar" ,Dizi | Arka Sokaklar
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/234103.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" tvg-name="Dizi | Ateş Kuşları" ,Dizi | Ateş Kuşları
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/302460.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qatIOhTHbo7xIpx5vzwwKyN2Wwc.jpg" tvg-name="Dizi | Gaddar" ,Dizi | Gaddar
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303415.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" tvg-name="Dizi | Kızılcık Şerbeti" ,Dizi | Kızılcık Şerbeti
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303872.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" tvg-name="Dizi | Yalı Çapkını" ,Dizi | Yalı Çapkını
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303873.mp4
+#EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" tvg-name="Dizi | Kara Ağaç Destanı" ,Dizi | Kara Ağaç Destanı
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/327728.mp4
+#EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Qefg7GWY2mBiGzrclOCuP7nFa.jpg" tvg-name="Dizi | Senden Önce" ,Dizi | Senden Önce
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/208422.mp4
+#EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" tvg-name="Dizi | Yabani" ,Dizi | Yabani
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303768.mp4
+#EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" tvg-name="Dizi | Ben Bu Cihana Sığmazam" ,Dizi | Ben Bu Cihana Sığmazam
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303769.mp4
+#EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwlxk1YjsaNQdRrmZ1I6j4fr2Zd.jpg" tvg-name="Dizi | Bahar" ,Dizi | Bahar
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304401.mp4
+#EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" tvg-name="Dizi | Mehmed: Fetihler Sultanı" ,Dizi | Mehmed: Fetihler Sultanı
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/327998.mp4
+#EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu4BWsGFHcYDWulZwHxylA91vo0.jpg" tvg-name="Dizi | Kuruluş Osman" ,Dizi | Kuruluş Osman
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304435.mp4
+#EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tP04QCH0w1stQJ8JD4XuVwfMPFi.jpg" tvg-name="Dizi | Şahane Hayatım" ,Dizi | Şahane Hayatım
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312474.mp4
+#EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7apgIsMpzmxHvkDd1QdpQOhDtGG.jpg" tvg-name="Dizi | Bir Sevdadır" ,Dizi | Bir Sevdadır
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/319012.mp4
+#EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vpW0dvYdpiXltm96WtXg7iEcw0d.jpg" tvg-name="Dizi | Sandık Kokusu" ,Dizi | Sandık Kokusu
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/319366.mp4
+#EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" tvg-name="Dizi | Taş Kağıt Makas" ,Dizi | Taş Kağıt Makas
+http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/328048.mp4
