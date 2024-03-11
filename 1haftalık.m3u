@@ -3,20 +3,7 @@
 https://ythls.armelin.one/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 1" tvg-logo="https://i.ytimg.com/vi/hfx8H7YrmTw/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_CAKbKLwTFHt_Idu8yjh4WnrrBA" group-title="7/24",Kemal Sunal 1
-https://ythls-v2.onrender.com/video/YpszCBqX0S8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 2" tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrduICAh8nlP_W7RRd-FCHdK2_Bw" group-title="7/24",Kemal Sunal 2
-https://ythls-v2.onrender.com/video/lDI6Lbxhz6Y.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 3" tvg-logo="https://i.ytimg.com/vi/oQqV-8XVM2A/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDu3M6AeBQVrgA_pzXafvJVpcsqw" group-title="7/24",Kemal Sunal 3
-https://ythls-v2.onrender.com/video/hfx8H7YrmTw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zeki Alasya Metin Akpınar" tvg-logo="https://i.ytimg.com/vi/EYg1n041Nug/sddefault.jpg" group-title="7/24",Zeki Alasya Metin Akpınar
-https://ythls-v2.onrender.com/video/EYg1n041Nug.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MalkoçOğlu" tvg-logo="https://i.ytimg.com/vi/hmgM0Yzfj_4/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8fsvDbZbnzb9A5xzsD_M6pJrDw" group-title="7/24",MalkoçOğlu
-http://databilgin1.online:8080/GFwXXKjJt5/D4Yd2YPawP/1420
-#EXTINF:-1 tvg-id="" tvg-name="Yılmaz Güney" tvg-logo="https://i.ytimg.com/vi/C_lXjW7BFco/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjmLP6lrY3BfCc-RflKU0Rv-Abig" group-title="7/24",Yılmaz Güney
-https://ythls.armelin.one/video/C_lXjW7BFco.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Şener Şen" tvg-logo="https://i.ytimg.com/vi/ytMMecbnDuA/sddefault.jpg" group-title="7/24",Şener Şen
-https://ythls.armelin.one/video/ytMMecbnDuA.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti" tvg-logo="https://i.ytimg.com/vi/o2nd_EV5how/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANwe824dEKRagSImdhjhN6luEIvg" group-title="7/24",Kızılcık Şerbeti
 https://ythls.armelin.one/video/o2nd_EV5how.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yeni Gelin" tvg-logo="https://i.ytimg.com/vi/z2SSpfbknj8/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvwvaLnan2Oe1jCPF4TbEA0oO-JQ" group-title="7/24",Yeni Gelin
@@ -64,72 +51,72 @@ https://ythls.armelin.one/video/K3KeDsU8DIQ.m3u8
 
 
 #EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iL6RAg9IQU97wmHyS2uKL6gStf.jpg" tvg-name="Dizi | Aldatmak" ,Dizi | Aldatmak
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/225037.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/225037.mp4
 #EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" tvg-name="Dizi | Hudutsuz Sevda" ,Dizi | Hudutsuz Sevda
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304116.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/304116.mp4
 #EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEAJzdBhrjZ3Q9Ix6LBIYGH6Sqm.jpg" tvg-name="Dizi | Sakla Beni" ,Dizi | Sakla Beni
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312519.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/312519.mp4
 #EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" tvg-name="Dizi | inci Taneleri" ,Dizi | inci Taneleri
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/320245.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/320245.mp4
 #EXTINF:-1 group-title="⊵ Perşembe  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/NwAExjJr8mxlitwrofNSYJyc1p.jpg" tvg-name="Dizi | Kül Masalı" ,Dizi | Kül Masalı
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/320426.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/320426.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a46cKxbo0CnQO1aK0FhpHB1yTeG.jpg" tvg-name="Dizi | Üç Kız Kardeş" ,Dizi | Üç Kız Kardeş
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224625.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/224625.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z9y4RD8loOuolJKjaBv2gzrhjns.jpg" tvg-name="Dizi | Yan Oda" ,Dizi | Yan Oda
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/233847.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/233847.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5dpOSwCN3jyuYHQtSKZcptlF6ZO.jpg" tvg-name="Dizi | Korkma Ben Yanındayım" ,Dizi | Korkma Ben Yanındayım
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224518.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/224518.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" tvg-name="Dizi | Güldür Güldür Show" ,Dizi | Güldür Güldür Show
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224899.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/224899.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" tvg-name="Dizi | Gönül Dağı" ,Dizi | Gönül Dağı
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/211258.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/211258.mp4
 #EXTINF:-1 group-title="⊵ Cumartesi  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oOtWDDHnI7Btudpa5i579fxZMfh.jpg" tvg-name="Dizi | Kardeşlerim" ,Dizi | Kardeşlerim
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/224517.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/224517.mp4
 #EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fV7UwkvyxpNFeFe9HQqjY7Idzj.jpg" tvg-name="Dizi | Teşkilat" ,Dizi | Teşkilat
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/226996.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/226996.mp4
 #EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gUb3TjQim6m6dFKryqiyrj9DPpL.jpg" tvg-name="Dizi | Yargı" ,Dizi | Yargı
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/226093.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/226093.mp4
 #EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" tvg-name="Dizi | Kirli Sepeti" ,Dizi | Kirli Sepeti
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304158.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/304158.mp4
 #EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" tvg-name="Dizi | Çok Güzel Hareketler 2" ,Dizi | Çok Güzel Hareketler 2
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304378.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/304378.mp4
 #EXTINF:-1 group-title="⊵ Pazar  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg" tvg-name="Dizi | Kod Adı: Kırlangıç" ,Dizi | Kod Adı: Kırlangıç
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/313514.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/313514.mp4
 #EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" tvg-name="Dizi | Kızıl Goncalar" ,Dizi | Kızıl Goncalar
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/197347.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/197347.mp4
 #EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h2DVddf9ZXKJtNOYCcdnJwzuokd.jpg" tvg-name="Dizi | Ömer" ,Dizi | Ömer
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303414.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303414.mp4
 #EXTINF:-1 group-title="⊵ Pazartesi Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVqXOJXrfNlb0kqtV0mkLklmwkF.jpg" tvg-name="Dizi | Kudüs Fatihi: Selahaddin Eyyubi" ,Dizi | Kudüs Fatihi: Selahaddin Eyyubi
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312455.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/312455.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lh8xbSr43ZVl3cI5Lu0hdW2ckW.jpg" tvg-name="Dizi | Arka Sokaklar" ,Dizi | Arka Sokaklar
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/234103.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/234103.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5dna9YzzCgb18g41vh4tBAMRBgz.jpg" tvg-name="Dizi | Ateş Kuşları" ,Dizi | Ateş Kuşları
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/302460.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/302460.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qatIOhTHbo7xIpx5vzwwKyN2Wwc.jpg" tvg-name="Dizi | Gaddar" ,Dizi | Gaddar
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303415.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303415.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" tvg-name="Dizi | Kızılcık Şerbeti" ,Dizi | Kızılcık Şerbeti
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303872.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303872.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBQbzobXatNvjlodo6trmxOVz.jpg" tvg-name="Dizi | Yalı Çapkını" ,Dizi | Yalı Çapkını
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303873.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303873.mp4
 #EXTINF:-1 group-title="⊵ Cuma  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" tvg-name="Dizi | Kara Ağaç Destanı" ,Dizi | Kara Ağaç Destanı
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/327728.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/327728.mp4
 #EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w3Qefg7GWY2mBiGzrclOCuP7nFa.jpg" tvg-name="Dizi | Senden Önce" ,Dizi | Senden Önce
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/208422.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/208422.mp4
 #EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/skDntcucT92NslUhJxuj68Uuqyr.jpg" tvg-name="Dizi | Yabani" ,Dizi | Yabani
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303768.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303768.mp4
 #EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/coV7lnv9A0eExfKh5rWcxiG52zZ.jpg" tvg-name="Dizi | Ben Bu Cihana Sığmazam" ,Dizi | Ben Bu Cihana Sığmazam
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/303769.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/303769.mp4
 #EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gwlxk1YjsaNQdRrmZ1I6j4fr2Zd.jpg" tvg-name="Dizi | Bahar" ,Dizi | Bahar
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304401.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/304401.mp4
 #EXTINF:-1 group-title="⊵ Salı Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" tvg-name="Dizi | Mehmed: Fetihler Sultanı" ,Dizi | Mehmed: Fetihler Sultanı
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/327998.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/327998.mp4
 #EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu4BWsGFHcYDWulZwHxylA91vo0.jpg" tvg-name="Dizi | Kuruluş Osman" ,Dizi | Kuruluş Osman
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/304435.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/304435.mp4
 #EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tP04QCH0w1stQJ8JD4XuVwfMPFi.jpg" tvg-name="Dizi | Şahane Hayatım" ,Dizi | Şahane Hayatım
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/312474.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/312474.mp4
 #EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7apgIsMpzmxHvkDd1QdpQOhDtGG.jpg" tvg-name="Dizi | Bir Sevdadır" ,Dizi | Bir Sevdadır
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/319012.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/319012.mp4
 #EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vpW0dvYdpiXltm96WtXg7iEcw0d.jpg" tvg-name="Dizi | Sandık Kokusu" ,Dizi | Sandık Kokusu
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/319366.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/319366.mp4
 #EXTINF:-1 group-title="⊵ Çarşamba  Dizileri" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" tvg-name="Dizi | Taş Kağıt Makas" ,Dizi | Taş Kağıt Makas
-http://filbox505.com:8080/movie/hasan.guzee/12.11.2021/328048.mp4
+http://filbox505.com:8080/movie/tanerademi@1/6jev1i3RZH/328048.mp4
