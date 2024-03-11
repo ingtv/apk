@@ -3068,3 +3068,6 @@ https://www.vavoo.to/play/2020488443/index.m3u8
 #EXTINF:0, TV 52 
 #EXTVLCOPT:network-caching=1000
 https://www.vavoo.to/play/1617166538/index.m3u8
+#EXTINF:0, HABİTAT 
+#EXTVLCOPT:network-caching=1000
+https://www.kool.to/play/633716829/index.m3u8
