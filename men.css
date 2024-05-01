@@ -1,66 +1,184 @@
+   body{
+        
+               background-image: -webkit-radial-gradient(top, circle cover, #000, #fff 80%); 
+    }
 
-  <style>
-    body {background:linear-gradient()}
 
-/* CARD */
-.lista-canales{width:100%;display:grid;grid-template-columns:repeat(5,1fr);grid-gap:2px}
-.limit-responsive{padding:8px;display:inline-block}
-.limit-responsive .card{box-shadow:0 0.8rem 0.4rem rgba(0,0,0,.8);padding:2px;border-radius:2px;text-align:center;background:#800080;transition:all 0.2s cubic-bezier(0.0,0.0,0.0,0.0) 0s!important;display:inline-block}
-.limit-responsive .card:hover{box-shadow:0 15px 30px 0 rgba(212,170,255,1);transform:translateX(0px) translateY(-1px)!important}
-.limit-responsive .card-image{margin-bottom:0.1rem}
-.limit-responsive .card-image img{width:100%;aspect-ratio:4 / 3;object-fit:cover;border-radius:1px}
-.limit-responsive .card-title{font-size:0.8rem;color:#fff;text-decoration:none;font-weight:450;margin-bottom:0.4rem;display:inline-block}
-.skeleton{position:relative}
-.skeleton::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;z-index:0;background:linear-gradient(45deg,#0,#0,#0);background-size:250%;animation:skeleton 0s infinite reverse;border-radius:1px}
-@keyframes skeleton {
-    0% {background-position: -100% 0;}
-    100% {background-position: 100% 0;}
+h5{
+font-size:10px;
+color:yellow;
+background:#0b0019;
+font-weight:bold;
+font-family:verdana;			
+  	}	
+  	
+  	h4{
+font-size:12px;
+color:red;
+font-weight:bold;
+font-family:verdana;			
+  	}	
+
+
+
+h1 {
+color:dodgerblue;		
+font-size:14px;
+font-weight:bold;
+font-family:verdana;
 }
 
-</style>
-<style type="text/css">
-    /* RESPONSIVE */
-
-@media only screen and (max-width: 800px) {
-.lista-canales {grid-template-columns: repeat(4,1fr);grid-gap: 3px;}
+div{
+color:black;
 }
-@media only screen and (max-width: 700px) {
-.lista-canales {grid-template-columns: repeat(3,1fr);grid-gap: 3px;}
+
+p {
+color:orange;		
+font-size:10px;
+font-weight:bold;
+font-family:verdana;
 }
-@media only screen and (max-width: 600px) {
-.lista-canales {grid-template-columns: repeat(2,1fr);grid-gap: 3px;}
+
+
+
+h2 {
+color:white;		
+font-size:14px;
+font-family: Montserrat, sans-serif;
 }
-</style>
 
-
-<script>
-  const allSkeleton = document.querySelectorAll('.skeleton')
-
-window.addEventListener('load', function() {
-  allSkeleton.forEach(item=> {
-    item.classList.remove('skeleton')
-  })
-})
-</script>
-
-
-<body onLoad='Image()'>
-
-<img height='0' id='ingsportwebtv' name='ingsportwebtv' src='http://whos.amung.us/cwidget/batvywa5r9/000000d30000.png?' title='ingsportwebtv' width='0'/>
-
-<script type="text/javascript">
-
-function Image(){
-
-if(document.images){
-
-document.images['ingsportwebtv'].src = 'http://whos.amung.us/cwidget/batvywa5r9/000000d30000' +
-
-Date.parse(new Date().toString());
-
-} setTimeout(Image,14999);
-
+h3 {
+color:white;		
+font-size:11px;
+font-weight:bold;
+font-family: Montserrat, sans-serif;
 }
-</script>
-    </div>
+
+html {
+   -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+
+
+ 
     
+    .blucard {
+        background: #120b16;
+        color: #fff;
+        width: 100%;
+        border-radius: 5px;
+        position: relative; /* Animasyonlu geçişlerin temel referansı */
+    }
+
+    .blucard:hover {
+    
+        opacity: 0.8;
+        transition: 0.5s ease;
+    }
+
+    .bluimg {
+      border-radius: 4px;
+        float: left;
+        width: 100px;
+        position: relative;
+        left: -17px;
+        bottom: -0.3px;
+    }
+    
+
+.bluimg2 {
+        
+        float: right;
+        border-radius: 0px;
+        width: 70px;
+        top:5px;
+        position: relative;
+        left: 10px;
+        bottom: -5px;
+    }
+    
+    
+    strong {
+   
+        font-weight: 500;
+        color: #fff;
+        font-size:13px;
+    }
+
+    p {
+        color: #aa56ff;
+        font-size:11px;
+    }
+
+    p, strong {
+       position:relative;top:10px;left:0px;float:left;
+        font-family: "Poppins", sans-serif;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    h1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        font-family: "Poppins", sans-serif;
+        color: #fff;
+    }
+
+    .head {
+        height: 90px;
+        overflow: hidden;
+        display: none;
+    }
+
+    .fliximg {
+        width: 100%;
+        position: relative;
+        top: -50px;
+        border-radius: 4px;
+        pointer-events: none;
+        user-select: none;
+    }
+
+marquee {
+color:white;		
+font-size:12px;
+font-weight:normal;
+font-family:verdana;
+border-radius: 8px;
+}
+
+
+
+    /* Animasyonlu geçişler */
+    .blucard::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: -100%; /* Kartın solundan başlar */      border-radius: 5px;
+transition:all 0.5s ease-in;        
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to right, transparent, #551a8b); /* Geçiş rengi */
+        z-index: -1;
+        transition: left 0.3s ease; /* Geçiş süresi ve efekti */
+    }
+
+    .blucard:hover::before {
+        left: 0; /* Kartın soluna kad y: 0.10;*/
+    }
+
+    .w3-container {
+        background-image: -webkit-radial-gradient(top, circle cover, #551a8b, #000, #000 20%); 
+  }
+          .logo{
+            position:relative;top:0px;left:0px;
+        }
