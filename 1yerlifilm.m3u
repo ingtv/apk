@@ -1,6 +1,136 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHjzwRLHfTnrDv8l2K4lnNCvstW.jpg" tvg-name="Aniden (2023)" ,Aniden (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/412420.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeLgDRs67kCsmNcRC5mOqQtW1qI.jpg" tvg-name="Sağ Salim 3: Ölü ya da Diri (2023)" ,Sağ Salim 3: Ölü ya da Diri (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/411003.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9o5LSeAqfuj5aL0eHENiWzNh06q.jpg" tvg-name="Tebessüm (2023)" ,Tebessüm (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408931.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eOYDYX2iSpuEbJRjQTAPzFW8zO.jpg" tvg-name="Haile 2: Var mı, Yok mu?! (2023)" ,Haile 2: Var mı, Yok mu?! (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406431.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIoQhQSLg12jUvC8tVoV9NPXZIi.jpg" tvg-name="Murat Göğebakan: Kalbim Yaralı  (2023)" ,Murat Göğebakan: Kalbim Yaralı  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406293.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TnOxgwp0rWdR1Of9d3VLCFQoIU.jpg" tvg-name="Ölümlü Dünya 2 (2023)" ,Ölümlü Dünya 2 (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/405134.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HQOLX5t4BvrSGQQ96wtla5Lj3G.jpg" tvg-name="Benim Babam Bir Kahraman (2023)" ,Benim Babam Bir Kahraman (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404673.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCwsrcvblhgNkWYE3s8U4NVU8aZ.jpg" tvg-name="Aşkın Saati 19.03 (2023)" ,Aşkın Saati 19.03 (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404671.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzWkK27IAtPGq1jyWr9RniWeNK1.jpg" tvg-name="Cam Perde (2023)" ,Cam Perde (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404211.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OIQ69sQgfbQbFaso5E7mDEqzra.jpg" tvg-name="Çok Aşk  (2023)" ,Çok Aşk  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/399721.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmcPWOhKeJBCGhQ3m3cmjNAX4bL.jpg" tvg-name="Her Şey Aşk İçin (2023)" ,Her Şey Aşk İçin (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/397490.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0G1EKzx8qzkFHRQAgSpkgYlzNy.jpg" tvg-name="Bulutlarin Üstünde (2023)" ,Bulutlarin Üstünde (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/395812.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JG7dWfWQIefBWCRyOEzerps2tc.jpg" tvg-name="Hep Yek: Düğün (2023)" ,Hep Yek: Düğün (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392881.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://www.antraktsinema.com/images/pimages/202309/gelecekb_1694213991.jpg" tvg-name="Kocamı Kim Öldürür? (2023)" ,Kocamı Kim Öldürür? (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392339.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idwvE58BYtybZ0rgaUXWpii56xV.jpg" tvg-name="Güven Bana (2023)" ,Güven Bana (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392293.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVhOTExZmYtMjg4Ny00ZThjLTg1NzQtNmNiNGU1ZGIzYmU3XkEyXkFqcGdeQXVyMTc0Mzk5MDI5._V1_.jpg" tvg-name="Şahmeran Efsanesi - Tulhan (2023)" ,Şahmeran Efsanesi - Tulhan (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/390360.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nasM74XXRZaoWh5ViOs7eIf5sbK.jpg" tvg-name="Kuru Otlar Üstüne  (2023)" ,Kuru Otlar Üstüne  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/388933.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thBskRY5JVmvjypGQ32TWyZTHAU.jpg" tvg-name="Mühr-ü Musallat 2: Yasak Düğün (2023)" ,Mühr-ü Musallat 2: Yasak Düğün (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/380848.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://imagizer.imageshack.com/img921/3571/h2dwhm.jpg" tvg-name="Şeytan İcadı (2023)" ,Şeytan İcadı (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/380647.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://www.programi.info.tr/usr/image/news/35.jpg" tvg-name="O Ses Türkiye Yilbasi Ozel 31.12.2023" ,O Ses Türkiye Yilbasi Ozel 31.12.2023
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367982.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/659116c38e3a7e39eb00765d.jpg" tvg-name="Ibo Show Yilbasi Ozel 31.12.2023" ,Ibo Show Yilbasi Ozel 31.12.2023
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367981.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaSimDcboSv9WwCfSRmEQRB0gyq.jpg" tvg-name="Hadi Hayırlısı: Istakoz'un Haritası (2023)" ,Hadi Hayırlısı: Istakoz'un Haritası (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367978.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9GA5i22zOYf7oafxmEdfLtdn7T.jpg" tvg-name="21 Numara Aşkın Tadı (2023)" ,21 Numara Aşkın Tadı (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367791.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBbLYIxPU5Nlf6KCAZmocH4wDQs.jpg" tvg-name="Balayı Olayı (2023)" ,Balayı Olayı (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367607.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKAd1lQJwdWgED1WZeNRJbHvKh5.jpg" tvg-name="Biricik Sevgilim (2023)" ,Biricik Sevgilim (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367575.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KCHi4ZhMebZLcRxs0xFcXt3BpQ.jpg" tvg-name="Bozuk Para (2023)" ,Bozuk Para (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367573.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/03/16/07/25/1158652.jpg" tvg-name="Öt Bakalim (2023)" ,Öt Bakalim (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/366421.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PIWJtWFgARvsCJ4crQ8mErQjqF.jpg" tvg-name="Dünya Evi (2023)" ,Dünya Evi (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365729.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iOtQcEH9QKn01UmCTM6Wsu2QoD.jpg" tvg-name="Beni Sev (2023)" ,Beni Sev (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365617.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZslzGO2f2gcCkaBDUpYhyHq5hq.jpg" tvg-name="Maske: Nezaketle Tebessüm (2023)" ,Maske: Nezaketle Tebessüm (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365114.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zihhLB7GFuQEVUOzkrTfFOh7fGO.jpg" tvg-name="Mitat (2023)" ,Mitat (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/363914.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nIpQCD33LdhgRR5f3lA9C2KcGR.jpg" tvg-name="Adalet (2023)" ,Adalet (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/362412.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" tvg-name="Her Şeye Rağmen (2023)" ,Her Şeye Rağmen (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/361775.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z27iBILZKi4iBLlZnjULlIGSs0.jpg" tvg-name="İstanbul İçin  Son Çağrı (2023)" ,İstanbul İçin  Son Çağrı (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/361062.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vabWySL4pStUgOxbVAXIKh8r1xd.jpg" tvg-name="Bomboş (2023)" ,Bomboş (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/359231.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKeIyqzkhltiienCDAGUUYEeKpn.jpg" tvg-name="Atatürk 1881 - 1919 Tv Özel (2023)" ,Atatürk 1881 - 1919 Tv Özel (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/358087.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5ZysOOHYsQFGzYBpEKgGmiLde0.jpg" tvg-name="Oregon  (2023)" ,Oregon  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/354511.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" tvg-name="Do Not  Disturb (2023)" ,Do Not  Disturb (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/351109.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://turktorrent.us/data/torrents/torrent_images/l/gokyuzu.jpg" tvg-name="Gokyuzunde Yalniz Gezen Yildiz (2023)" ,Gokyuzunde Yalniz Gezen Yildiz (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349933.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuKQz6u3F0MAJ56m1Nyj7tKmoQO.jpg" tvg-name="Üçlü  Pürüz (2023)" ,Üçlü  Pürüz (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349720.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://ortakoltuk.com/wp-content/uploads/2023/04/hava-muhalefeti-3.jpg" tvg-name="Hava Muhalefeti  (2023)" ,Hava Muhalefeti  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349670.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7u0zU2n3hNGCOBNW5bJNanY21S.jpg" tvg-name="Gizemli Ada Mençuna  (2023)" ,Gizemli Ada Mençuna  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349043.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://sarigolgundemcom.teimg.com/crop/860x504/sarigolgundem-com/uploads/2023/08/tatli-vatan-filmi-konusu-ve-oyunculari.jpg" tvg-name="Tatlı Vatan (2023)" ,Tatlı Vatan (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348159.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Qslo9adBC0aueLXMNCJRfdlmh.jpg" tvg-name="Kötü Adamın 10 Günü  (2023)" ,Kötü Adamın 10 Günü  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347240.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://turktorrent.us/data/torrents/torrent_images/s/bizum-hoca-bezdum-da-.jpg" tvg-name="Bizum Hoca: Bezdum Da (2023)" ,Bizum Hoca: Bezdum Da (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/345752.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drPcZBvO6QciwrekEJm41XfYyyH.jpg" tvg-name="Babasının Kızı (2022)" ,Babasının Kızı (2022)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340719.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-name="Aşk Taktikleri 2  (2023)" ,Aşk Taktikleri 2  (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340778.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvFdPztBqJ0IaudQYFeR7q1LgRb.jpg" tvg-name="Kutsal Damacana  4 (2023) " ,Kutsal Damacana  4 (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/327619.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djYjkVJMiNH4qkpsvizbGL3fbzN.jpg" tvg-name="49(2023)" ,49(2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/328803.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" tvg-name="Aaahh Belinda (2023)" ,Aaahh Belinda (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286315.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clwHafikVyst4Ka2JelkpygvQvQ.jpg" tvg-name="Bekle Beni Sevgilim (2023)" ,Bekle Beni Sevgilim (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286316.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVzVkpG578B5GqhCDTJnPM8bBkv.jpg" tvg-name="Boğa Boğa (2023)" ,Boğa Boğa (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286317.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" tvg-name="Bursa Bülbülü (2023)" ,Bursa Bülbülü (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286318.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quvLSZ2f7tHKrnvsgFJJITV0JbD.jpg" tvg-name="Fatih Sultan Mehmed: Yeni Çağ (2023)" ,Fatih Sultan Mehmed: Yeni Çağ (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286319.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg3MTU2NDUtMDY3NC00Y2Q4LTlkNTMtZTJhNmY2ZDhlZTIwXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_QL75_UY281_CR18,0,190,281_.jpg" tvg-name="Geleceğin Rotası (2023)" ,Geleceğin Rotası (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286320.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg" tvg-name="İyi Adamın 10 Günü (2023)" ,İyi Adamın 10 Günü (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286321.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDQcaeIAn5WYvXkgi5BCqAkF3N1.jpg" tvg-name="Özür Dilerim (2023)" ,Özür Dilerim (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286323.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cauJv3xZTuSxLQsDiN7iD4h7a6.jpg" tvg-name="Rüyanda Görürsün (2023)" ,Rüyanda Görürsün (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286324.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P5GkzPq39bSX6yfzTD8amY9FCb.jpg" tvg-name="Su Koruyucuları: Geleceğin Beşlisi (2023)" ,Su Koruyucuları: Geleceğin Beşlisi (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286325.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41EQsE69jQvLzizxLz3oiZIzQgk.jpg" tvg-name="Karanlık Kutunun Doğu Serüveni (2022)" ,Karanlık Kutunun Doğu Serüveni (2022)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286322.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg" tvg-name="Ulan Salih (2023)" ,Ulan Salih (2023)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340817.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7rjlq8behqy1wOZJSO9iEoSwl.jpg" tvg-name="Sen Büyümeye Bak (2024)" ,Sen Büyümeye Bak (2024)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/409207.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vz8zs8W6Jho28mwj0hv2BhLl9Ug.jpg" tvg-name="Kıyma: Orman Kanunları (1970)" ,Kıyma: Orman Kanunları (1970)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/409163.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://img3.aksam.com.tr/imgsdisk/2023/11/20/sinancaliskanogluvea-20112023c538d741.jpg" tvg-name="Ah Leyla Vah Kerem (2024)" ,Ah Leyla Vah Kerem (2024)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408933.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyaKD0Ou5cmZRws27TteVGDFvLG.jpg" tvg-name="Pelesenk Ailesi (2024)" ,Pelesenk Ailesi (2024)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408925.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BgTCtUDdbdruylMHMnXxAzWBNo.jpg" tvg-name="Kasada Parti  (2024)" ,Kasada Parti  (2024)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408135.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccBBB5gwvBJpeyr9pSR5Ukbp2QF.jpg" tvg-name="Cici Anne (2024)" ,Cici Anne (2024)
@@ -33,6 +163,8 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/401417.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392337.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/os3YzJC18qjb96531jZ9U32Ju2I.jpg" tvg-name="Kül (2024)" ,Kül (2024)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/387793.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccCsgqAUOJ5EnhenNLRK7K6hGqf.jpg" tvg-name="Gönül (2022)" ,Gönül (2022)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408827.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Pd0yWH7bgXzKyCJCq47GcG9t2r.jpg" tvg-name="Semur 3: Kıyamet-i Cin (2022)" ,Semur 3: Kıyamet-i Cin (2022)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406610.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dnNxG5Pv9hrBB9TeARbBXLDtTm.jpg" tvg-name="Müsfer: Cin Kabilesi (2022)" ,Müsfer: Cin Kabilesi (2022)
@@ -193,122 +325,6 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/341997.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/342896.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6HAFVVuhb26CajSyNIL5lIv40.jpg" tvg-name="Bergen (2022)" ,Bergen (2022)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347263.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eOYDYX2iSpuEbJRjQTAPzFW8zO.jpg" tvg-name="Haile 2: Var mı, Yok mu?! (2023)" ,Haile 2: Var mı, Yok mu?! (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406431.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIoQhQSLg12jUvC8tVoV9NPXZIi.jpg" tvg-name="Murat Göğebakan: Kalbim Yaralı  (2023)" ,Murat Göğebakan: Kalbim Yaralı  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406293.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TnOxgwp0rWdR1Of9d3VLCFQoIU.jpg" tvg-name="Ölümlü Dünya 2 (2023)" ,Ölümlü Dünya 2 (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/405134.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HQOLX5t4BvrSGQQ96wtla5Lj3G.jpg" tvg-name="Benim Babam Bir Kahraman (2023)" ,Benim Babam Bir Kahraman (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404673.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCwsrcvblhgNkWYE3s8U4NVU8aZ.jpg" tvg-name="Aşkın Saati 19.03 (2023)" ,Aşkın Saati 19.03 (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404671.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzWkK27IAtPGq1jyWr9RniWeNK1.jpg" tvg-name="Cam Perde (2023)" ,Cam Perde (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404211.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OIQ69sQgfbQbFaso5E7mDEqzra.jpg" tvg-name="Çok Aşk  (2023)" ,Çok Aşk  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/399721.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmcPWOhKeJBCGhQ3m3cmjNAX4bL.jpg" tvg-name="Her Şey Aşk İçin (2023)" ,Her Şey Aşk İçin (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/397490.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0G1EKzx8qzkFHRQAgSpkgYlzNy.jpg" tvg-name="Bulutlarin Üstünde (2023)" ,Bulutlarin Üstünde (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/395812.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JG7dWfWQIefBWCRyOEzerps2tc.jpg" tvg-name="Hep Yek: Düğün (2023)" ,Hep Yek: Düğün (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392881.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://www.antraktsinema.com/images/pimages/202309/gelecekb_1694213991.jpg" tvg-name="Kocamı Kim Öldürür? (2023)" ,Kocamı Kim Öldürür? (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392339.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idwvE58BYtybZ0rgaUXWpii56xV.jpg" tvg-name="Güven Bana (2023)" ,Güven Bana (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392293.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVhOTExZmYtMjg4Ny00ZThjLTg1NzQtNmNiNGU1ZGIzYmU3XkEyXkFqcGdeQXVyMTc0Mzk5MDI5._V1_.jpg" tvg-name="Şahmeran Efsanesi - Tulhan (2023)" ,Şahmeran Efsanesi - Tulhan (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/390360.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nasM74XXRZaoWh5ViOs7eIf5sbK.jpg" tvg-name="Kuru Otlar Üstüne  (2023)" ,Kuru Otlar Üstüne  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/388933.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thBskRY5JVmvjypGQ32TWyZTHAU.jpg" tvg-name="Mühr-ü Musallat 2: Yasak Düğün (2023)" ,Mühr-ü Musallat 2: Yasak Düğün (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/380848.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://imagizer.imageshack.com/img921/3571/h2dwhm.jpg" tvg-name="Şeytan İcadı (2023)" ,Şeytan İcadı (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/380647.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://www.programi.info.tr/usr/image/news/35.jpg" tvg-name="O Ses Türkiye Yilbasi Ozel 31.12.2023" ,O Ses Türkiye Yilbasi Ozel 31.12.2023
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367982.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/659116c38e3a7e39eb00765d.jpg" tvg-name="Ibo Show Yilbasi Ozel 31.12.2023" ,Ibo Show Yilbasi Ozel 31.12.2023
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367981.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaSimDcboSv9WwCfSRmEQRB0gyq.jpg" tvg-name="Hadi Hayırlısı: Istakoz'un Haritası (2023)" ,Hadi Hayırlısı: Istakoz'un Haritası (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367978.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9GA5i22zOYf7oafxmEdfLtdn7T.jpg" tvg-name="21 Numara Aşkın Tadı (2023)" ,21 Numara Aşkın Tadı (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367791.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBbLYIxPU5Nlf6KCAZmocH4wDQs.jpg" tvg-name="Balayı Olayı (2023)" ,Balayı Olayı (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367607.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKAd1lQJwdWgED1WZeNRJbHvKh5.jpg" tvg-name="Biricik Sevgilim (2023)" ,Biricik Sevgilim (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367575.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KCHi4ZhMebZLcRxs0xFcXt3BpQ.jpg" tvg-name="Bozuk Para (2023)" ,Bozuk Para (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/367573.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/03/16/07/25/1158652.jpg" tvg-name="Öt Bakalim (2023)" ,Öt Bakalim (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/366421.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PIWJtWFgARvsCJ4crQ8mErQjqF.jpg" tvg-name="Dünya Evi (2023)" ,Dünya Evi (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365729.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iOtQcEH9QKn01UmCTM6Wsu2QoD.jpg" tvg-name="Beni Sev (2023)" ,Beni Sev (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365617.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZslzGO2f2gcCkaBDUpYhyHq5hq.jpg" tvg-name="Maske: Nezaketle Tebessüm (2023)" ,Maske: Nezaketle Tebessüm (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/365114.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zihhLB7GFuQEVUOzkrTfFOh7fGO.jpg" tvg-name="Mitat (2023)" ,Mitat (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/363914.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nIpQCD33LdhgRR5f3lA9C2KcGR.jpg" tvg-name="Adalet (2023)" ,Adalet (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/362412.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg" tvg-name="Her Şeye Rağmen (2023)" ,Her Şeye Rağmen (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/361775.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5z27iBILZKi4iBLlZnjULlIGSs0.jpg" tvg-name="İstanbul İçin  Son Çağrı (2023)" ,İstanbul İçin  Son Çağrı (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/361062.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vabWySL4pStUgOxbVAXIKh8r1xd.jpg" tvg-name="Bomboş (2023)" ,Bomboş (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/359231.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKeIyqzkhltiienCDAGUUYEeKpn.jpg" tvg-name="Atatürk 1881 - 1919 Tv Özel (2023)" ,Atatürk 1881 - 1919 Tv Özel (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/358087.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5ZysOOHYsQFGzYBpEKgGmiLde0.jpg" tvg-name="Oregon  (2023)" ,Oregon  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/354511.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyuMSazHAcTSZRhe17NFMXPXOgi.jpg" tvg-name="Do Not  Disturb (2023)" ,Do Not  Disturb (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/351109.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://turktorrent.us/data/torrents/torrent_images/l/gokyuzu.jpg" tvg-name="Gokyuzunde Yalniz Gezen Yildiz (2023)" ,Gokyuzunde Yalniz Gezen Yildiz (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349933.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuKQz6u3F0MAJ56m1Nyj7tKmoQO.jpg" tvg-name="Üçlü  Pürüz (2023)" ,Üçlü  Pürüz (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349720.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://ortakoltuk.com/wp-content/uploads/2023/04/hava-muhalefeti-3.jpg" tvg-name="Hava Muhalefeti  (2023)" ,Hava Muhalefeti  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349670.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7u0zU2n3hNGCOBNW5bJNanY21S.jpg" tvg-name="Gizemli Ada Mençuna  (2023)" ,Gizemli Ada Mençuna  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349043.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://sarigolgundemcom.teimg.com/crop/860x504/sarigolgundem-com/uploads/2023/08/tatli-vatan-filmi-konusu-ve-oyunculari.jpg" tvg-name="Tatlı Vatan (2023)" ,Tatlı Vatan (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348159.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Qslo9adBC0aueLXMNCJRfdlmh.jpg" tvg-name="Kötü Adamın 10 Günü  (2023)" ,Kötü Adamın 10 Günü  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347240.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://turktorrent.us/data/torrents/torrent_images/s/bizum-hoca-bezdum-da-.jpg" tvg-name="Bizum Hoca: Bezdum Da (2023)" ,Bizum Hoca: Bezdum Da (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/345752.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drPcZBvO6QciwrekEJm41XfYyyH.jpg" tvg-name="Babasının Kızı (2022)" ,Babasının Kızı (2022)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340719.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" tvg-name="Aşk Taktikleri 2  (2023)" ,Aşk Taktikleri 2  (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340778.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvFdPztBqJ0IaudQYFeR7q1LgRb.jpg" tvg-name="Kutsal Damacana  4 (2023) " ,Kutsal Damacana  4 (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/327619.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djYjkVJMiNH4qkpsvizbGL3fbzN.jpg" tvg-name="49(2023)" ,49(2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/328803.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" tvg-name="Aaahh Belinda (2023)" ,Aaahh Belinda (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286315.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clwHafikVyst4Ka2JelkpygvQvQ.jpg" tvg-name="Bekle Beni Sevgilim (2023)" ,Bekle Beni Sevgilim (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286316.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVzVkpG578B5GqhCDTJnPM8bBkv.jpg" tvg-name="Boğa Boğa (2023)" ,Boğa Boğa (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286317.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xiV4iaUIskBZovcu8UoKSo3vAw.jpg" tvg-name="Bursa Bülbülü (2023)" ,Bursa Bülbülü (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286318.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quvLSZ2f7tHKrnvsgFJJITV0JbD.jpg" tvg-name="Fatih Sultan Mehmed: Yeni Çağ (2023)" ,Fatih Sultan Mehmed: Yeni Çağ (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286319.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg3MTU2NDUtMDY3NC00Y2Q4LTlkNTMtZTJhNmY2ZDhlZTIwXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_QL75_UY281_CR18,0,190,281_.jpg" tvg-name="Geleceğin Rotası (2023)" ,Geleceğin Rotası (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286320.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg" tvg-name="İyi Adamın 10 Günü (2023)" ,İyi Adamın 10 Günü (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286321.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDQcaeIAn5WYvXkgi5BCqAkF3N1.jpg" tvg-name="Özür Dilerim (2023)" ,Özür Dilerim (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286323.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cauJv3xZTuSxLQsDiN7iD4h7a6.jpg" tvg-name="Rüyanda Görürsün (2023)" ,Rüyanda Görürsün (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286324.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P5GkzPq39bSX6yfzTD8amY9FCb.jpg" tvg-name="Su Koruyucuları: Geleceğin Beşlisi (2023)" ,Su Koruyucuları: Geleceğin Beşlisi (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286325.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41EQsE69jQvLzizxLz3oiZIzQgk.jpg" tvg-name="Karanlık Kutunun Doğu Serüveni (2022)" ,Karanlık Kutunun Doğu Serüveni (2022)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286322.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg" tvg-name="Ulan Salih (2023)" ,Ulan Salih (2023)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340817.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9vmlPNI3sSguEir5nmdUXNI0kR.jpg" tvg-name="4N1K: Düğün (2021)" ,4N1K: Düğün (2021)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286358.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaA5GUnbRQINSWDOee5fGPLHL8p.jpg" tvg-name="Af (2020)" ,Af (2020)
@@ -453,414 +469,8 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340818.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/341322.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awgzbFxYFTbPEr2cT9G2GVbVSbT.jpg" tvg-name="Fazla Şaapma (2021)" ,Fazla Şaapma (2021)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/341323.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFvP8yJUYEKDSG3RGjJ7Orf8dp6.jpg" tvg-name="Unutma Beni İstanbul (2012)" ,Unutma Beni İstanbul (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408068.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4tqdZstKzHnbKYpE34cfAajn1u.jpg" tvg-name="Devrim Arabaları (2008)" ,Devrim Arabaları (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/407926.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mhTdB3Chja8PkncH2dJQAzuRXA.jpg" tvg-name="Vavien (2009)" ,Vavien (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/407412.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48R6glP8agoME67d3ZXkgLkjsbn.jpg" tvg-name="Ulak (2008)" ,Ulak (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406938.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fj9FsZjU5jR3YLmRKUn5agitil5.jpg" tvg-name="İklimler (2006)" ,İklimler (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406148.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko0H3J85MHQ2YNd2tMUjkAxYRHM.jpg" tvg-name="Üç Maymun (2008)" ,Üç Maymun (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406146.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHzb7ivEhuzvRwbT7XtMw0ZDjg2.jpg" tvg-name="Koza (1995)" ,Koza (1995)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406145.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXLKHzlybVWloEbfWKZ43APdGUX.jpg" tvg-name="G.O.R.A. (2004)" ,G.O.R.A. (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/405257.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1vWL9iaZwPdIxHmhsaZ0FaFLTv.jpg" tvg-name="Atçalı Kel Mehmet (1964)" ,Atçalı Kel Mehmet (1964)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404803.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrDgv6lsfXZoGMMOcUX9giUuByf.jpg" tvg-name="Vücut (2012)" ,Vücut (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404800.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltjoxfVdQXSm0H222JUA5WiWTXt.jpg" tvg-name="Duruşma (1999)" ,Duruşma (1999)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/404682.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewspZvycwCOqquy83t94rhABr11.jpg" tvg-name="Küf (2013)" ,Küf (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/392883.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxCzp8NqU88AtpRsBRkh6OwUrjb.jpg" tvg-name="Nefes: Vatan Sağolsun (2009)" ,Nefes: Vatan Sağolsun (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/390344.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lod0NxqnmdjuiuylOb11TElQahj.jpg" tvg-name="Ali Baba ve Kırk Haramiler  (1972)" ,Ali Baba ve Kırk Haramiler  (1972)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/388831.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4qvMj51vfMOxCvZ0KeWRfowPYl.jpg" tvg-name="Kış Uykusu (2014)" ,Kış Uykusu (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/387258.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KVX63iYZGQqgA3wVgWUriZR8Gt.jpg" tvg-name="Laleli'de Bir Azize (1999)" ,Laleli'de Bir Azize (1999)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/387011.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgkA3W2n98ynjwIlJ6aDIQsIRax.jpg" tvg-name="Bulantı (2015)" ,Bulantı (2015)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/386743.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIvZkTeuoSYGyhkVjfIUZQEkrWs.jpg" tvg-name="Bekleme Odası (2004)" ,Bekleme Odası (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/386742.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6FHN2Mx3cKf3dAgPcK5S8pfYci.jpg" tvg-name="Yazgı (2001)" ,Yazgı (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/386741.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojquHVHVf74weuTxcyVuJCISlFK.jpg" tvg-name="İtiraf (2001)" ,İtiraf (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/386740.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dgRsgLszulHQakcVVbzTbPtS3I.jpg" tvg-name="Kıskanmak (2009)" ,Kıskanmak (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/386739.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTk5Z0mQtA6N62rmkNvhYle2xZU.jpg" tvg-name="Kader (2006)" ,Kader (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/360204.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1t4aQPHMZju6YcJfWH3e1avyOJ.jpg" tvg-name="Bir Zamanlar Anadolu'da (2011)" ,Bir Zamanlar Anadolu'da (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/360203.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA4jb7ANpmgmJYUuLWiKY9aUfvl.jpg" tvg-name="Mayıs Sıkıntısı (1999)" ,Mayıs Sıkıntısı (1999)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/360202.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjDyPG3wLSwj48xCiuGRdLkixYa.jpg" tvg-name="Musallat 2: Lanet (2011)" ,Musallat 2: Lanet (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/359663.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zenLvP4vkvcOs7mlRmVzGeyz8gS.jpg" tvg-name="Musallat (2007)" ,Musallat (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/359662.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d7hDJnzEzrBjsWg3ad8Fq69j2O.jpg" tvg-name="Gergedan Mevsimi (2012)" ,Gergedan Mevsimi (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349932.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://turktorrent.us/data/torrents/torrent_images/l/84GjqdUXHFDc8VQLcL1vBRsRmbK.jpg" tvg-name="CM101MMXI Fundamentals (2013)" ,CM101MMXI Fundamentals (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/349953.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ct3hVbHgK4cQkNFGQx3CbYNU7ZY.jpg" tvg-name="Çakallarla Dans 3: Sıfır Sıkıntı (2014)" ,Çakallarla Dans 3: Sıfır Sıkıntı (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348222.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vp4CqHbkqRfGTrAPo7uisVsPsOx.jpg" tvg-name="Çakallarla Dans 2: Hastasıyız Dede! (2012)" ,Çakallarla Dans 2: Hastasıyız Dede! (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348221.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qndigYUDooaIV2osl4baOMU27Em.jpg" tvg-name="Sabit Kanca 2 (2014)" ,Sabit Kanca 2 (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348158.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8NKbArziAbao32EY05DaJR7sv.jpg" tvg-name="Havva Durumu (2007)" ,Havva Durumu (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347447.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl84KQI8tpTIvpeaGDlykieGVC.jpg" tvg-name="Balık (2014)" ,Balık (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347442.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfuusVNYVYyKQcmr0LGS7zsAUxT.jpg" tvg-name="120 (2008)" ,120 (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286922.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWhCozl58kpEtM2TdcH3Vs6SUCV.jpg" tvg-name="A.R.O.G (2008)" ,A.R.O.G (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286923.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coiNIwzvuZ0Yl4DSKOUydRdI385.jpg" tvg-name="Abbas'ın Melekleri (2015)" ,Abbas'ın Melekleri (2015)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286924.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leXUpeYcBm4GuJeholkNN3MZ03U.jpg" tvg-name="Abimm (2009)" ,Abimm (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286925.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gQsVzMqFPGVrsUSX3geAzuipvs.jpg" tvg-name="Ağır Romantik (2020)" ,Ağır Romantik (2020)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286926.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56fZ9JHdj50GrdeiLktjXcg697V.jpg" tvg-name="Aman Reis Duymasın (2019)" ,Aman Reis Duymasın (2019)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286928.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRAGoE8xsw6xUyMFNdjEfT9sgLu.jpg" tvg-name="Ammar: Cin Tarikatı (2014)" ,Ammar: Cin Tarikatı (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286929.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIX8NTMsEQScnd2aQui39H1z39A.jpg" tvg-name="Anka Kuşu (2006)" ,Anka Kuşu (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286930.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB867wDCwzh5G8DvM8jPGiH8WUw.jpg" tvg-name="Araf (2006)" ,Araf (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286931.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVH1mQ1hl2quBO13dGXJRsUWsyw.jpg" tvg-name="Araf (2012)" ,Araf (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286932.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecgRjwCdzGplZHxgTcTdztZOiM.jpg" tvg-name="Araf 2 (2019)" ,Araf 2 (2019)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286933.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxx9ux583z6Na4lqmQRphO3hQLM.jpg" tvg-name="Aşk-ı Suzan (2014)" ,Aşk-ı Suzan (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286934.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awhC61XX8usklCrmu79Q4kuKBWl.jpg" tvg-name="Aşk Tesadüfleri Sever (2011)" ,Aşk Tesadüfleri Sever (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286935.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIZDcmJXmCgGgfZSxl4QPanoBA4.jpg" tvg-name="Aşk Tutulması (2008)" ,Aşk Tutulması (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286936.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uC4J7zkUR7PMAOtVZTa1RwmIoY.jpg" tvg-name="Ata Demirer Tek Kişilik Dev Kadro 2 (2011)" ,Ata Demirer Tek Kişilik Dev Kadro 2 (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286937.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tEku9vgwodtd5ToHpc9TDC6Aiq.jpg" tvg-name="Av Mevsimi (2010)" ,Av Mevsimi (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286938.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWTs2hp7DOJOwBlCWuhHknUPHML.jpg" tvg-name="Ay Büyürken Uyuyamam (2011)" ,Ay Büyürken Uyuyamam (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286939.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXPzDhxXs4Z8Nnai7kgZ48iyN3U.jpg" tvg-name="Ay Lav Yu (2010)" ,Ay Lav Yu (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286940.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCpdDCEKVLhHk2DZbLmR7TobqZ.jpg" tvg-name="Azazil: Düğüm (2014)" ,Azazil: Düğüm (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286941.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MZYwUWJhLADpExD2zMj4uINeFM.jpg" tvg-name="Babam ve Oğlum (2005)" ,Babam ve Oğlum (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286942.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr2lW3gXxHs8VzPjtcH3tnalm9J.jpg" tvg-name="Bana Bir Soygun Yaz (2012)" ,Bana Bir Soygun Yaz (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286943.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzB8YrVFXRBTW9tYA2Kl46BBF7v.jpg" tvg-name="Bensiz (2014)" ,Bensiz (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286944.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CPG5OboFp7XDZXF3iHyNMRv1i3.jpg" tvg-name="Berlin in Berlin (1993)" ,Berlin in Berlin (1993)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286945.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6894gV9WOpuqs9EbMuSxXJSIvE9.jpg" tvg-name="Berlin Kaplanı (2012)" ,Berlin Kaplanı (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286946.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZoYN6OFLcg15Mp6jsF1z8SqCoT.jpg" tvg-name="Beynelmilel (2006)" ,Beynelmilel (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286948.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUDlxXGJjv8FoNJRusmacfUcwEZ.jpg" tvg-name="Bi Küçük Eylül Meselesi (2014)" ,Bi Küçük Eylül Meselesi (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286949.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nIxyTJztoJUiTh2cretDj0Z9Hg.jpg" tvg-name="Birlesen Gönüller (2014)" ,Birlesen Gönüller (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286950.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA4YWYzNzgtZmY3Mi00ZDM5LWEyYjktMTUxOGMxOTM2ODg1XkEyXkFqcGdeQXVyMTE4MDI4NDc2._V1_FMjpg_UX1000_.jpg" tvg-name="Yalnızlık (2020)" ,Yalnızlık (2020)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286951.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37eAvcozCxN8M0vAa2WbiN4dohn.jpg" tvg-name="Boşu Bir Yerde (2016)" ,Boşu Bir Yerde (2016)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286952.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qX5RNmWDzsPnDkbLsc5RGbESnUt.jpg" tvg-name="Biz Babasız Büyüdük (2013)" ,Biz Babasız Büyüdük (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286953.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL7fm3A3m43piaGrQk4RYvMQqEk.jpg" tvg-name="Bu İşte Bir Yalnızlık Var (2013)" ,Bu İşte Bir Yalnızlık Var (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286954.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGAZY7OTQH6hToMzj4PZwpmVFIF.jpg" tvg-name="Çakallarla Dans (2010)" ,Çakallarla Dans (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286955.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/137W4b1LAJ9mNlswkjrPcLLKs4F.jpg" tvg-name="Çalgı Çengi (2011)" ,Çalgı Çengi (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286956.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAiSsBLIXZWNx8i5rDzknbWftzs.jpg" tvg-name="Can (2011)" ,Can (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286957.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPSLPrDkBkHFu17dOtgxNVgYMWt.jpg" tvg-name="Çınar Ağacı (2011)" ,Çınar Ağacı (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286959.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbOJD4N5kK6TkKRbghFvkG5e4xX.jpg" tvg-name="Çok Filim Hareketler Bunlar (2010)" ,Çok Filim Hareketler Bunlar (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286960.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG07yAicxSSQwzB0fyv5vZawyfa.jpg" tvg-name="D@bbe (2006)" ,D@bbe (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286961.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTRv29BNFSZaHQEsyaDt9xNBqCY.jpg" tvg-name="Dağ (2012)" ,Dağ (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286962.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krUmaZt9N57SWiic6uW8GcYDoW9.jpg" tvg-name="Dedemin İnsanları (2011)" ,Dedemin İnsanları (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286963.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwG2oEC5fSbRXuR55tAZQMUAfiC.jpg" tvg-name="Deliha (2014)" ,Deliha (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286964.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaPaQCDUdmTPwAoL5p5S11oLhP6.jpg" tvg-name="Delisin! Delisin! (2014)" ,Delisin! Delisin! (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286965.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiBNHic68dAMRdLBuZCFdKxP5i3.jpg" tvg-name="Destere (2008)" ,Destere (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286966.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxA0QnbZylfSeF9Pk4QohOyqG0Q.jpg" tvg-name="Düğün Dernek (2013)" ,Düğün Dernek (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286967.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqAvlpziWp6Y5bQ4cwPkGFUuwvK.jpg" tvg-name="Ejder Kapanı (2010)" ,Ejder Kapanı (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286968.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52ZexuCBQ88OHReEIUyjPmoQqKZ.jpg" tvg-name="Erkek Tarafı Testosteron (2013)" ,Erkek Tarafı Testosteron (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286969.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M2DKRBI9O79dSXGGbshugpQgor.jpg" tvg-name="Eşkıya (1996)" ,Eşkıya (1996)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286970.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXbcVgyU4mZ59jVWc5sJDE3ARGO.jpg" tvg-name="Eve Dönüş (2006)" ,Eve Dönüş (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286971.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5SlkJBIOJyXMinkl5dOKiw3SdW.jpg" tvg-name="Evim Sensin (2012)" ,Evim Sensin (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286972.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DfvBSQ8kfXZTxzmKQT5i9Dzr5y.jpg" tvg-name="Eyvah Karım (2018)" ,Eyvah Karım (2018)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286973.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXRQLlxt7FMOySNQhXYRjTKjtEJ.jpg" tvg-name="Eyyvah Eyvah (2010)" ,Eyyvah Eyvah (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286974.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSnYzAh72EXNPXSjIyxd0PUwbtn.jpg" tvg-name="Eyyvah Eyvah 2 (2011)" ,Eyyvah Eyvah 2 (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286975.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs0Ub0blyV50cUTqZ4ZSresUD4t.jpg" tvg-name="Firak (2015)" ,Firak (2015)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286976.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ij8LLpqc0yQCn5h3UBHnlgTSdAl.jpg" tvg-name="G.D.O. KaraKedi (2013)" ,G.D.O. KaraKedi (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286977.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un7VCqTmjrq3u75mQ204a8tofD4.jpg" tvg-name="Gelibolu (1981)" ,Gelibolu (1981)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286978.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHZeI0BI1f8yPYGzgmptu2GMeR2.jpg" tvg-name="Gelmeyen Bahar (2013)" ,Gelmeyen Bahar (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286979.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZZupuBIW2VSOswbNnfPZ7cw9HB.jpg" tvg-name="Gitme Baba (2013)" ,Gitme Baba (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286980.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMdQfsgW7NPic7rydqkcL1YJbyL.jpg" tvg-name="Gözetleme Kulesi (2012)" ,Gözetleme Kulesi (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286981.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24Y1N3vRfaQs6FEupFlScOK9k3M.jpg" tvg-name="Gulyabani (2014)" ,Gulyabani (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286982.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rkvoEs0aEDraZSTbuYfzlS1QQn.jpg" tvg-name="Güneşi Gördüm (2009)" ,Güneşi Gördüm (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286983.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP6M2On7zl0AWppOtgi9aMKEE9w.jpg" tvg-name="Güzel Günler Göreceğiz (2012)" ,Güzel Günler Göreceğiz (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286984.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMRtYx47Hl0GMqynA9OCOTLjuob.jpg" tvg-name="Hababam Sınıfı Askerde (2005)" ,Hababam Sınıfı Askerde (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286985.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob0WJWR55N6qvzNjXL9hpRec2Im.jpg" tvg-name="Hababam Sınıfı Üç Buçuk (2006)" ,Hababam Sınıfı Üç Buçuk (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286986.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlPa1401KGRRLFrtpXsPuS1AQkj.jpg" tvg-name="Hababam Sınıfı Merhaba (2004)" ,Hababam Sınıfı Merhaba (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286988.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkLG5ZEEOESn63Gm5tZnpH4Boir.jpg" tvg-name="Hadi İnşallah (2014)" ,Hadi İnşallah (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286990.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6gQia4ZiB04YuTyCMtLuna8cYs.jpg" tvg-name="Halam Geldi (2014)" ,Halam Geldi (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286991.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi9pRyX9ueVa8tSlwn9o9dmYya2.jpg" tvg-name="Haybeden Gerçeküstü Aşk (2007)" ,Haybeden Gerçeküstü Aşk (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286992.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTlsCVRJubhFJ7HkwHXT8p1pvmg.jpg" tvg-name="Hemşo (2001)" ,Hemşo (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286993.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK2qijmnN37V1R3SZoZEIl5mEoq.jpg" tvg-name="Her Şey Çok Güzel Olacak (1998)" ,Her Şey Çok Güzel Olacak (1998)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286994.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4few1FwnFUiIxGrGmsQIm1n0a8q.jpg" tvg-name="Avare (1951)" ,Avare (1951)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286995.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k33lqXh6wFjYpTSRtDPE7y0Axn6.jpg" tvg-name="Hırsız Var (2005)" ,Hırsız Var (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286996.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H2ezVIkk6Xs5GxIBN1VYku1mbU.jpg" tvg-name="Hokkabaz (2006)" ,Hokkabaz (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286997.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3jTOMhuqTMTyBBQxjFH8GnkNh4.jpg" tvg-name="Hükümet Kadın (2013)" ,Hükümet Kadın (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286998.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruB89ZLaN2wBiRhmiMmKN4kJZtW.jpg" tvg-name="Hükümet Kadın 2 (2013)" ,Hükümet Kadın 2 (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286999.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmL2rRB1uYN1jZdMtTImIRKuR1i.jpg" tvg-name="İnanç Odası (2013)" ,İnanç Odası (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287000.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkF7HQOxUlVmKz9UQHjUevBVZf7.jpg" tvg-name="İncir Reçeli (2011)" ,İncir Reçeli (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287001.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA2uVBmjdwo3Wkr5Ox5nlQk8QEa.jpg" tvg-name="İncir Reçeli 2 (2014)" ,İncir Reçeli 2 (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287002.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWobaL2rCplwQz0QAbs97lhYlgx.jpg" tvg-name="İnşaat (2003)" ,İnşaat (2003)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287003.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXknVkk0qTRPDs2cBv1OMpTAHxo.jpg" tvg-name="Issız Adam (2008)" ,Issız Adam (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287004.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wHzaqJfKKUTfVFws6qIndBpS47.jpg" tvg-name="İtirazım Var (2014)" ,İtirazım Var (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287005.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B8OevTvp6SOYCGGLKQflAQYclk.jpg" tvg-name="Kabadayı (2007)" ,Kabadayı (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287006.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmJy9ZntfWzu9RejJD6fi0CCUsT.jpg" tvg-name="Kadri'nin Götürdüğü Yere Git (2009)" ,Kadri'nin Götürdüğü Yere Git (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287007.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3rxDZnP6ctR4LTXDOzFnimswuW.jpg" tvg-name="Karınca Kapanı (2014)" ,Karınca Kapanı (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287008.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzKbHdw4pXs4QBsNE77LXEbJhZ7.jpg" tvg-name="Karla (2006)" ,Karla (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287009.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQG95mzUlgZuKp9OytxoxaEUUKW.jpg" tvg-name="Kasaba (1997)" ,Kasaba (1997)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287010.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmefayHkoQDQzHzqSEXy9YEmUww.jpg" tvg-name="Kedi Özledi (2013)" ,Kedi Özledi (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287011.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zH8WsiDnE5lG4FlWhVitTvwzwsD.jpg" tvg-name="Kelebeğin Rüyası (2013)" ,Kelebeğin Rüyası (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287012.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WV6N6djqDLo0px5qsdQZ3NrqUd.jpg" tvg-name="Kırımlı (2014)" ,Kırımlı (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287013.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM2gv65hZbPWnnFp8q3AJiBuV3X.jpg" tvg-name="Kolpaçino (2009)" ,Kolpaçino (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287014.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2neySLb0YN65u1m1PMfEEOPBqhr.jpg" tvg-name="Komser Şekspir (2001)" ,Komser Şekspir (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287015.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZ66GfBwI7Ah1WuW7eR7DK6qoZj.jpg" tvg-name="Küçük Kıyamet (2006)" ,Küçük Kıyamet (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287017.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GkB4mukvExjN717I85dxMXKT8N.jpg" tvg-name="Kurtlar Vadisi: Filistin (2011)" ,Kurtlar Vadisi: Filistin (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287019.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xE5pDzPMwmbhafrsbCfzd4qsai.jpg" tvg-name="Kurtlar Vadisi: Gladio (2008)" ,Kurtlar Vadisi: Gladio (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287020.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81J09KzLf5JivnNMVmglT0omuBI.jpg" tvg-name="Kurtlar Vadisi: Irak (2006)" ,Kurtlar Vadisi: Irak (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287021.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ySkFLATDGH6ML0AA87QldiGQyB.jpg" tvg-name="Kurtlar Vadisi: Vatan (2017)" ,Kurtlar Vadisi: Vatan (2017)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287022.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7OIjkIEa25E4E9q314qed063Bf.jpg" tvg-name="Kurtuluş Son Durak (2012)" ,Kurtuluş Son Durak (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287023.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj6W2Vclkb1aUeKdWo9w360c9TJ.jpg" tvg-name="Kutsal Damacana (2007)" ,Kutsal Damacana (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287024.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L4ewKPkZRhLp8Dowhq5wnU0Aez.jpg" tvg-name="Mandıra Filozofu (2014)" ,Mandıra Filozofu (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287026.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg" tvg-name="Manyak (2012)" ,Manyak (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287027.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IW7rNtgjBrg1ANBu7DsnlC72U4.jpg" tvg-name="Maskeli Beşler: İntikam Peşinde (2005)" ,Maskeli Beşler: İntikam Peşinde (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287028.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xarId1WKxuU7PJkfYsGN33VSDoB.jpg" tvg-name="Maskeli Beşler: Kıbrıs (2008)" ,Maskeli Beşler: Kıbrıs (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287029.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6XPNHkCl9tpjAVi0wHYZCm5jpf.jpg" tvg-name="Masumiyet (1997)" ,Masumiyet (1997)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287030.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed0hyp3K30MYeBl96nBdOXR4Wf1.jpg" tvg-name="Memlekette Demokrasi Var (2010)" ,Memlekette Demokrasi Var (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287031.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVrDOCHkQLHdZBstmjJRqOT3l0p.jpg" tvg-name="Mutluluk (2007)" ,Mutluluk (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287032.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmKDoPjNgOWdMbHISa2rp6NtAEa.jpg" tvg-name="Ne Olacak Şimdi (1979)" ,Ne Olacak Şimdi (1979)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287033.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNY4KShkUGKWFB3HifWIDldG9zR.jpg" tvg-name="Neredesin Firuze (2004)" ,Neredesin Firuze (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287034.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iZgQokTJg8bTDgMPyIw1LcBEoP.jpg" tvg-name="Nergis Hanım (2014)" ,Nergis Hanım (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287035.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rw9ZF58yRHPsSZXTboJBLrsZXvW.jpg" tvg-name="Neşeli Hayat (2009)" ,Neşeli Hayat (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287036.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aueBDCE0VeZL6Js0seNQCDNm6G.jpg" tvg-name="New York'ta Beş Minare (2010)" ,New York'ta Beş Minare (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287037.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHc7VrA3SM2XXkR4oC1VTbLWIYW.jpg" tvg-name="B.O.K.: Bi O Kalmıştı (2016)" ,B.O.K.: Bi O Kalmıştı (2016)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287038.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SbZagV8QR4gPV3bF63yfaRYm4T.jpg" tvg-name="Organize İşler (2005)" ,Organize İşler (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287039.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehyy4V0FzsbpeVPo2rvbB0Liue9.jpg" tvg-name="Papatya (2017)" ,Papatya (2017)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287040.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3LwfqjYcjGYVZq1HA7iFNZh5sZ.jpg" tvg-name="Pardon (2005)" ,Pardon (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287041.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKcwlXxnSRGPF5vsXQH4of1uuMh.jpg" tvg-name="Patron Mutlu Son İstiyor (2014)" ,Patron Mutlu Son İstiyor (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287042.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpXR7qUjzEl5qYUO48mfOfo7st1.jpg" tvg-name="Pazar: Bir Ticaret Masalı (2008)" ,Pazar: Bir Ticaret Masalı (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287043.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE3RzW3m1KMNQUGMimjTk3xQcAL.jpg" tvg-name="Pek Yakında (2014)" ,Pek Yakında (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287044.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFpkA37ONQzIZDQJcJQkp7NkwpZ.jpg" tvg-name="Peri Masalı (2014)" ,Peri Masalı (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287045.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUsPkVtkRyULFk7rt26sdeAFCP6.jpg" tvg-name="Polis (2007)" ,Polis (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287046.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qk6BU7YFXcjV9Rp7EjV6qtZaXj.jpg" tvg-name="Recep İvedik (2008)" ,Recep İvedik (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287047.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuokr2itBRbbaLT0bjTykC252KJ.jpg" tvg-name="Recep İvedik 2 (2009)" ,Recep İvedik 2 (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287048.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tT4gR2KesVdY6KaFDZ0BUOBsEi.jpg" tvg-name="Recep İvedik 3 (2010)" ,Recep İvedik 3 (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287049.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wraqZkg846fNIowN5yXPR7hY05o.jpg" tvg-name="Recep İvedik 4 (2014)" ,Recep İvedik 4 (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287050.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzNF2E29DcCtRBfQf3Vy92WQki9.jpg" tvg-name="Romantik Komedi (2010)" ,Romantik Komedi (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287051.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yd7lGTk2VQnTU5Wz0gPvrhVuKC.jpg" tvg-name="Romantik Komedi 2: Bekarlığa Veda (2013)" ,Romantik Komedi 2: Bekarlığa Veda (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287052.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQrYPcLaAk7aNHeuhbCwDJ0hOlw.jpg" tvg-name="Sadece Sen (2014)" ,Sadece Sen (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287053.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34FVz2zHtQts3MERt9CKxv6UqvU.jpg" tvg-name="Şafakla Dönenler (2014)" ,Şafakla Dönenler (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287054.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/495lDj8Cne3uJzYi9ojcaW1m9H7.jpg" tvg-name="Sağ Salim 2: Sil Baştan (2014)" ,Sağ Salim 2: Sil Baştan (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287055.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxYMjHgQNOD6C2qfXDM22zd7vIi.jpg" tvg-name="Şellale (2001)" ,Şellale (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287056.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51T3dJ6MxqrDBScw1EFm2sfzKWn.jpg" tvg-name="Sen Hiç Ateşböceği Gördün mü? (1999)" ,Sen Hiç Ateşböceği Gördün mü? (1999)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287057.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stKSIA2c67tT4ZRSzVqsLg71fZj.jpg" tvg-name="Seni Seviyorum Adamım (2014)" ,Seni Seviyorum Adamım (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287058.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbVL3PEGK05Yqr5VQdu5s9QOsVi.jpg" tvg-name="Sen Kimsin? (2012)" ,Sen Kimsin? (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287059.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ln04jhcka4vP3QMiaotkO8Mce5S.jpg" tvg-name="Sev Beni (2013)" ,Sev Beni (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287060.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj7aSSH9kzbUcmGXAZD2CqneOLF.jpg" tvg-name="Şevkat Yerimdar (2013)" ,Şevkat Yerimdar (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287061.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ufVRINGgMmYxlgzUHv1wzcirFM.jpg" tvg-name="Silsile (2014)" ,Silsile (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287062.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJVHLyWzeCSCFaIcolKqMUmfkGA.jpg" tvg-name="Sınav (2006)" ,Sınav (2006)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287064.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmqMHz9lNwxnDCqtnZkX9PynRYs.jpg" tvg-name="Sinyalciler: Son Akşam Yemeği (2017)" ,Sinyalciler: Son Akşam Yemeği (2017)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287065.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEHGmYyCqXJTNpVHGAmN5rP21XM.jpg" tvg-name="Sivas (2014)" ,Sivas (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287066.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVsG4rkJPJBo8LK8YOu55bKbah1.jpg" tvg-name="Son Umut (2014)" ,Son Umut (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287067.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fE0GqZ9hqit39ZCWzTm899ArYD.jpg" tvg-name="Sözün Bittiği Yer (2007)" ,Sözün Bittiği Yer (2007)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287068.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDyNnzB0XnqkFaqYGmbZBn315Qp.jpg" tvg-name="Su ve Ateş (2013)" ,Su ve Ateş (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287069.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45qGteFfS4IPgPzuqh0Nn2bk0vF.jpg" tvg-name="Sümela'nın Şifresi: Temel (2011)" ,Sümela'nın Şifresi: Temel (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287070.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mgOswkFlqDuZv1MZp2XcyEXnSW.jpg" tvg-name="Süper İncir (2013)" ,Süper İncir (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287071.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAqzWi0jD4RNCl1pCPCZPKRylxb.jpg" tvg-name="SüperTürk (2012)" ,SüperTürk (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287072.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrlVlym3mujU1XeBxy7Pa7VRZcj.jpg" tvg-name="Süt (2008)" ,Süt (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287073.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flGH7kPmR5FZbgwRPtrF17MxTyD.jpg" tvg-name="Taş Mektep (2012)" ,Taş Mektep (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287074.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMq5jg69dL6LHqQJq3LmUHljyEf.jpg" tvg-name="Tehlikeyle Flört (2015)" ,Tehlikeyle Flört (2015)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287075.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IMguYUe3VYBFTYO45jvYieHEzQ.jpg" tvg-name="Ata Demirer Tek Kişilik Dev Kadro (2005)" ,Ata Demirer Tek Kişilik Dev Kadro (2005)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287076.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0yauS9jRLKdrHoyjyjkwplmCt1.jpg" tvg-name="Turandot (2013)" ,Turandot (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287077.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBRIjs63OoOgkkxHGjp6HToTgyp.jpg" tvg-name="Üç Harfliler: Marid (2010)" ,Üç Harfliler: Marid (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287078.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgY33Wtg4737MhYopJSFyKWhKsO.jpg" tvg-name="Ucuz Roman (1994)" ,Ucuz Roman (1994)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287079.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZcu6BV6txfXB8BX6GxuT9lfDgh.jpg" tvg-name="Unutursam Fısılda (2014)" ,Unutursam Fısılda (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287080.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb6I7xjZJiso9dKdxVh1zOFTDfv.jpg" tvg-name="Uzak (2002)" ,Uzak (2002)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287081.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f43DyghH3ikoXbz7Dr4smDcKiCl.jpg" tvg-name="Uzun Yol (2014)" ,Uzun Yol (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287082.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O07J8TxBFYnba8u8nYAp2QfKgf.jpg" tvg-name="Vay Başıma Gelenler! 2 Buçuk (2014)" ,Vay Başıma Gelenler! 2 Buçuk (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287083.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnIQmZVXcsTCbtxEkiBNrY8eku8.jpg" tvg-name="Vay Arkadaş (2010)" ,Vay Arkadaş (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287084.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBmkG1WAtZoqADniWPX5yA1AVFV.jpg" tvg-name="Vay Başıma Gelenler! (2013)" ,Vay Başıma Gelenler! (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287085.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEEpHNcUdy5Y75oHDQCnUfApMet.jpg" tvg-name="Veda (2010)" ,Veda (2010)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287087.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS2seq2KjrzUim8mz3J7te2ixKw.jpg" tvg-name="Vicdan (2008)" ,Vicdan (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287088.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9AxcdFiJTHZujXxZmygZpi7il5.jpg" tvg-name="Vizontele (2001)" ,Vizontele (2001)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287089.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6r8dvfueBJuyB17dgoXp3Kcq2MW.jpg" tvg-name="Vizontele Tuuba (2004)" ,Vizontele Tuuba (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287090.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1HYwHQnHWeiRQ2UqY7Frjub05.jpg" tvg-name="Yahşi Batı (2009)" ,Yahşi Batı (2009)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287091.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS6Y7GI7d44326OEKfFrHIg2XXf.jpg" tvg-name="Yalan Dolan (2019)" ,Yalan Dolan (2019)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287092.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyaQ8RWCgMvmk7sdjxhREJiTpG.jpg" tvg-name="Yaşar Ne Yaşar Ne Yaşamaz (1975)" ,Yaşar Ne Yaşar Ne Yaşamaz (1975)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287093.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbHYVX9z9XR1udtIxXu01x9Z9Ef.jpg" tvg-name="Yazı Tura (2004)" ,Yazı Tura (2004)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287094.avi
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-name="Ghasam /Swear /Yemin (2019)" ,Ghasam /Swear /Yemin (2019)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287095.mp4
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkY4z2X15UAGdE0cLUAbYQ3ITs8.jpg" tvg-name="Yün Bebek (2013)" ,Yün Bebek (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287096.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k39g7VqlhBmRC7GrSbkkZ989M3.jpg" tvg-name="Zaman Makinesi 1973 (2014)" ,Zaman Makinesi 1973 (2014)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287097.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMwZtazfGsesXi8ynUxOgh2e0jb.jpg" tvg-name="Zenne (2012)" ,Zenne (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/287098.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBgd9qbZDIx1BzvapdCminIgkSq.jpg" tvg-name="Celal ile Ceren (2013)" ,Celal ile Ceren (2013)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/318465.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BECgHRyF9d5J2M5sAvVz6yR8Mt.jpg" tvg-name="Yeraltı (2012)" ,Yeraltı (2012)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/337899.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8a5KGTMFgq4aS7AIkZgysgOyZx.jpg" tvg-name="72. Koğuş (2011)" ,72. Koğuş (2011)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/345744.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngNuv8Eqo5BGDrGSDSFdEef3NN9.jpg" tvg-name="Osmanlı Cumhuriyeti (2008)" ,Osmanlı Cumhuriyeti (2008)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/345745.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNN8SewPcEgdwb315ucH8znzjWy.jpg" tvg-name="Mucize 2: Aşk (2019)" ,Mucize 2: Aşk (2019)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408845.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3j3JC7irVgD9WU7oGtJ2Vb321n.jpg" tvg-name="Yasemin Adında Bir Salon Bitkisi (2019)" ,Yasemin Adında Bir Salon Bitkisi (2019)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/399710.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBY88PCMcbWqvkXeucFEj6thO7t.jpg" tvg-name="Masal Şatosu: Sihirli Davet (2019)" ,Masal Şatosu: Sihirli Davet (2019)
@@ -971,8 +581,6 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286525.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286526.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olDaLipBeKRoQBRqUZSyzpkzzbp.jpg" tvg-name="Meteler (2019)" ,Meteler (2019)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286527.mkv
-#EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNN8SewPcEgdwb315ucH8znzjWy.jpg" tvg-name="Mucize 2: Aşk (2019)" ,Mucize 2: Aşk (2019)
-http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286528.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poCIvkaIcvW018n2FnzqYobGyJE.jpg" tvg-name="Musabbar (2019)" ,Musabbar (2019)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286530.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBNyVfLxn4AgfUWKIf4O6Vvlhuo.jpg" tvg-name="Nebula (2019)" ,Nebula (2019)
@@ -1139,6 +747,8 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286919.mp4
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286920.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xu26zjUXWstuV39aMtHS3t6NWs0.jpg" tvg-name="Helak: Kayıp Köy (2015)" ,Helak: Kayıp Köy (2015)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/288865.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxrYNN7NwMweBG8BPHxhItFVSir.jpg" tvg-name="Amerikalı Kız (2018)" ,Amerikalı Kız (2018)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408927.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wv3auf7yK7pGsVOuKUaEmEazxqR.jpg" tvg-name="Canavar Gibi (2018)" ,Canavar Gibi (2018)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/348761.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEDJfg4xKt7Y5eKopbDd5dUp8Lp.jpg" tvg-name="2 Yaka Yarım Aşk (2018)" ,2 Yaka Yarım Aşk (2018)
@@ -1327,6 +937,10 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/288498.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/345743.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XXhdO0l2aFCJxjckY0Yu1iVqL.jpg" tvg-name="Bizim İçin Şampiyon (2018)" ,Bizim İçin Şampiyon (2018)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/347264.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrWoeMnuPc7zJfCpnRabEK9071z.jpg" tvg-name="Zor Bir Karar (2017)" ,Zor Bir Karar (2017)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/412988.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIFklLcRFu65ZX3E9JqZm08A0dB.jpg" tvg-name="Anadolu Yok (2017)" ,Anadolu Yok (2017)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/412413.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khg64DzP9bopZCm3lLFfTHtdyil.jpg" tvg-name="Semur: Şeytanın Kabilesi (2017)" ,Semur: Şeytanın Kabilesi (2017)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/408276.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZJfyC319mdV3mrmYHiNrPLtbgE.jpg" tvg-name="Öteki Taraf (2017)" ,Öteki Taraf (2017)
@@ -1693,6 +1307,8 @@ http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286862.mkv
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/286863.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZiVLFGTbMBY4xrawgMtuzRkLEc.jpg" tvg-name="Hayati Tehlike (2016)" ,Hayati Tehlike (2016)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/340159.mkv
+#EXTINF:-1 group-title="TR | YERLI FILM 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLf8N3SoTntsh8MnTXAzYXOJSxm.jpg" tvg-name="Kumbara (2020)" ,Kumbara (2020)
+http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/413775.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63hlj2V943GpLzJXs5COmhPJduL.jpg" tvg-name="Semur 2: Cinlerin Büyüsü (2020)" ,Semur 2: Cinlerin Büyüsü (2020)
 http://sippaket.xyz:8080/movie/bayarorhan324832/orhan4324232/406609.mkv
 #EXTINF:-1 group-title="TR | YERLI FILM 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sxC1K6q1x6h6MUi9Ls8Y67ivVk.jpg" tvg-name="Tapınak (2020)" ,Tapınak (2020)
