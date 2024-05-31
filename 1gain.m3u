@@ -1,6 +1,13 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/37CONBSNqK1FmupXGyUinEVfCbj.jpg" tvg-name="RU S01 RU - S01E01 - Ege’nin Kokusu" ,RU S01 RU - S01E01 - Ege’nin Kokusu
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/410998.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/b6H1ApBqreODxsdAcifbbtu47MI.jpg" tvg-name="RU S01 RU - S01E02 - Sen Sıfırsın" ,RU S01 RU - S01E02 - Sen Sıfırsın
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/410999.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KLX2hdcx7PxEUGmHx8uyC8RvMT.jpg" tvg-name="RU S01 RU - S01E03 - 3. Bölüm" ,RU S01 RU - S01E03 - 3. Bölüm
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/413872.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/paiSHCMMZWiTLEsLDancZfycigH.jpg" tvg-name="Platform 7 S01 Platform 7 - S01E01 - 1. Bölüm" ,Platform 7 S01 Platform 7 - S01E01 - 1. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/407837.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/kwwff8mBHXimcDfIVIVHsSaTo7D.jpg" tvg-name="Platform 7 S01 Platform 7 - S01E02 - 2. Bölüm" ,Platform 7 S01 Platform 7 - S01E02 - 2. Bölüm
@@ -21,6 +28,30 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/407033.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/407034.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ROiNVzGKmlAfi5goxVcCMG2oSW.jpg" tvg-name="Bayern Munich - Rise Of A Legend S01 Bayern Munich - Rise Of A Legend - S01E06 - 1974 Dünya Kupası" ,Bayern Munich - Rise Of A Legend S01 Bayern Munich - Rise Of A Legend - S01E06 - 1974 Dünya Kupası
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/407035.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E01" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E01
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408573.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E02" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E02
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408574.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E03" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E03
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408575.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E04" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E04
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408576.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E05" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E05
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408577.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E06" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E06
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408578.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E07" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E07
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408579.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E08" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E08
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408580.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E10" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E10
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408581.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E11" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E11
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408582.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E12" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E12
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408583.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E13" ,Spartacus: Gods of the Arena S00 Spartacus: Gods of the Arena - S00E13
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408584.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E01 - 1. Bölüm" ,Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E01 - 1. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405995.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E02 - 2. Bölüm" ,Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E02 - 2. Bölüm
@@ -33,6 +64,46 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405998.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405999.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E06 - 6. Bölüm" ,Spartacus: Gods of the Arena S01 Spartacus: Gods of the Arena - S01E06 - 6. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/406000.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E01" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E01
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408553.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E02" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E02
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408554.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E03" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E03
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408555.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E04" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E04
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408556.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E05" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E05
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408557.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E06" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E06
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408558.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E07" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E07
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408559.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E08" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E08
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408560.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E09" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E09
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408561.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E10" ,Spartacus: Gods of the Arena S02 Spartacus: Gods of the Arena - S02E10
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408562.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E01" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E01
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408563.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E02" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E02
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408564.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E03" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E03
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408565.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E04" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E04
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408566.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E05" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E05
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408567.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E06" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E06
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408568.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E07" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E07
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408569.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E08" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E08
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408570.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E09" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E09
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408571.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAuUu1uquhhK5N3qttfoPwxAOwM.jpg" tvg-name="Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E10" ,Spartacus: Gods of the Arena S03 Spartacus: Gods of the Arena - S03E10
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408572.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja713KGdxZhgT8vanDalWLndvBu.jpg" tvg-name="Arjen: Azap Yolu S01 Arjen - Azap Yolu - S01E01" ,Arjen: Azap Yolu S01 Arjen - Azap Yolu - S01E01
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/404515.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja713KGdxZhgT8vanDalWLndvBu.jpg" tvg-name="Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E02 -" ,Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E02 -
@@ -41,6 +112,10 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405066.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/406337.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja713KGdxZhgT8vanDalWLndvBu.jpg" tvg-name="Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E04 -" ,Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E04 -
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/407925.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja713KGdxZhgT8vanDalWLndvBu.jpg" tvg-name="Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E05 -" ,Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E05 -
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408826.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja713KGdxZhgT8vanDalWLndvBu.jpg" tvg-name="Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E06 -" ,Arjen: Azap Yolu S01 Arjen: Azap Yolu - S01E06 -
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/413265.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9LR15kAvoPHNXW9Ber5nrxmX9L.jpg" tvg-name="Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E01 - 1. Bölüm" ,Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E01 - 1. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/403957.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9LR15kAvoPHNXW9Ber5nrxmX9L.jpg" tvg-name="Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E02 - 2. Bölüm" ,Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E02 - 2. Bölüm
@@ -53,6 +128,10 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405138.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/406656.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9LR15kAvoPHNXW9Ber5nrxmX9L.jpg" tvg-name="Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E06 - 6. Bölüm" ,Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E06 - 6. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408128.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="http://image.tmdb.org/t/p/original/f6ga26BjznEJU6uv2FNdRMAcNLX.jpg" tvg-name="Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E07 - 7. Bölüm" ,Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E07 - 7. Bölüm
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/411000.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9LR15kAvoPHNXW9Ber5nrxmX9L.jpg" tvg-name="Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E08 - 8. Bölüm" ,Dengeler: Biri Olmak S01 Dengeler: Biri Olmak - S01E08 - 8. Bölüm
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/413873.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://cekicmedya.net/wp-content/uploads/2024/03/YEPYENI-BIR-KOMEDI-DIZISI-EVLILIK-MUESSESESI.jpg" tvg-name="Evlilik Muessesesi S01 Evlilik Muessesesi - S01E01" ,Evlilik Muessesesi S01 Evlilik Muessesesi - S01E01
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/403792.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://cekicmedya.net/wp-content/uploads/2024/03/YEPYENI-BIR-KOMEDI-DIZISI-EVLILIK-MUESSESESI.jpg" tvg-name="Evlilik Muessesesi S01 Evlilik Muessesesi - S01E02" ,Evlilik Muessesesi S01 Evlilik Muessesesi - S01E02
@@ -75,6 +154,8 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/405140.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/406889.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://i.ytimg.com/vi/mq5-vRaIHZ8/sddefault.jpg" tvg-name="Gör Beni S01 Gör Beni - S01E07 -" ,Gör Beni S01 Gör Beni - S01E07 -
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408140.mkv
+#EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://i.ytimg.com/vi/mq5-vRaIHZ8/sddefault.jpg" tvg-name="Gör Beni S01 Gör Beni - S01E08 -" ,Gör Beni S01 Gör Beni - S01E08 -
+http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/409206.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/nyoP4Vl6fXCx2nuZ9DqAG5KWXZM.jpg" tvg-name="Cüneyt Özdemir Belgeselleri 2 S01 Cüneyt Özdemir Belgeselleri 2 - S01E01 - Musi-Bet" ,Cüneyt Özdemir Belgeselleri 2 S01 Cüneyt Özdemir Belgeselleri 2 - S01E01 - Musi-Bet
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/389038.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w185/qLJ2mg5x7282wLiHXFiNTCK4m8B.jpg" tvg-name="Cüneyt Özdemir Belgeselleri 2 S01 Cüneyt Özdemir Belgeselleri 2 - S01E02 - İşgal: 5 Yıllık Kabus" ,Cüneyt Özdemir Belgeselleri 2 S01 Cüneyt Özdemir Belgeselleri 2 - S01E02 - İşgal: 5 Yıllık Kabus
@@ -2441,3 +2522,4 @@ http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/347202.mkv
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/347203.mkv
 #EXTINF:-1 group-title="TR | GAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/polyyoscwjAahQxaYYriNpgtD9b.jpg" tvg-name="Orta! Kafa! Aşk! S02 Orta! Kafa! Aşk! - S02E10 - 10. Bölüm" ,Orta! Kafa! Aşk! S02 Orta! Kafa! Aşk! - S02E10 - 10. Bölüm
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/347204.mkv
+
