@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTM3U
+
 #EXTINF:-1 group-title="TR | NETFLIX FILM (YERLI)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esnPk4LMdqSekHefEXPtaD1IQik.jpg" tvg-name="Kardeş Takımı (2024)" ,Kardeş Takımı (2024)
 http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/421588.mkv
 #EXTINF:-1 group-title="TR | NETFLIX FILM (YERLI)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnxayG4nfLR37AHmyyvDc0kD8hz.jpg" tvg-name="Lohusa (2024)" ,Lohusa (2024)
