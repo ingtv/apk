@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8448&extension=ts&play_token=zpoOneKpLh
+https://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8448&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8448&extension=ts&play_token=zpoOneKpLh
+https://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=8448&extension=m3u8
